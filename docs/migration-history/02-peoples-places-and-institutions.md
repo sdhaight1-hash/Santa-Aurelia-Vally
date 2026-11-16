@@ -63,3 +63,6 @@ Southbank (separate mill community), Duskwood (independent eastern forest-edge s
 Each new historical household should have: **who they were; home town/region; movement year or approximate interval; route/transport; reason; companions and kin; land/occupation; arrival destination; language/faith if relevant and not stereotyped; descendants or departure; documentary evidence; impact/conflicts; status label.**
 
 Avoid inventing entire family dynasties merely to fill every grid cell. A few deeply researched households do more worldbuilding than 100 shallow surnames.
+
+## Political-era implications for settlement history
+The [Long Transfer](../37-political-succession-1608-1859.md) now establishes **U.S. sovereignty succession in early 1821** over the old Spanish-origin port, with continuity of existing municipal and family networks. Venetian commercial migration c.1815–1855 therefore overlaps late Spanish, transitional and American-administered years. Connecticut/Virginia immigration into Willowwick's mining economy largely comes later. Newly American administration does **not** itself establish exact ethnic shares, erase Spanish or Indigenous populations, validate colonial title claims or settle the reservation's history.
