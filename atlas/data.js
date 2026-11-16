@@ -91,7 +91,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Ancient to present",
       "summary": "A woodland famous for the Fairy Stones, luminous groves, ancient legends, cryptid sightings, and wilderness disappearance lore.",
-      "body": "Its heart is [[fairy-stones|the Fairy Stones]] within [[silverveil|Silverveil Grove]], where giant Blacksilver Willows shelter ancient monuments and faintly glowing fungi.\n\nCenturies of stories include [[white-ones|the White Ones]], [[lantern-children|Lantern Children]], [[howler|the Blackwood Howler]], Bigfoot sightings, and modern Missing 411-style speculation. Those stories are cultural history, **not objective supernatural fact**.\n\nThe northwest portion extends into sovereign [[reservation|reservation lands]], while its southwest approaches connect to [[fernhollow|Fernhollow Country]].",
+      "body": "Its heart is [[fairy-stones|the Fairy Stones]] within [[silverveil|Silverveil Grove]], where giant Blacksilver Willows shelter ancient monuments and faintly glowing fungi.\n\nCenturies of stories include [[white-ones|the White Ones]], [[lantern-children|Lantern Children]], [[howler|the Blackwood Howler]], Bigfoot sightings, and modern Missing 411-style speculation. Those stories are cultural history, **not objective supernatural fact**.\n\nThe northwest portion extends into sovereign [[reservation|reservation lands]], while its southwest approaches connect to [[fernhollow|Fernhollow Country]].\n\nThe legends are preserved in early written form by [[saweli-historical-corpus|Sáweli/Inés]], an Indigenous historian who interviewed Blackwood-area people in the seventeenth century; the forest's folklore did not survive solely through later migrant legends.",
       "tags": [
         "forest",
         "folklore",
@@ -103,7 +103,8 @@ window.SANTA_AURELIA_SEED={
         "white-ones",
         "lantern-children",
         "howler",
-        "reservation"
+        "reservation",
+        "saweli-historical-corpus"
       ]
     },
     {
@@ -113,7 +114,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Precolonial",
       "summary": "Ancient standing-stone circle, also called the Giants' Ring, surrounded by silver-leaved willows, fog, vines, and faintly luminous fungi.",
-      "body": "The megalithic ring occupies the heart of [[silverveil|Silverveil Grove]]. The surrounding stoneways, smaller alignments, and mounds comprise the wider Blackwood Ridge complex.\n\nThe name **Fairy Stones** reflects later fairy folklore inspired by the extraordinary environment; **Giants' Ring** connects to legends of [[white-ones|the White Ones]]. The specific ancient builders, original Indigenous place name and construction dates remain unresolved.\n\nThe monument and its fragile botanical habitat require careful conservation and consultation with the community associated with the ancestral landscape.",
+      "body": "The megalithic ring occupies the heart of [[silverveil|Silverveil Grove]]. The surrounding stoneways, smaller alignments, and mounds comprise the wider Blackwood Ridge complex.\n\nThe name **Fairy Stones** reflects later fairy folklore inspired by the extraordinary environment; **Giants' Ring** connects to legends of [[white-ones|the White Ones]]. The specific ancient builders, original Indigenous place name and construction dates remain unresolved.\n\nThe monument and its fragile botanical habitat require careful conservation and consultation with the community associated with the ancestral landscape.\n\nSáweli's [[saweli-historical-corpus|early written testimony]] preserves accounts from people of Blackwood Ridge about the ancient stones, before the modern English label Fairy Stones existed.",
       "tags": [
         "standing stones",
         "archaeology",
@@ -122,7 +123,8 @@ window.SANTA_AURELIA_SEED={
       "links": [
         "silverveil",
         "blackwood",
-        "white-ones"
+        "white-ones",
+        "saweli-historical-corpus"
       ]
     },
     {
@@ -188,7 +190,7 @@ window.SANTA_AURELIA_SEED={
       "status": "legend",
       "era": "Precolonial oral traditions",
       "summary": "A complex group of Indigenous-origin legends concerning tall pale strangers, sometimes called giants, and linked to the ancient stoneways.",
-      "body": "Distinct local traditions describe the **White Ones** as tall strangers, ancestral figures, seaborne visitors or builders associated with ancient [[fairy-stones|stones]] and mound sites.\n\nSome Blackwood community accounts describe them as ancestors, while neighboring stories describe outsiders. Proposed ancient northern British-related genetic similarities are an unresolved **in-setting scholarly controversy**, not evidence that Druids or Picts built the monuments.\n\nLater Celtic antiquarians and modern paranormal commentators have heavily reinterpreted the traditions.",
+      "body": "Distinct local traditions describe the **White Ones** as tall strangers, ancestral figures, seaborne visitors or builders associated with ancient [[fairy-stones|stones]] and mound sites.\n\nSome Blackwood community accounts describe them as ancestors, while neighboring stories describe outsiders. Proposed ancient northern British-related genetic similarities are an unresolved **in-setting scholarly controversy**, not evidence that Druids or Picts built the monuments.\n\nLater Celtic antiquarians and modern paranormal commentators have heavily reinterpreted the traditions.\n\nImportant early written evidence comes from [[saweli-historical-corpus|Sáweli's surviving seventeenth-century interviews]] with people from distinct Indigenous communities. Those manuscripts establish that varied White Ones traditions circulated long before later Celtic theories; they do not prove a literal race of giants.",
       "tags": [
         "giants",
         "folklore",
@@ -196,7 +198,8 @@ window.SANTA_AURELIA_SEED={
       ],
       "links": [
         "fairy-stones",
-        "witchwood"
+        "witchwood",
+        "saweli-historical-corpus"
       ]
     },
     {
@@ -315,7 +318,7 @@ window.SANTA_AURELIA_SEED={
       "status": "working",
       "era": "c.1572–1641 proposed",
       "summary": "Wealthy gold-rich Spanish captain with an offshoot Habsburg royal lineage who founded Santa Aurelia in 1608 and fell profoundly in love with Inés.",
-      "body": "The captain finances [[santa-aurelia|Puerto de Santa Aurelia]] in 1608 as a strategic maritime supply/trade venture, seeking commercial success and enduring dynastic legacy.\n\nHis exact proposed invented ancestry is as an additional, privately acknowledged son of Don John of Austria, making him a grandson of Charles V. This is **deliberate alternate-history genealogy**; the precise branch remains provisional.\n\nHe develops deep love for the local Indigenous people and falls deeply, mutually in love with [[ines|Inés]], daughter of a local chief. Their marriage is not principally a political bargain; its consequences nevertheless profoundly influence the colony.\n\nHis original [[flagship|flagship]] survives in the port as a heritage attraction.",
+      "body": "The captain finances [[santa-aurelia|Puerto de Santa Aurelia]] in 1608 as a strategic maritime supply/trade venture, seeking commercial success and enduring dynastic legacy.\n\nHis exact proposed invented ancestry is as an additional, privately acknowledged son of Don John of Austria, making him a grandson of Charles V. This is **deliberate alternate-history genealogy**; the precise branch remains provisional.\n\nHe develops deep love for the local Indigenous people and falls deeply, mutually in love with [[ines|Inés]], daughter of a local chief. Their marriage is not principally a political bargain; its consequences nevertheless profoundly influence the colony.\n\nHis original [[flagship|flagship]] survives in the port as a heritage attraction.\n\nAlonso occasionally traveled to Spain with Sáweli; her personal [[saweli-spain-journals|Iberian travel journals]] describe those voyages from her perspective.",
       "tags": [
         "founder",
         "habsburg",
@@ -328,7 +331,8 @@ window.SANTA_AURELIA_SEED={
         "festival",
         "valcarcel-estate-library",
         "letters-two-shores",
-        "founding-artifacts"
+        "founding-artifacts",
+        "saweli-spain-journals"
       ]
     },
     {
@@ -338,7 +342,7 @@ window.SANTA_AURELIA_SEED={
       "status": "working",
       "era": "Marriage c.1611 proposed",
       "summary": "The adult daughter of an influential Indigenous harbor chief and beloved wife of Don Alonso; her original name and nation remain to be developed.",
-      "body": "Known provisionally as **Inés** in Spanish-language colonial records, she is remembered for extraordinary beauty, intelligence, agency, humor and profound reciprocal affection with [[alonso|Alonso]].\n\nShe comes from a prominent local Indigenous family, whose regional history and political standing precede the 1608 colonial settlement. Her marriage has important diplomatic effects, but **is driven by love**.\n\nDescendants of the couple remain across the valley in many households and surnames. Her original Indigenous name and the particular community's language must be developed carefully, not invented as a purported real historic term.",
+      "body": "Known provisionally as **Inés** in Spanish-language colonial records, she is remembered for extraordinary beauty, intelligence, agency, humor and profound reciprocal affection with [[alonso|Alonso]].\n\nShe comes from a prominent local Indigenous family, whose regional history and political standing precede the 1608 colonial settlement. Her marriage has important diplomatic effects, but **is driven by love**.\n\nDescendants of the couple remain across the valley in many households and surnames. Her original Indigenous name and the particular community's language must be developed carefully, not invented as a purported real historic term.\n\nSáweli became an important historian and oral-history interviewer, whose [[saweli-historical-corpus|surviving writings]] preserve perspectives of several Indigenous communities, including Blackwood testimony concerning the ancient stones and White Ones. She also accompanied Alonso on infrequent journeys to Spain and authored the [[saweli-spain-journals|Iberian travel journals]].",
       "tags": [
         "founder",
         "indigenous",
@@ -349,7 +353,9 @@ window.SANTA_AURELIA_SEED={
         "santa-aurelia",
         "festival",
         "letters-two-shores",
-        "saweli-notebooks"
+        "saweli-notebooks",
+        "saweli-historical-corpus",
+        "saweli-spain-journals"
       ]
     },
     {
@@ -662,7 +668,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "1608 to present",
       "summary": "Private archive of the principal Valcárcel family, continuously preserving the founding fleet's original logbooks and all four colonial family portraits.",
-      "body": "The **main Valcárcel family line** has kept the originals of the [[founding-logbook|1608 founding voyage logbook and passenger manifests]] together with all four celebrated colonial paintings in its private estate library through the centuries.\n\nThese include [[portrait-arrival|Alonso's arrival]], [[portrait-ines|the formal portrait of Inés]], [[portrait-wedding|their marriage portrait]], and [[portrait-family|their later eleven-person household painting]]. All are attributed within the setting to the founding-colony painter [[mateo-villacorta|Mateo de Villacorta (working name)]], a friend of [[alonso|Alonso]].\n\nThe estate remains a private institution. Historians may study family-authorized copies, transcripts, loans or supervised originals, but original ownership is not public museum ownership. The room and building may have changed during four centuries of family custody. Its formal estate name, exact grounds and custody chronology remain to be developed.\n\nThe library also preserves the [[letters-two-shores|founders' love letters]], [[saweli-notebooks|Sáweli/Inés's retrospective diary notebooks]], [[founder-journals|early settlers' personal journals]] and extensive [[founding-artifacts|material artifacts]]. Their detailed inventory and proposed excerpts are in `docs/18-estate-library-collection-catalogue.md`.",
+      "body": "The **main Valcárcel family line** has kept the originals of the [[founding-logbook|1608 founding voyage logbook and passenger manifests]] together with all four celebrated colonial paintings in its private estate library through the centuries.\n\nThese include [[portrait-arrival|Alonso's arrival]], [[portrait-ines|the formal portrait of Inés]], [[portrait-wedding|their marriage portrait]], and [[portrait-family|their later eleven-person household painting]]. All are attributed within the setting to the founding-colony painter [[mateo-villacorta|Mateo de Villacorta (working name)]], a friend of [[alonso|Alonso]].\n\nThe estate remains a private institution. Historians may study family-authorized copies, transcripts, loans or supervised originals, but original ownership is not public museum ownership. The room and building may have changed during four centuries of family custody. Its formal estate name, exact grounds and custody chronology remain to be developed.\n\nThe library also preserves the [[letters-two-shores|founders' love letters]], [[saweli-notebooks|Sáweli/Inés's retrospective diary notebooks]], [[founder-journals|early settlers' personal journals]] and extensive [[founding-artifacts|material artifacts]]. Their detailed inventory and proposed excerpts are in `docs/18-estate-library-collection-catalogue.md`.\n\nThe archive also retains the original [[saweli-historical-corpus|Sáweli Historical Corpus]] and her [[saweli-spain-journals|journals from journeys to Spain]], an extraordinary combination of Indigenous regional and comparative transatlantic historical writing.",
       "tags": [
         "family archive",
         "colonial",
@@ -682,7 +688,9 @@ window.SANTA_AURELIA_SEED={
         "letters-two-shores",
         "saweli-notebooks",
         "founder-journals",
-        "founding-artifacts"
+        "founding-artifacts",
+        "saweli-historical-corpus",
+        "saweli-spain-journals"
       ]
     },
     {
@@ -730,7 +738,7 @@ window.SANTA_AURELIA_SEED={
       "status": "working",
       "era": "c.1616–1636",
       "summary": "Inés's own later-life diary manuscripts, recounting her childhood and Ashalewan life before the 1608 founding expedition.",
-      "body": "The **Sáweli Notebooks** are among the most important surviving manuscripts held by the [[valcarcel-estate-library|private family archive]]. They include [[ines|Sáweli/Inés's]] first-person recollections of her Ashalewan family, life before meeting [[alonso|Alonso]], her siblings, ancestors, fishing seasons, river navigation, dispute resolution and community relationships.\n\n**The early-life passages are written retrospectively** after Sáweli learned alphabetic reading and writing as an adult following the 1608 expedition. They are not implausibly pre-contact written childhood diaries. Other notebook sections record the growing colonial household and nine children, including words in the invented Ashalewan language.\n\nThe catalog distinguishes her own hand, copied extracts, scribal additions and later translations. The notebooks are classed VA-DIA-001 to VA-DIA-004; see `docs/18-estate-library-collection-catalogue.md`.",
+      "body": "The **Sáweli Notebooks** are among the most important surviving manuscripts held by the [[valcarcel-estate-library|private family archive]]. They include [[ines|Sáweli/Inés's]] first-person recollections of her Ashalewan family, life before meeting [[alonso|Alonso]], her siblings, ancestors, fishing seasons, river navigation, dispute resolution and community relationships.\n\n**The early-life passages are written retrospectively** after Sáweli learned alphabetic reading and writing as an adult following the 1608 expedition. They are not implausibly pre-contact written childhood diaries. Other notebook sections record the growing colonial household and nine children, including words in the invented Ashalewan language.\n\nThe catalog distinguishes her own hand, copied extracts, scribal additions and later translations. The notebooks are classed VA-DIA-001 to VA-DIA-004; see `docs/18-estate-library-collection-catalogue.md`.\n\nThe memoir notebooks form one part of a much wider [[saweli-historical-corpus|historical corpus]] containing direct interviews with neighboring Indigenous peoples, as well as separate [[saweli-spain-journals|journals from visits to Spain]].",
       "tags": [
         "diary",
         "indigenous history",
@@ -739,7 +747,9 @@ window.SANTA_AURELIA_SEED={
       "links": [
         "ines",
         "alonso",
-        "valcarcel-estate-library"
+        "valcarcel-estate-library",
+        "saweli-historical-corpus",
+        "saweli-spain-journals"
       ]
     },
     {
@@ -779,6 +789,53 @@ window.SANTA_AURELIA_SEED={
         "alonso",
         "ines",
         "mateo-villacorta"
+      ]
+    },
+    {
+      "id": "saweli-historical-corpus",
+      "title": "The Sáweli Historical Corpus",
+      "category": "Document",
+      "status": "established",
+      "era": "c.1616–1640",
+      "summary": "Inés's extensive historical writings, including her retrospective Ashalewan memoirs and early direct interviews with Blackwood Ridge narrators about stones, the White Ones and woodland lights.",
+      "body": "**Sáweli (Doña Inés) became one of the valley's most important early historians**, recording her own Ashalewan childhood retrospectively and personally interviewing people from several different Indigenous nations.\n\nHer firsthand records preserve accounts of the [[fairy-stones|ancient stones]], [[stoneways|waystones]], [[white-ones|White Ones]], [[lantern-children|forest lights]] and other traditions told in the early seventeenth century, **before** later European migrant folklore added its interpretations. The manuscripts attest the existence of those stories, not the literal truth of magical beings or giants.\n\nShe distinguished eyewitness accounts, inherited tradition and contradictory versions, sometimes interviewing narrators through interpreters. Her original handwritten records—proposed VA-SAW-001 to VA-SAW-008—remain with the [[valcarcel-estate-library|Valcárcel family estate library]]. They are described in `docs/19-saweli-ines-historian-and-oral-histories.md`. Her comparative historical practice was enriched by [[saweli-spain-journals|journeys to Spain]].",
+      "tags": [
+        "history",
+        "indigenous testimony",
+        "manuscripts",
+        "seventeenth century",
+        "White Ones"
+      ],
+      "links": [
+        "ines",
+        "valcarcel-estate-library",
+        "fairy-stones",
+        "stoneways",
+        "white-ones",
+        "lantern-children",
+        "saweli-spain-journals"
+      ]
+    },
+    {
+      "id": "saweli-spain-journals",
+      "title": "Sáweli's Journals of Spain",
+      "category": "Document",
+      "status": "established",
+      "era": "Seventeenth century; visits c.1624–1625 and c.1635–1637 proposed",
+      "summary": "First-person journals written by Sáweli/Inés during occasional journeys to Spain accompanying Alonso, reflecting on European society through an Indigenous historian's perspective.",
+      "body": "**Sáweli (Doña Inés)** occasionally accompanied [[alonso|Alonso]] on journeys from [[santa-aurelia|Santa Aurelia]] to Spain and kept her own detailed travel notebooks.\n\nThe journeys required substantial sea passages and a crossing of New Spain, rather than short excursions. Proposed visits c.1624–1625 and c.1635–1637 are working itinerary dates to be reconciled with the nine children's births and care at home.\n\nThe journals describe Spanish ports and cities, households and markets, relatives, religion, women's lives, imperial bureaucracy, writing and historical claims, and her observations as an Indigenous woman able to compare distant cultures directly. They shaped her later [[saweli-historical-corpus|historical method]] and work on Blackwood stories.\n\nOriginal journals and letters are preserved with the [[valcarcel-estate-library|private Valcárcel family library]]. Detailed catalogue VA-SAW-009–014 and fictional excerpts: `docs/20-saweli-journals-of-spain.md`.",
+      "tags": [
+        "Spain",
+        "journals",
+        "travel",
+        "history",
+        "Sáweli"
+      ],
+      "links": [
+        "ines",
+        "alonso",
+        "saweli-historical-corpus",
+        "valcarcel-estate-library"
       ]
     }
   ],
