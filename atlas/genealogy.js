@@ -50,6 +50,12 @@ function migrate(d){
  }
 }
 migrate(A.data());
+// Add the newly established historical career without replacing user-customized biographies.
+const saweli=A.data().genealogy?.people?.find(p=>p.id==="person-ines");
+if(saweli&&!saweli.bio.includes("Historian of the Two Shores")){
+ saweli.bio+=" Historian of the Two Shores: she recorded Ashalewan childhood retrospectively, collected early Blackwood-area testimonies about stones and White Ones, and wrote extensive travel journals during journeys to Spain with Alonso.";
+ A.persist();
+}
 function people(){return g().people;}
 function portraits(){return g().portraits||[];}
 function rels(){return g().relations;}
