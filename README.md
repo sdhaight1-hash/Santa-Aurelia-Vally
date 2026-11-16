@@ -88,3 +88,6 @@ The privately held Valcárcel archives now include original love letters between
 - [The Wedding Coast: historic boardwalks and the valleywide wedding economy](docs/23-wedding-coast-economy-and-waterfront.md)
 
 **Architectural and cultural development:** Santa Aurelia's nineteenth-century Venetian-descended merchant dynasties built rival grand estate halls, creating a multi-venue festival and debutante social circuit anchored by the original Palacio de la Bahía. Its timber-and-dressed-stone waterfront promenades, palatial halls and gardens now support an extensive **destination wedding economy across the city, coast and valley**. This economy is active beyond festival season, and includes smaller and more affordable venues as well as grand estates. Hall and patron names remain working worldbuilding details; the social/architectural phenomena are established canon.
+
+- [Riverboat heritage: paddlewheel tourism on the Columbia](docs/24-paddlewheel-riverboats.md)
+- [Santa Aurelia's ocean cruise homeport and passenger terminal](docs/25-santa-aurelia-cruise-homeport.md)
