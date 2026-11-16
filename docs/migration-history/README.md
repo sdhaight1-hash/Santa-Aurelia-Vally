@@ -49,3 +49,6 @@ Migration changes labor, food, class, landholding, institutions, language, housi
 | c.1945–1970 | Postwar mobility, changing industry, interstate movement | All settlements | W |
 | 1970s–1990s | Back-to-land, Fernhollow, new conservation/specialized migration | Fernhollow/Blackwood | E ecovillage; W family details |
 | 1990s–2026 | Tourism, arts, trades, service and ecological networks, school and family migration | Both cities, towns and countryside | W contemporary migration mix |
+
+## Political succession now established
+The principal sovereignty gap has been resolved in the [Long Transfer political-history chapter](../37-political-succession-1608-1859.md): **early 1821** negotiated transfer of Spain's asserted sovereignty over the established city to U.S. administration, with limited charter/property continuity; **1846** Oregon Treaty boundary consolidation; **1848** territorial incorporation; and **1859** statehood. Tribal sovereignty, precise land titles, and details of the invented diplomatic annex remain unresolved. This supersedes older statements in this index describing the *overall transition* as undetermined.
