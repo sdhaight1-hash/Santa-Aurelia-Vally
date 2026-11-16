@@ -14,7 +14,7 @@ const esc=(value)=>String(value??"").replace(/[&<>"']/g,ch=>({"&":"&amp;","<":"&
 const normalize=s=>String(s||"").trim().toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
 const entries=()=>data.entries;
 function loadData(){
-  try{const x=JSON.parse(localStorage.getItem(STORAGE_KEY));if(isValid(x))return x;}catch(e){console.warn("Could not read local archive",e);}
+  try{const x=JSON.parse(localStorage.getItem(STORAGE_KEY));if(isValid(x)){const existing=new Set(x.entries.map(e=>e.id));for(const seedEntry of window.SANTA_AURELIA_SEED.entries){if(!existing.has(seedEntry.id))x.entries.push(structuredClone(seedEntry));}return x;}}catch(e){console.warn("Could not read local archive",e);}
   return structuredClone(window.SANTA_AURELIA_SEED);
 }
 function isValid(d){return !!(d&&d.version===1&&Array.isArray(d.entries)&&Array.isArray(d.timeline)&&d.entries.length<=5000&&d.entries.every(e=>e&&typeof e.id==="string"&&typeof e.title==="string"&&typeof e.body==="string"&&Array.isArray(e.links)&&Array.isArray(e.tags)));}
