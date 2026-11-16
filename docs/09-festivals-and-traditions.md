@@ -25,3 +25,6 @@ Canoeing and rowing on Alderwood Lake, hiking, birdwatching, mushroom gathering,
 
 ## Regional rivalries and civic values
 Santa Aurelia's proudly ancient port/flagship/ball versus Willowwick's grand garden city and sporting **Wisps**. They share trade, hospitals, skilled labor, conservation efforts and extensive families, but retain distinct institutions and prestigious local customs.
+
+## The 1638 gift: a hall built for Sáweli/Inés
+The **Casa de las Asambleas (working completion 1638)** was built on Alonso's orders **as a gift to his wife**, after she had fallen in love with lavish Spanish courtly gatherings on their visits to Spain. Sáweli shared in the hall's design and wished to establish a distinctive place for celebrations, music, public hospitality and dancing in Santa Aurelia. This romantic gesture became another founding story treasured by later generations. It **did not create the annual assembly**, which was already practiced in the colony; it gave the tradition a permanent, extraordinary home. The modern debutante ceremony and its association with the lovers' festival came later. See [hall history](21-casa-de-las-asambleas-love-gift.md).
