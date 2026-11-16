@@ -9,7 +9,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Present day",
       "summary": "A layered lower Columbia region of maritime cities, inland forests, ancient monuments, and communities shaped by more than four centuries of colonial history.",
-      "body": "The region encompasses [[santa-aurelia|Santa Aurelia]], [[willowwick|Willowwick Grove]], [[blackwood|Blackwood Ridge]], and surrounding watersheds, rural hamlets, lakes and tribal lands.\n\nIts Spanish regional name derives from the old port, but its Indigenous histories reach back millennia. The region is not one municipality, one valley basin, or one uniform culture.\n\nSanta Aurelia and Willowwick Grove are near-peer cities. The northwest portion of Witches' Wood includes reservation land, while southwest Blackwood transitions into Fernhollow Country.\n\nThe coast and inland communities sustain a substantial [[wedding-coast|wedding industry]] built around Santa Aurelia's palaces, gardens, historic inns, [[harbor-boardwalks|waterfront promenades]] and distinctive regional architecture.\n\nThe tourism economy also includes [[paddlewheel-riverboats|heritage paddlewheel cruises]] and Santa Aurelia's [[cruise-homeport|ocean cruise homeport]].\n\nA major [[coast-guard-base|U.S. Coast Guard maritime installation]] is situated outside Santa Aurelia.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\nBoth [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]] are broadly affluent. Some smaller, separate [[outlying-townships|townships]] in the surrounding mining, timber and floodplain valleys face greater economic hardship; they are not districts within either city.\n\n[[southbank|Southbank]] is an independent lower-income former river-mill township in the wider valley, separate from both prosperous cities.\n\nSchool athletics and the rivalries among the [[wisps|Willowwick Wisps]], [[santa-aurelia-captains|Santa Aurelia Captains]] and [[southbank-wolves|Southbank Wolves]] are defining regional traditions.\n\n**Geography master-plan v1:** Approx. 1,800 sq mi (4,660 km²) target; irregular roughly 70-mile east–west and 45-mile north–south cultural region; multiple watersheds, not a single valley. Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.",
+      "body": "The region encompasses [[santa-aurelia|Santa Aurelia]], [[willowwick|Willowwick Grove]], [[blackwood|Blackwood Ridge]], and surrounding watersheds, rural hamlets, lakes and tribal lands.\n\nIts Spanish regional name derives from the old port, but its Indigenous histories reach back millennia. The region is not one municipality, one valley basin, or one uniform culture.\n\nSanta Aurelia and Willowwick Grove are near-peer cities. The northwest portion of Witches' Wood includes reservation land, while southwest Blackwood transitions into Fernhollow Country.\n\nThe coast and inland communities sustain a substantial [[wedding-coast|wedding industry]] built around Santa Aurelia's palaces, gardens, historic inns, [[harbor-boardwalks|waterfront promenades]] and distinctive regional architecture.\n\nThe tourism economy also includes [[paddlewheel-riverboats|heritage paddlewheel cruises]] and Santa Aurelia's [[cruise-homeport|ocean cruise homeport]].\n\nA major [[coast-guard-base|U.S. Coast Guard maritime installation]] is situated outside Santa Aurelia.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\nBoth [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]] are broadly affluent. Some smaller, separate [[outlying-townships|townships]] in the surrounding mining, timber and floodplain valleys face greater economic hardship; they are not districts within either city.\n\n[[southbank|Southbank]] is an independent lower-income former river-mill township in the wider valley, separate from both prosperous cities.\n\nSchool athletics and the rivalries among the [[wisps|Willowwick Wisps]], [[santa-aurelia-captains|Santa Aurelia Captains]] and [[southbank-wolves|Southbank Wolves]] are defining regional traditions.\n\n**Geography master-plan v1:** Approx. 1,800 sq mi (4,660 km²) target; irregular roughly 70-mile east–west and 45-mile north–south cultural region; multiple watersheds, not a single valley. Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\n**Natural-history design:** the region retains Oregon Coast Range rainforest, multiple river basins and estuary but also has local [[moor-ridges|Highland-like exposed ridges]], [[black-steps|basalt-column coast]], [[high-gorge|a major upper gorge]], and [[blackwood-ravines|smaller forest ravines]]. See [[natural-history|natural history]].",
       "tags": [
         "geography",
         "overview",
@@ -27,7 +27,12 @@ window.SANTA_AURELIA_SEED={
         "outlying-townships",
         "southbank",
         "valley-highschool-rivalries",
-        "geographic-master-plan"
+        "geographic-master-plan",
+        "natural-history",
+        "black-steps",
+        "high-gorge",
+        "blackwood-ravines",
+        "moor-ridges"
       ]
     },
     {
@@ -37,7 +42,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Founded 1608",
       "summary": "The Jewel of the Pacific: a Spanish–Indigenous and Venetian-influenced port city at the site of present-day Astoria, Oregon.",
-      "body": "The first permanent European-founded settlement in the region was established here in **1608** by [[alonso|Don Alonso de Valcárcel y Austria]]. The harbor already supported Indigenous communities, trade, and maritime knowledge.\n\nThe city occupies the present-day Astoria site on the Columbia estuary. It rebuilt after the 1700 earthquake and remains a living commercial port rather than a museum district.\n\nNineteenth-century Venetian migration added merchant wealth, decorated stone arcades, glasswork, and waterfront palazzi to a much older Spanish–Indigenous building tradition.\n\nIts famous [[festival|Festival of the Two Hearts]], [[palacio|Palacio de la Bahía]], and [[flagship|preserved flagship]] attract regional visitors. Working population is approximately 19,000.\n\nThe city's monumental [[season-of-halls|ballroom circuit]] and breathtaking [[harbor-boardwalks|timber-and-stone harbor promenades]] make it the heart of the [[wedding-coast|valley's destination wedding economy]], attracting ceremonies and celebrations throughout the year.\n\nSanta Aurelia is also an **ocean-going [[cruise-homeport|cruise departure homeport]]**, with a dedicated [[ocean-passenger-terminal|passenger terminal]], and hosts a thriving [[paddlewheel-riverboats|heritage paddlewheel excursion industry]]. These complement its wedding venues and magnificent waterfront.\n\nA substantial [[coast-guard-base|Coast Guard base]] sits near, but outside, the city, supporting rescue aviation, boats and maritime safety around the Columbia Bar.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\n**Updated socioeconomic canon:** Santa Aurelia is generally affluent and well-kept, like Willowwick. Ordinary wage-earners, renters and households facing high costs remain part of the city, but it does not have a large named impoverished quarter. More economically challenged former industry communities are [[outlying-townships|separate valley townships]].\n\nThe [[santa-aurelia-captains|Santa Aurelia High School Captains]] are rivals of the [[wisps|Willowwick Wisps]] and [[southbank-wolves|Southbank Wolves]].\n\nThe city's or township's six-time champion [[santa-aurelia-captains|Captains]] are part of the [[valley-highschool-rivalries|Valley Three]], a trio of Oregon high school football dynasties renowned far beyond the valley.\n\n**Geography master-plan v1:** 46.1880° N, 123.8313° W (Astoria real-site anchor). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.",
+      "body": "The first permanent European-founded settlement in the region was established here in **1608** by [[alonso|Don Alonso de Valcárcel y Austria]]. The harbor already supported Indigenous communities, trade, and maritime knowledge.\n\nThe city occupies the present-day Astoria site on the Columbia estuary. It rebuilt after the 1700 earthquake and remains a living commercial port rather than a museum district.\n\nNineteenth-century Venetian migration added merchant wealth, decorated stone arcades, glasswork, and waterfront palazzi to a much older Spanish–Indigenous building tradition.\n\nIts famous [[festival|Festival of the Two Hearts]], [[palacio|Palacio de la Bahía]], and [[flagship|preserved flagship]] attract regional visitors. Working population is approximately 19,000.\n\nThe city's monumental [[season-of-halls|ballroom circuit]] and breathtaking [[harbor-boardwalks|timber-and-stone harbor promenades]] make it the heart of the [[wedding-coast|valley's destination wedding economy]], attracting ceremonies and celebrations throughout the year.\n\nSanta Aurelia is also an **ocean-going [[cruise-homeport|cruise departure homeport]]**, with a dedicated [[ocean-passenger-terminal|passenger terminal]], and hosts a thriving [[paddlewheel-riverboats|heritage paddlewheel excursion industry]]. These complement its wedding venues and magnificent waterfront.\n\nA substantial [[coast-guard-base|Coast Guard base]] sits near, but outside, the city, supporting rescue aviation, boats and maritime safety around the Columbia Bar.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\n**Updated socioeconomic canon:** Santa Aurelia is generally affluent and well-kept, like Willowwick. Ordinary wage-earners, renters and households facing high costs remain part of the city, but it does not have a large named impoverished quarter. More economically challenged former industry communities are [[outlying-townships|separate valley townships]].\n\nThe [[santa-aurelia-captains|Santa Aurelia High School Captains]] are rivals of the [[wisps|Willowwick Wisps]] and [[southbank-wolves|Southbank Wolves]].\n\nThe city's or township's six-time champion [[santa-aurelia-captains|Captains]] are part of the [[valley-highschool-rivalries|Valley Three]], a trio of Oregon high school football dynasties renowned far beyond the valley.\n\n**Geography master-plan v1:** 46.1880° N, 123.8313° W (Astoria real-site anchor). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nThe city's wider coastal tourism draws on the proposed [[black-steps|Black Steps]] volcanic shore and [[natural-history|the region's distinctive geology]], beyond its historic harbor and wedding halls.",
       "tags": [
         "city",
         "coast",
@@ -62,7 +67,9 @@ window.SANTA_AURELIA_SEED={
         "santa-aurelia-captains",
         "southbank-wolves",
         "valley-highschool-rivalries",
-        "geographic-master-plan"
+        "geographic-master-plan",
+        "black-steps",
+        "natural-history"
       ]
     },
     {
@@ -72,7 +79,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Incorporated 1878 (working)",
       "summary": "The Garden City of the Lower Columbia, an inland gold-mining settlement transformed by timber, Victorian architecture, and exceptional horticulture.",
-      "body": "Willowwick began with gold mining in a mineralized portion of the [[craton|Aurelia cratonic fragment]]. Copper and building-stone quarrying added to the district's economy, while timber later became dominant.\n\nConnecticut and Virginia families introduced industrial finance, civic patronage and old-money rivalries here, **rather than in Santa Aurelia**.\n\nThe city is celebrated for [[commons|Willowwick Commons]], the Cherry Blossom Promenade, Gothic Revival institutions, the Grand Willowwick Library and Theatre, Lantern Quay, and the [[wisps|Willowwick Wisps]].\n\nIts proposed population is about 21,000. The precise location of the city within the watershed is still to be surveyed.\n\n**Updated socioeconomic canon:** Willowwick Grove is a generally affluent, beautiful and well-maintained garden city, with no defined poor district. The historic **Millwright Quarter**, once associated with millworkers, has become a restored and desirable but more modest residential neighborhood, not an impoverished trailer district. Economically struggling former industrial settlements exist as [[outlying-townships|separate valley townships]] outside the city's limits. Workers and renters of varied incomes nevertheless live within Willowwick.\n\nThe distinct former mill township of [[southbank|Southbank]] lies outside Willowwick's city boundaries and is generally less affluent; it is not part of Willowwick proper.\n\nHigh school sports are important local culture; the [[wisps|Willowwick Wisps]] maintain rivalries with the [[santa-aurelia-captains|Captains]] and [[southbank-wolves|Wolves]].\n\nThe city's or township's six-time champion [[wisps|Wisps]] are part of the [[valley-highschool-rivalries|Valley Three]], a trio of Oregon high school football dynasties renowned far beyond the valley.\n\n**Geography master-plan v1:** 46.0100° N, 123.6650° W (proposed mapped upper Youngs River corridor; distance targets to Santa Aurelia 22–30 road miles). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.",
+      "body": "Willowwick began with gold mining in a mineralized portion of the [[craton|Aurelia cratonic fragment]]. Copper and building-stone quarrying added to the district's economy, while timber later became dominant.\n\nConnecticut and Virginia families introduced industrial finance, civic patronage and old-money rivalries here, **rather than in Santa Aurelia**.\n\nThe city is celebrated for [[commons|Willowwick Commons]], the Cherry Blossom Promenade, Gothic Revival institutions, the Grand Willowwick Library and Theatre, Lantern Quay, and the [[wisps|Willowwick Wisps]].\n\nIts proposed population is about 21,000. The precise location of the city within the watershed is still to be surveyed.\n\n**Updated socioeconomic canon:** Willowwick Grove is a generally affluent, beautiful and well-maintained garden city, with no defined poor district. The historic **Millwright Quarter**, once associated with millworkers, has become a restored and desirable but more modest residential neighborhood, not an impoverished trailer district. Economically struggling former industrial settlements exist as [[outlying-townships|separate valley townships]] outside the city's limits. Workers and renters of varied incomes nevertheless live within Willowwick.\n\nThe distinct former mill township of [[southbank|Southbank]] lies outside Willowwick's city boundaries and is generally less affluent; it is not part of Willowwick proper.\n\nHigh school sports are important local culture; the [[wisps|Willowwick Wisps]] maintain rivalries with the [[santa-aurelia-captains|Captains]] and [[southbank-wolves|Wolves]].\n\nThe city's or township's six-time champion [[wisps|Wisps]] are part of the [[valley-highschool-rivalries|Valley Three]], a trio of Oregon high school football dynasties renowned far beyond the valley.\n\n**Geography master-plan v1:** 46.0100° N, 123.6650° W (proposed mapped upper Youngs River corridor; distance targets to Santa Aurelia 22–30 road miles). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nThe proposed upper [[high-gorge|Aurelia High Gorge]] lies farther inland than the city, with roads and waterways requiring elevation-based planning. See [[natural-history|the regional natural history]].",
       "tags": [
         "city",
         "mining",
@@ -89,7 +96,9 @@ window.SANTA_AURELIA_SEED={
         "santa-aurelia-captains",
         "southbank-wolves",
         "valley-highschool-rivalries",
-        "geographic-master-plan"
+        "geographic-master-plan",
+        "high-gorge",
+        "natural-history"
       ]
     },
     {
@@ -99,7 +108,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Ancient to present",
       "summary": "A rugged, forested district of ancient stoneways, immigrant mountain communities, Indigenous lands, unusual flora, and rural self-reliance.",
-      "body": "The district contains [[witchwood|Witches' Wood]] and its prehistoric monumental landscape. The tribal [[reservation|reservation]] includes some of the northwestern forest; [[fernhollow|Fernhollow Country]] lies southwest.\n\nIrish, Scottish, Romanian, Transylvanian and Slavic households built communities around the forest. Some describe an unexplained sense of kinship to its rugged, foggy landscape.\n\nThe rest of Blackwood Ridge includes working forests, old mines, agricultural valleys, village churches, preparedness homesteads, hiking trails and remote archaeological sanctuaries.\n\n**Geography master-plan v1:** 45.9050° N, 123.6650° W (proposed upland reference center south of Willowwick). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.",
+      "body": "The district contains [[witchwood|Witches' Wood]] and its prehistoric monumental landscape. The tribal [[reservation|reservation]] includes some of the northwestern forest; [[fernhollow|Fernhollow Country]] lies southwest.\n\nIrish, Scottish, Romanian, Transylvanian and Slavic households built communities around the forest. Some describe an unexplained sense of kinship to its rugged, foggy landscape.\n\nThe rest of Blackwood Ridge includes working forests, old mines, agricultural valleys, village churches, preparedness homesteads, hiking trails and remote archaeological sanctuaries.\n\n**Geography master-plan v1:** 45.9050° N, 123.6650° W (proposed upland reference center south of Willowwick). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nBlackwood's uplands contain proposed [[blackwood-ravines|shaded tributary ravines]] and some exposed [[moor-ridges|moorlike native heath/meadow ridges]], while the inner [[witchwood|Witches' Wood]] remains a densely forested protected ancient district.",
       "tags": [
         "forest",
         "mountains",
@@ -109,7 +118,10 @@ window.SANTA_AURELIA_SEED={
         "witchwood",
         "reservation",
         "fernhollow",
-        "geographic-master-plan"
+        "geographic-master-plan",
+        "blackwood-ravines",
+        "moor-ridges",
+        "natural-history"
       ]
     },
     {
@@ -523,7 +535,7 @@ window.SANTA_AURELIA_SEED={
       "status": "working",
       "era": "Historic timber resort era onward",
       "summary": "A lake and woodland recreation district with canoeing, camping and the old timber-era Alderwood Lodge.",
-      "body": "The lake district combines forest recreation, cabins, historic resort hospitality, angling, family visits and outdoor trails. The lake's geological formation, exact position and connections to Willowwick and Blackwood Ridge remain undecided.\n\n**Geography master-plan v1:** 45.9700° N, 123.5250° W (proposed fictional basin center east of Willowwick; requires hydrologic/geologic validation). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.",
+      "body": "The lake district combines forest recreation, cabins, historic resort hospitality, angling, family visits and outdoor trails. The lake's geological formation, exact position and connections to Willowwick and Blackwood Ridge remain undecided.\n\n**Geography master-plan v1:** 45.9700° N, 123.5250° W (proposed fictional basin center east of Willowwick; requires hydrologic/geologic validation). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nThe lake should resemble a dark forested Oregon loch, but the structural/landslide-basin hypothesis, water balance and outlet must be reconciled with real terrain before the mapped basin becomes fixed. See [[natural-history|natural history]].",
       "tags": [
         "lake",
         "leisure",
@@ -531,7 +543,8 @@ window.SANTA_AURELIA_SEED={
       ],
       "links": [
         "valle",
-        "geographic-master-plan"
+        "geographic-master-plan",
+        "natural-history"
       ]
     },
     {
@@ -1265,7 +1278,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Geographic planning v1 (2026)",
       "summary": "A multi-watershed 1,800-square-mile study region around the Columbia estuary, with proposed coordinates for all major cities, sacred forests, coastal communities and port infrastructure.",
-      "body": "The historic **[[valle|Valle de Santa Aurelia]]** is a **roughly 1,800-square-mile** multi-watershed cultural region spanning the Columbia estuary, northern Pacific coast, Youngs River corridor, foothills and Coast Range uplands. The study polygon has **approximately 1,863 sq mi** under a local planar approximation, with approximately **70-mile east–west by 45-mile north–south** maximum extents; those are **planning envelopes, not surveyed limits**.\n\n**[[santa-aurelia|Santa Aurelia]]** (46.1880, -123.8313) uses Astoria's geographic site. **[[willowwick|Willowwick Grove]]** (46.0100, -123.6650) is placed in the modified upper Youngs River corridor. **[[southbank|Southbank]]** (46.0650, -123.7380) is a separate middle-valley township. The [[blackwood|Blackwood Ridge]] and [[witchwood|Witches' Wood]] are farther south, with [[reservation|sovereign tribal territory]] on their northwestern side and [[fernhollow|Fernhollow]] to the southwest; [[alderwood|Alderwood Lake]] lies in an eastern upland basin.\n\nPorts, outer coast, cruise terminal and [[coast-guard-base|joint Navy–Coast Guard base]] have separate proposed reference points. Real watersheds and river navigability must be respected; the cratonic geology and Alderwood Lake are fictional modifications needing terrain work. Full proposed coordinates, distances and design assumptions: `docs/29-geographic-master-plan.md`; machine-readable polygon and 20 points: `atlas/geography.geojson`.",
+      "body": "The historic **[[valle|Valle de Santa Aurelia]]** is a **roughly 1,800-square-mile** multi-watershed cultural region spanning the Columbia estuary, northern Pacific coast, Youngs River corridor, foothills and Coast Range uplands. The study polygon has **approximately 1,863 sq mi** under a local planar approximation, with approximately **70-mile east–west by 45-mile north–south** maximum extents; those are **planning envelopes, not surveyed limits**.\n\n**[[santa-aurelia|Santa Aurelia]]** (46.1880, -123.8313) uses Astoria's geographic site. **[[willowwick|Willowwick Grove]]** (46.0100, -123.6650) is placed in the modified upper Youngs River corridor. **[[southbank|Southbank]]** (46.0650, -123.7380) is a separate middle-valley township. The [[blackwood|Blackwood Ridge]] and [[witchwood|Witches' Wood]] are farther south, with [[reservation|sovereign tribal territory]] on their northwestern side and [[fernhollow|Fernhollow]] to the southwest; [[alderwood|Alderwood Lake]] lies in an eastern upland basin.\n\nPorts, outer coast, cruise terminal and [[coast-guard-base|joint Navy–Coast Guard base]] have separate proposed reference points. Real watersheds and river navigability must be respected; the cratonic geology and Alderwood Lake are fictional modifications needing terrain work. Full proposed coordinates, distances and design assumptions: `docs/29-geographic-master-plan.md`; machine-readable polygon and 20 points: `atlas/geography.geojson`.\n\nFour proposed natural-history coordinates now supplement the geo-registry: [[black-steps|Black Steps]] (45.950, -123.980), [[high-gorge|High Gorge]] (45.970, -123.590), [[blackwood-ravines|Blackwood Ravines]] (45.918, -123.655), and [[moor-ridges|Open Moor Ridges]] (45.910, -123.704). All require geology, rivers, elevation and ecological verification.",
       "tags": [
         "maps",
         "watersheds",
@@ -1283,7 +1296,124 @@ window.SANTA_AURELIA_SEED={
         "reservation",
         "fernhollow",
         "alderwood",
-        "coast-guard-base"
+        "coast-guard-base",
+        "natural-history",
+        "black-steps",
+        "high-gorge",
+        "blackwood-ravines",
+        "moor-ridges"
+      ]
+    },
+    {
+      "id": "natural-history",
+      "title": "Natural History of Valle de Santa Aurelia",
+      "category": "Region",
+      "status": "established",
+      "era": "Geologic time to present",
+      "summary": "North-coastal Oregon landscape enriched by patchy Highland-like ridges, a polygonal basalt shore, a major inland gorge and shaded ravines.",
+      "body": "The [[valle|Valle de Santa Aurelia]] combines Oregon Coast Range temperate rainforest, estuary, rivers, wetlands and volcanic headlands with **localized windswept highland-like glens and grassy/heath-covered ridges**. The region also includes a dramatic [[black-steps|columnar basalt Pacific shore]], a great [[high-gorge|upper-valley river gorge]] and smaller [[blackwood-ravines|Blackwood ravines]]. The shape resembles elements of the Scottish Highlands, Giant’s Causeway and Columbia Gorge but stays geologically and ecologically Oregonian.\n\nThe [[alderwood|Alderwood Lake]] basin, [[craton|fictional ancient basement fragment]], upper river gradients and protected [[witchwood|Witches' Wood]] require careful science-based mapping. See `docs/30-natural-history-geology-climate-ecology.md` and `atlas/geography.geojson`. Exact landscape names and coordinates are proposed, not final surveyed topography.",
+      "tags": [
+        "geology",
+        "ecology",
+        "climate",
+        "hydrology",
+        "Highland scenery"
+      ],
+      "links": [
+        "valle",
+        "black-steps",
+        "high-gorge",
+        "blackwood-ravines",
+        "moor-ridges",
+        "alderwood",
+        "craton",
+        "witchwood",
+        "geographic-master-plan"
+      ]
+    },
+    {
+      "id": "black-steps",
+      "title": "The Black Steps — Basalt Column Shore",
+      "category": "Landmark",
+      "status": "working",
+      "era": "Natural geological landmark",
+      "summary": "A proposed Giant’s Causeway-like Oregon coast beach of exposed polygonal basalt columns, storm surf and grassy volcanic cliffs.",
+      "body": "A breathtaking **fictional natural rocky shoreline** on the Pacific-facing southern coast, proposed at **45.950° N, 123.980° W**. Polygonal cooling joints in a thick basaltic body produce interlocking dark column tops, broken prisms, cliff outcrops and tidepools. Waves and uplift reveal the structure; no artificial ancient roadway is needed. Mist, crashing surf, sea birds, salt marsh flora and windswept grassy cliff tops make the headland unmistakable.\n\nThe feature is inspired visually by Giant’s Causeway in Northern Ireland but has its own Oregon volcanic setting. The name and coordinate are proposals. The rock is extremely hazardous in surf, wet conditions and high tides, and protected shore ecology requires controlled access. Regional legends may connect it to the [[white-ones|White Ones]], but those are not geological evidence. See [[natural-history|Natural History]] and `docs/30-natural-history-geology-climate-ecology.md`.",
+      "tags": [
+        "basalt",
+        "coast",
+        "columns",
+        "geology",
+        "tidepools"
+      ],
+      "links": [
+        "natural-history",
+        "valle",
+        "white-ones",
+        "geographic-master-plan"
+      ]
+    },
+    {
+      "id": "high-gorge",
+      "title": "Aurelia High Gorge",
+      "category": "Landmark",
+      "status": "working",
+      "era": "Natural geological landmark",
+      "summary": "Proposed grand upper-valley river gorge with layered basalt cliffs, waterfalls, rapids and winding scenic overlooks.",
+      "body": "A major **proposed upper-valley gorge**, mapped provisionally at **45.970° N, 123.590° W**, east/southeast of [[willowwick|Willowwick Grove]]. The proposed scenic canyon corridor is 8–15 miles long with dramatic rock walls, some 300–900-foot rim-to-river relief where terrain permits, hanging tributary falls and wild rapids. A credible history would involve uplift, resistant volcanic rock, long-term river incision, landslides and differential erosion—not copying the exact Columbia Gorge ice-age story.\n\n**The gorge's drainage direction and relief are not verified**; landforms need elevation-model analysis before detailed roads, bridges or boating routes become fixed. Gorge rafting is different from calm-water [[paddlewheel-riverboats|paddleboat]] navigation. See [[natural-history|Natural History]].",
+      "tags": [
+        "gorge",
+        "cliffs",
+        "waterfalls",
+        "river"
+      ],
+      "links": [
+        "natural-history",
+        "willowwick",
+        "paddlewheel-riverboats",
+        "geographic-master-plan"
+      ]
+    },
+    {
+      "id": "blackwood-ravines",
+      "title": "Blackwood Ravines",
+      "category": "Landmark",
+      "status": "working",
+      "era": "Natural geological landmark",
+      "summary": "Deep shaded creek ravines and waterfalls among the Blackwood Ridge forest, separate from the great upper-valley gorge.",
+      "body": "Proposed smaller creek gorges on [[blackwood|Blackwood Ridge]] near **45.918° N, 123.655° W**. Fern-heavy shaded cuts, mossy basalt and other rock walls, springs, plunging creeks and narrow bridges at settled margins evoke dark secluded Oregon canyon country. Storm runoff and unstable rock require caution.\n\nThe protected interior of [[witchwood|Witches' Wood]], the [[fairy-stones|Fairy Stones]] and [[reservation|tribal lands]] are not presumed to be publicly accessible. See [[natural-history|regional natural history]].",
+      "tags": [
+        "ravines",
+        "forest",
+        "streams",
+        "waterfalls"
+      ],
+      "links": [
+        "natural-history",
+        "blackwood",
+        "witchwood",
+        "fairy-stones",
+        "reservation"
+      ]
+    },
+    {
+      "id": "moor-ridges",
+      "title": "Open Moor Ridges",
+      "category": "Region",
+      "status": "working",
+      "era": "Natural ecological district",
+      "summary": "Wind-swept highland-like open ridges, native grass-heath, rocky ledges and bog hollows amid otherwise forested Oregon mountains.",
+      "body": "Localized elevated open terrain proposed near **45.910° N, 123.704° W**, outside the central ancient forest, supplies a **Scottish Highlands-like mood** in Oregon. Native meadow grass, sedge, coastal heath, shrubs, mossy rock, wet hollows, mist and wind-shaped isolated trees appear in patches where soils are thin, exposure strong or wetlands persist. This is **not an imported Scottish heather moor** or a wholesale replacement of native Oregon Coast Range rainforest.\n\nThe [[blackwood|Blackwood Ridge]] landscape still includes extensive dense evergreen forest, notably [[witchwood|Witches' Wood]]. See [[natural-history|Natural History]].",
+      "tags": [
+        "highland",
+        "moorlike",
+        "native ecology",
+        "wind"
+      ],
+      "links": [
+        "natural-history",
+        "blackwood",
+        "witchwood"
       ]
     }
   ],
