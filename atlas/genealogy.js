@@ -74,6 +74,8 @@ function connectedCount(){return rels().length;}
 function selectedPerson(){return byId(focus)||people()[0]||null;}
 function render(){
  migrate(A.data());
+ const requested=decodeURIComponent(location.hash.split("/").slice(2).join("/"));
+ if(requested&&byId(requested))focus=requested;
  const p=selectedPerson();if(p)focus=p.id;
  const matching=people().filter(p=>[p.name,p.born,p.died,p.bio].join(" ").toLowerCase().includes(search.toLowerCase()));
  A.setCrumb("Genealogy");
@@ -158,7 +160,7 @@ function init(){
  document.addEventListener("keydown",e=>{if(e.key==="Escape")close();});
  document.addEventListener("click",e=>{
   if(A.currentView()!=="genealogy")return;
-  const el=e.target.closest("[data-person]");if(el){focus=el.dataset.person;render();return;}
+  const el=e.target.closest("[data-person]");if(el){focus=el.dataset.person;const target="#/genealogy/"+encodeURIComponent(focus);if(location.hash===target)render();else location.hash=target;return;}
   const tab=e.target.closest("[data-gen-view]");if(tab){mode=tab.dataset.genView;render();return;}
   const button=e.target.closest("[data-gen-action]");if(!button)return;
   const p=selectedPerson();
@@ -174,5 +176,5 @@ function init(){
 }
 init();
 A.registerView("genealogy",render);
-window.SantaGenealogy={migrate,validateRel,parents,children,partners,render};
+window.SantaGenealogy={migrate,validateRel,parents,children,partners,render,open:(id)=>{if(byId(id))location.hash="#/genealogy/"+encodeURIComponent(id);}};
 })();
