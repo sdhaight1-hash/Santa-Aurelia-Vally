@@ -107,3 +107,5 @@ The privately held Valcárcel archives now include original love letters between
 - [Blackwood Echojay — native mimic bird of Witches' Wood](docs/32-blackwood-echojay.md)
 
 - [Fernhollow Ecovillage — Witches' Wood ecological research and food-forest planning](docs/33-fernhollow-food-forest-ecology.md)
+
+- [Blacksilver Willow Woodcraft — ebony heartwood, bowyers, furniture and architecture](docs/34-blacksilver-willow-woodcraft.md)
