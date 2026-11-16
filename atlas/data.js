@@ -9,7 +9,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Present day",
       "summary": "A layered lower Columbia region of maritime cities, inland forests, ancient monuments, and communities shaped by more than four centuries of colonial history.",
-      "body": "The region encompasses [[santa-aurelia|Santa Aurelia]], [[willowwick|Willowwick Grove]], [[blackwood|Blackwood Ridge]], and surrounding watersheds, rural hamlets, lakes and tribal lands.\n\nIts Spanish regional name derives from the old port, but its Indigenous histories reach back millennia. The region is not one municipality, one valley basin, or one uniform culture.\n\nSanta Aurelia and Willowwick Grove are near-peer cities. The northwest portion of Witches' Wood includes reservation land, while southwest Blackwood transitions into Fernhollow Country.",
+      "body": "The region encompasses [[santa-aurelia|Santa Aurelia]], [[willowwick|Willowwick Grove]], [[blackwood|Blackwood Ridge]], and surrounding watersheds, rural hamlets, lakes and tribal lands.\n\nIts Spanish regional name derives from the old port, but its Indigenous histories reach back millennia. The region is not one municipality, one valley basin, or one uniform culture.\n\nSanta Aurelia and Willowwick Grove are near-peer cities. The northwest portion of Witches' Wood includes reservation land, while southwest Blackwood transitions into Fernhollow Country.\n\nThe coast and inland communities sustain a substantial [[wedding-coast|wedding industry]] built around Santa Aurelia's palaces, gardens, historic inns, [[harbor-boardwalks|waterfront promenades]] and distinctive regional architecture.",
       "tags": [
         "geography",
         "overview",
@@ -18,7 +18,9 @@ window.SANTA_AURELIA_SEED={
       "links": [
         "santa-aurelia",
         "willowwick",
-        "blackwood"
+        "blackwood",
+        "wedding-coast",
+        "harbor-boardwalks"
       ]
     },
     {
@@ -28,7 +30,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Founded 1608",
       "summary": "The Jewel of the Pacific: a Spanish–Indigenous and Venetian-influenced port city at the site of present-day Astoria, Oregon.",
-      "body": "The first permanent European-founded settlement in the region was established here in **1608** by [[alonso|Don Alonso de Valcárcel y Austria]]. The harbor already supported Indigenous communities, trade, and maritime knowledge.\n\nThe city occupies the present-day Astoria site on the Columbia estuary. It rebuilt after the 1700 earthquake and remains a living commercial port rather than a museum district.\n\nNineteenth-century Venetian migration added merchant wealth, decorated stone arcades, glasswork, and waterfront palazzi to a much older Spanish–Indigenous building tradition.\n\nIts famous [[festival|Festival of the Two Hearts]], [[palacio|Palacio de la Bahía]], and [[flagship|preserved flagship]] attract regional visitors. Working population is approximately 19,000.",
+      "body": "The first permanent European-founded settlement in the region was established here in **1608** by [[alonso|Don Alonso de Valcárcel y Austria]]. The harbor already supported Indigenous communities, trade, and maritime knowledge.\n\nThe city occupies the present-day Astoria site on the Columbia estuary. It rebuilt after the 1700 earthquake and remains a living commercial port rather than a museum district.\n\nNineteenth-century Venetian migration added merchant wealth, decorated stone arcades, glasswork, and waterfront palazzi to a much older Spanish–Indigenous building tradition.\n\nIts famous [[festival|Festival of the Two Hearts]], [[palacio|Palacio de la Bahía]], and [[flagship|preserved flagship]] attract regional visitors. Working population is approximately 19,000.\n\nThe city's monumental [[season-of-halls|ballroom circuit]] and breathtaking [[harbor-boardwalks|timber-and-stone harbor promenades]] make it the heart of the [[wedding-coast|valley's destination wedding economy]], attracting ceremonies and celebrations throughout the year.",
       "tags": [
         "city",
         "coast",
@@ -41,7 +43,10 @@ window.SANTA_AURELIA_SEED={
         "festival",
         "palacio",
         "flagship",
-        "valle"
+        "valle",
+        "season-of-halls",
+        "harbor-boardwalks",
+        "wedding-coast"
       ]
     },
     {
@@ -367,7 +372,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Annual; anniversary c.1611",
       "summary": "A huge Santa Aurelia boardwalk festival celebrating Alonso and Inés, crowned by a prestigious historic debutante ball.",
-      "body": "The waterfront glows with lanterns, boats, food vendors, artisan markets, music, heritage performance and public festivities.\n\nThe celebration commemorates the passionate love of [[alonso|Alonso]] and [[ines|Inés]]. Its prestigious finale, the **Grand Ball of the Two Shores**, is held at [[palacio|the Palacio de la Bahía]].\n\nCritically, the underlying **formal colonial assembly dates to the 1600s** and originally existed independently of the couple's commemorative festival. Its modern debutante ceremony evolved in subsequent centuries, amplified by later Venetian patronage.\n\nThe original [[palacio|Casa de las Asambleas]] was built as Alonso's gift to Sáweli/Inés in 1638; it housed the already existing annual formal assembly, later evolving into today's Grand Ball.",
+      "body": "The waterfront glows with lanterns, boats, food vendors, artisan markets, music, heritage performance and public festivities.\n\nThe celebration commemorates the passionate love of [[alonso|Alonso]] and [[ines|Inés]]. Its prestigious finale, the **Grand Ball of the Two Shores**, is held at [[palacio|the Palacio de la Bahía]].\n\nCritically, the underlying **formal colonial assembly dates to the 1600s** and originally existed independently of the couple's commemorative festival. Its modern debutante ceremony evolved in subsequent centuries, amplified by later Venetian patronage.\n\nThe original [[palacio|Casa de las Asambleas]] was built as Alonso's gift to Sáweli/Inés in 1638; it housed the already existing annual formal assembly, later evolving into today's Grand Ball.\n\nThe formal debutante and ball season is now a [[season-of-halls|multi-venue social circuit]] spanning rival Spanish and Venetian palaces, culminating at the historic [[palacio|Palacio]]. The city's [[harbor-boardwalks|stone-and-timber waterfront]] and grand architecture also sustain a thriving [[wedding-coast|wedding destination economy]] beyond the festival itself.",
       "tags": [
         "festival",
         "ball",
@@ -377,7 +382,10 @@ window.SANTA_AURELIA_SEED={
         "santa-aurelia",
         "palacio",
         "alonso",
-        "ines"
+        "ines",
+        "season-of-halls",
+        "wedding-coast",
+        "harbor-boardwalks"
       ]
     },
     {
@@ -387,7 +395,7 @@ window.SANTA_AURELIA_SEED={
       "status": "working",
       "era": "1638 original hall proposed",
       "summary": "An extraordinarily expensive Spanish-style stone assembly palace Alonso built for Sáweli/Inés—the impractical extravagance of an otherwise fiercely practical captain.",
-      "body": "The **Casa de las Asambleas** was a timber-framed and stone-founded colonial gathering hall built provisionally in **1638** on an elevated harbor terrace.\n\nIt was repaired after the 1700 quake, then expanded into a grand waterfront complex with Venetian-era and later nineteenth-century reception rooms and ballroom. Its original seventeenth-century core survives in part through meticulous, documented conservation and seismic work.\n\nThe annual formal assembly is old; modern debutante presentation was added over generations. Today the [[festival|Festival of the Two Hearts]] ends with its prestigious Grand Ball here.\n\n**The original hall was Alonso's gift to Inés.** After accompanying him on visits to Spain and becoming enchanted with courtly music, dancing, costumes and magnificent celebrations, Sáweli wanted a comparable gathering place in her own community. Alonso financed the **Casa de las Asambleas** for her, with working completion in **1638**; she participated in its vision and welcoming social use. The colony already held formal assemblies before its construction, so the gift provided a lasting home for an older custom, not its beginning.\n\nThe hall's early spacious wooden floor, musicians' gallery, high sheltered windows, carved beams and harbor garden reflected Spanish inspiration and local building practices. The first great celebration (provisionally 1638–1639) became another cherished chapter of their love story. Later growth created the Palacio de la Bahía. See `docs/21-casa-de-las-asambleas-love-gift.md`.\n\n**Alonso knew how impractical it was.** Usually a relentlessly practical, cost-conscious ship captain and merchant, he willingly spent a fortune from his private resources creating a monumental Spanish-style stone assembly palace for Sáweli. A functional timber-framed hall was only its beginning: dressed masonry, formal arcades, stairways, decorated chambers, expensive craftsmen, fine materials and court-inspired splendor followed during their own lives. The disproportionate cost is the point of the story—an extravagance born from his love, not a clever economic investment.\n\nThe first celebration is provisionally dated **1638**, with lavish stone work and additions continuing until around **1641**, the proposed year of Alonso's death. Later descendants expanded the structure again, including Venetian-era alterations. The hall's original monumental Spanish elegance must not be attributed entirely to those later additions.",
+      "body": "The **Casa de las Asambleas** was a timber-framed and stone-founded colonial gathering hall built provisionally in **1638** on an elevated harbor terrace.\n\nIt was repaired after the 1700 quake, then expanded into a grand waterfront complex with Venetian-era and later nineteenth-century reception rooms and ballroom. Its original seventeenth-century core survives in part through meticulous, documented conservation and seismic work.\n\nThe annual formal assembly is old; modern debutante presentation was added over generations. Today the [[festival|Festival of the Two Hearts]] ends with its prestigious Grand Ball here.\n\n**The original hall was Alonso's gift to Inés.** After accompanying him on visits to Spain and becoming enchanted with courtly music, dancing, costumes and magnificent celebrations, Sáweli wanted a comparable gathering place in her own community. Alonso financed the **Casa de las Asambleas** for her, with working completion in **1638**; she participated in its vision and welcoming social use. The colony already held formal assemblies before its construction, so the gift provided a lasting home for an older custom, not its beginning.\n\nThe hall's early spacious wooden floor, musicians' gallery, high sheltered windows, carved beams and harbor garden reflected Spanish inspiration and local building practices. The first great celebration (provisionally 1638–1639) became another cherished chapter of their love story. Later growth created the Palacio de la Bahía. See `docs/21-casa-de-las-asambleas-love-gift.md`.\n\n**Alonso knew how impractical it was.** Usually a relentlessly practical, cost-conscious ship captain and merchant, he willingly spent a fortune from his private resources creating a monumental Spanish-style stone assembly palace for Sáweli. A functional timber-framed hall was only its beginning: dressed masonry, formal arcades, stairways, decorated chambers, expensive craftsmen, fine materials and court-inspired splendor followed during their own lives. The disproportionate cost is the point of the story—an extravagance born from his love, not a clever economic investment.\n\nThe first celebration is provisionally dated **1638**, with lavish stone work and additions continuing until around **1641**, the proposed year of Alonso's death. Later descendants expanded the structure again, including Venetian-era alterations. The hall's original monumental Spanish elegance must not be attributed entirely to those later additions.\n\nThe [[season-of-halls|Season of Halls]] brought grand Venetian rivals to Santa Aurelia, but this palace remains the ceremonial seat of the Two Hearts Grand Ball. Its history also makes it an iconic venue in the [[wedding-coast|regional destination wedding economy]].",
       "tags": [
         "architecture",
         "heritage",
@@ -398,7 +406,10 @@ window.SANTA_AURELIA_SEED={
         "santa-aurelia",
         "alonso",
         "ines",
-        "saweli-spain-journals"
+        "saweli-spain-journals",
+        "season-of-halls",
+        "wedding-coast",
+        "harbor-boardwalks"
       ]
     },
     {
@@ -515,7 +526,7 @@ window.SANTA_AURELIA_SEED={
       "status": "working",
       "era": "c.1815–1855 proposed",
       "summary": "An influx of Venetian merchant capital and skilled craft transforms Santa Aurelia into the Jewel of the Pacific.",
-      "body": "Some wealthy merchant and artisan families from Venice and the Veneto migrate in waves amid Europe's nineteenth-century political and commercial changes.\n\nIn Santa Aurelia they finance waterfront arcades, palazzi, courtyards, elaborate stone facades, glass, markets, art and the expansion of [[palacio|Palacio de la Bahía]]. Their architecture adapts to the region's older Spanish–Indigenous timber and coastal construction traditions.\n\nThe proposed waterfront term **Riva di Santa Aurelia** and invented merchant lineage **Contarini di Valverde** remain suggestions. The Connecticut/Virginia migrations belong principally to [[willowwick|Willowwick Grove]].",
+      "body": "Some wealthy merchant and artisan families from Venice and the Veneto migrate in waves amid Europe's nineteenth-century political and commercial changes.\n\nIn Santa Aurelia they finance waterfront arcades, palazzi, courtyards, elaborate stone facades, glass, markets, art and the expansion of [[palacio|Palacio de la Bahía]]. Their architecture adapts to the region's older Spanish–Indigenous timber and coastal construction traditions.\n\nThe proposed waterfront term **Riva di Santa Aurelia** and invented merchant lineage **Contarini di Valverde** remain suggestions. The Connecticut/Virginia migrations belong principally to [[willowwick|Willowwick Grove]].\n\nVenetian-descended merchant houses competed in a nineteenth-century [[season-of-halls|era of lavish ballroom construction]], with estate venues now supporting the regional [[wedding-coast|wedding economy]].",
       "tags": [
         "italian",
         "architecture",
@@ -523,7 +534,12 @@ window.SANTA_AURELIA_SEED={
       ],
       "links": [
         "santa-aurelia",
-        "palacio"
+        "palacio",
+        "season-of-halls",
+        "wedding-coast",
+        "palazzo-bellafonte",
+        "ca-marovelli",
+        "villa-serenissima"
       ]
     },
     {
@@ -843,6 +859,140 @@ window.SANTA_AURELIA_SEED={
         "valcarcel-estate-library",
         "palacio"
       ]
+    },
+    {
+      "id": "season-of-halls",
+      "title": "The Season of Halls",
+      "category": "Tradition",
+      "status": "established",
+      "era": "Nineteenth century–present",
+      "summary": "Santa Aurelia's network of grand Venetian and Spanish ballrooms hosts a regionwide season culminating in the Grand Ball at the Palacio.",
+      "body": "The [[palacio|Palacio de la Bahía]] remains the **ceremonial seat** of the [[festival|Festival of the Two Hearts]] and culminating Grand Ball. But the modern formal and debutante season spans many halls.\n\nDuring the nineteenth century, Venetian-descended merchant families competed to build ever more magnificent ballrooms. Proposed rival halls include [[palazzo-bellafonte|Palazzo Bellafonte]], [[ca-marovelli|Ca' Marovelli]] and [[villa-serenissima|Villa Serenissima]]. Their competition helped create the region's distinctive grand-hall architecture and contemporary [[wedding-coast|wedding destination economy]]. The public waterfront festival is broader and more accessible than the elite formal circuit. See `docs/22-season-of-halls-venetian-ballrooms.md`.",
+      "tags": [
+        "ballrooms",
+        "festival",
+        "Venetian",
+        "architecture"
+      ],
+      "links": [
+        "palacio",
+        "festival",
+        "palazzo-bellafonte",
+        "ca-marovelli",
+        "villa-serenissima",
+        "wedding-coast"
+      ]
+    },
+    {
+      "id": "palazzo-bellafonte",
+      "title": "Palazzo Bellafonte",
+      "category": "Landmark",
+      "status": "working",
+      "era": "Proposed 1860s–1880s",
+      "summary": "Venetian Gothic estate hall of the Bellafonte merchant house, celebrated for a waterside loggia and masquerade balls.",
+      "body": "The proposed **Bellafonte** Venetian-descended merchant and glass-patron family constructed a theatrical Venetian Gothic ballroom with pointed stone arcades, intricate tracery, jewel-toned glazing and a harbor loggia. It became one of the major rivals to [[palacio|the historic Spanish palace]], and now hosts receptions, musical nights, masquerades and occasional premium [[wedding-coast|weddings]] during the [[season-of-halls|Season of Halls]]. Building date, grounds and ownership remain working lore.",
+      "tags": [
+        "Venetian Gothic",
+        "ballroom",
+        "estate",
+        "weddings"
+      ],
+      "links": [
+        "season-of-halls",
+        "palacio",
+        "ca-marovelli",
+        "wedding-coast"
+      ]
+    },
+    {
+      "id": "ca-marovelli",
+      "title": "Ca' Marovelli",
+      "category": "Landmark",
+      "status": "working",
+      "era": "Proposed 1870s–1890s",
+      "summary": "Proposed Renaissance-style ballroom of the Marovelli family, renowned for mirrors, music and a sweeping formal staircase.",
+      "body": "A lavish proposed Venetian-Renaissance estate ballroom of the **Marovelli** shipping and finance household, featuring a decorated piano nobile, mirrored galleries, formal staircase, patterned floors and winter garden. It rivaled [[palazzo-bellafonte|Bellafonte]] in the late nineteenth-century architectural competition and hosts concerts, formal receptions and select [[wedding-coast|weddings]] within the wider [[season-of-halls|Season of Halls]]. Exact estate location and historical dates remain provisional.",
+      "tags": [
+        "Venetian Renaissance",
+        "ballroom",
+        "estate",
+        "weddings"
+      ],
+      "links": [
+        "season-of-halls",
+        "palazzo-bellafonte",
+        "palacio",
+        "wedding-coast"
+      ]
+    },
+    {
+      "id": "villa-serenissima",
+      "title": "Villa Serenissima",
+      "category": "Landmark",
+      "status": "working",
+      "era": "Proposed 1880s–1900s",
+      "summary": "Venetian-Renaissance estate hall and conservatory of the proposed Contarini-Valdesi family, famed for terraces and garden events.",
+      "body": "The proposed fictional **Contarini-Valdesi** artistic and hospitality family commissioned a Venetian-inspired garden palazzo with mosaics, a conservatory, formal terraces and a ballroom opening onto a landscaped court. It is noted for floral events, garden concerts, charity receptions and [[wedding-coast|destination weddings]]. It participates in the [[season-of-halls|Season of Halls]] but does not displace the historic [[palacio|Palacio de la Bahía]] from its ceremonial role.",
+      "tags": [
+        "gardens",
+        "Venetian",
+        "ballroom",
+        "weddings"
+      ],
+      "links": [
+        "season-of-halls",
+        "palacio",
+        "wedding-coast"
+      ]
+    },
+    {
+      "id": "wedding-coast",
+      "title": "Santa Aurelia — The Wedding Coast",
+      "category": "Tradition",
+      "status": "established",
+      "era": "Present day",
+      "summary": "A major wedding destination built around historic ballrooms, timber-and-stone waterfront boardwalks, gardens and a valleywide coastal celebration economy.",
+      "body": "Santa Aurelia's extraordinary Spanish and Venetian hall architecture, flowered courtyards, and breathtaking [[harbor-boardwalks|timber-and-stone waterfront promenades]] have made it a major wedding destination. The [[palacio|Palacio de la Bahía]], [[palazzo-bellafonte|Bellafonte]], [[ca-marovelli|Marovelli]] and [[villa-serenissima|Villa Serenissima]] offer different historical settings, while smaller inns, gardens, beaches, countryside venues and historic buildings serve many budgets.\n\nThe surrounding [[valle|valley]] and coast support a substantial network of florists, growers, tailors, jewellers, planners, photographers, musicians, caterers, hotels, lodgings, conservators and transport. Wedding weekends often involve multiple venues. The wedding industry is **year-round** and separate from—but strongly reinforced by—the [[festival|Festival of the Two Hearts]] and its [[season-of-halls|formal ballroom circuit]]. These venues operate in a rainy Pacific climate with conservation and shoreline limits. See `docs/23-wedding-coast-economy-and-waterfront.md`.",
+      "tags": [
+        "weddings",
+        "tourism",
+        "coastal economy",
+        "ballrooms",
+        "romance"
+      ],
+      "links": [
+        "harbor-boardwalks",
+        "palacio",
+        "palazzo-bellafonte",
+        "ca-marovelli",
+        "villa-serenissima",
+        "season-of-halls",
+        "festival",
+        "valle",
+        "santa-aurelia"
+      ]
+    },
+    {
+      "id": "harbor-boardwalks",
+      "title": "Santa Aurelia's Historic Harbor Boardwalks",
+      "category": "Landmark",
+      "status": "established",
+      "era": "Colonial origins, many later rebuildings",
+      "summary": "The city's striking timber-and-dressed-stone promenades, arcaded walks and terraces around the harbor are beloved for festivals, daily life and weddings.",
+      "body": "Santa Aurelia's waterfront is lined with a breathtaking network of **timber-decked and stone-built boardwalks**, covered walks, masonry quays, lanterns, railings, gardens, small plazas, stairways and overlooks across the Columbia estuary. Structures developed over centuries, with repairs after storms and the 1700 Cascadia earthquake; the entire promenade is not unchanged from 1608.\n\nThe layered Spanish and Venetian architecture provides dramatic backdrops for the [[festival|Festival of the Two Hearts]] and the city's [[wedding-coast|wedding economy]]. The harbor remains a **working public waterfront**, so visitors and private ceremonies share access with residents, traders, vessels and the maritime economy. Winter wind, rain and tides shape safe operations and design.",
+      "tags": [
+        "boardwalk",
+        "waterfront",
+        "timber",
+        "stone",
+        "weddings"
+      ],
+      "links": [
+        "santa-aurelia",
+        "festival",
+        "wedding-coast",
+        "palacio"
+      ]
     }
   ],
   "timeline": [
@@ -887,6 +1037,12 @@ window.SANTA_AURELIA_SEED={
       "label": "Willowwick incorporated",
       "summary": "Working date for the rising mining and garden city.",
       "entry": "willowwick"
+    },
+    {
+      "year": 1885,
+      "label": "The Season of Halls",
+      "summary": "Venetian merchant houses compete to build the grandest ballrooms, shaping the city's later wedding and social traditions.",
+      "entry": "season-of-halls"
     },
     {
       "year": 1970,
