@@ -9,7 +9,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Present day",
       "summary": "A layered lower Columbia region of maritime cities, inland forests, ancient monuments, and communities shaped by more than four centuries of colonial history.",
-      "body": "The region encompasses [[santa-aurelia|Santa Aurelia]], [[willowwick|Willowwick Grove]], [[blackwood|Blackwood Ridge]], and surrounding watersheds, rural hamlets, lakes and tribal lands.\n\nIts Spanish regional name derives from the old port, but its Indigenous histories reach back millennia. The region is not one municipality, one valley basin, or one uniform culture.\n\nSanta Aurelia and Willowwick Grove are near-peer cities. The northwest portion of Witches' Wood includes reservation land, while southwest Blackwood transitions into Fernhollow Country.\n\nThe coast and inland communities sustain a substantial [[wedding-coast|wedding industry]] built around Santa Aurelia's palaces, gardens, historic inns, [[harbor-boardwalks|waterfront promenades]] and distinctive regional architecture.\n\nThe tourism economy also includes [[paddlewheel-riverboats|heritage paddlewheel cruises]] and Santa Aurelia's [[cruise-homeport|ocean cruise homeport]].",
+      "body": "The region encompasses [[santa-aurelia|Santa Aurelia]], [[willowwick|Willowwick Grove]], [[blackwood|Blackwood Ridge]], and surrounding watersheds, rural hamlets, lakes and tribal lands.\n\nIts Spanish regional name derives from the old port, but its Indigenous histories reach back millennia. The region is not one municipality, one valley basin, or one uniform culture.\n\nSanta Aurelia and Willowwick Grove are near-peer cities. The northwest portion of Witches' Wood includes reservation land, while southwest Blackwood transitions into Fernhollow Country.\n\nThe coast and inland communities sustain a substantial [[wedding-coast|wedding industry]] built around Santa Aurelia's palaces, gardens, historic inns, [[harbor-boardwalks|waterfront promenades]] and distinctive regional architecture.\n\nThe tourism economy also includes [[paddlewheel-riverboats|heritage paddlewheel cruises]] and Santa Aurelia's [[cruise-homeport|ocean cruise homeport]].\n\nA major [[coast-guard-base|U.S. Coast Guard maritime installation]] is situated outside Santa Aurelia.",
       "tags": [
         "geography",
         "overview",
@@ -22,7 +22,8 @@ window.SANTA_AURELIA_SEED={
         "wedding-coast",
         "harbor-boardwalks",
         "paddlewheel-riverboats",
-        "cruise-homeport"
+        "cruise-homeport",
+        "coast-guard-base"
       ]
     },
     {
@@ -32,7 +33,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Founded 1608",
       "summary": "The Jewel of the Pacific: a Spanish–Indigenous and Venetian-influenced port city at the site of present-day Astoria, Oregon.",
-      "body": "The first permanent European-founded settlement in the region was established here in **1608** by [[alonso|Don Alonso de Valcárcel y Austria]]. The harbor already supported Indigenous communities, trade, and maritime knowledge.\n\nThe city occupies the present-day Astoria site on the Columbia estuary. It rebuilt after the 1700 earthquake and remains a living commercial port rather than a museum district.\n\nNineteenth-century Venetian migration added merchant wealth, decorated stone arcades, glasswork, and waterfront palazzi to a much older Spanish–Indigenous building tradition.\n\nIts famous [[festival|Festival of the Two Hearts]], [[palacio|Palacio de la Bahía]], and [[flagship|preserved flagship]] attract regional visitors. Working population is approximately 19,000.\n\nThe city's monumental [[season-of-halls|ballroom circuit]] and breathtaking [[harbor-boardwalks|timber-and-stone harbor promenades]] make it the heart of the [[wedding-coast|valley's destination wedding economy]], attracting ceremonies and celebrations throughout the year.\n\nSanta Aurelia is also an **ocean-going [[cruise-homeport|cruise departure homeport]]**, with a dedicated [[ocean-passenger-terminal|passenger terminal]], and hosts a thriving [[paddlewheel-riverboats|heritage paddlewheel excursion industry]]. These complement its wedding venues and magnificent waterfront.",
+      "body": "The first permanent European-founded settlement in the region was established here in **1608** by [[alonso|Don Alonso de Valcárcel y Austria]]. The harbor already supported Indigenous communities, trade, and maritime knowledge.\n\nThe city occupies the present-day Astoria site on the Columbia estuary. It rebuilt after the 1700 earthquake and remains a living commercial port rather than a museum district.\n\nNineteenth-century Venetian migration added merchant wealth, decorated stone arcades, glasswork, and waterfront palazzi to a much older Spanish–Indigenous building tradition.\n\nIts famous [[festival|Festival of the Two Hearts]], [[palacio|Palacio de la Bahía]], and [[flagship|preserved flagship]] attract regional visitors. Working population is approximately 19,000.\n\nThe city's monumental [[season-of-halls|ballroom circuit]] and breathtaking [[harbor-boardwalks|timber-and-stone harbor promenades]] make it the heart of the [[wedding-coast|valley's destination wedding economy]], attracting ceremonies and celebrations throughout the year.\n\nSanta Aurelia is also an **ocean-going [[cruise-homeport|cruise departure homeport]]**, with a dedicated [[ocean-passenger-terminal|passenger terminal]], and hosts a thriving [[paddlewheel-riverboats|heritage paddlewheel excursion industry]]. These complement its wedding venues and magnificent waterfront.\n\nA substantial [[coast-guard-base|Coast Guard base]] sits near, but outside, the city, supporting rescue aviation, boats and maritime safety around the Columbia Bar.",
       "tags": [
         "city",
         "coast",
@@ -51,7 +52,8 @@ window.SANTA_AURELIA_SEED={
         "wedding-coast",
         "cruise-homeport",
         "ocean-passenger-terminal",
-        "paddlewheel-riverboats"
+        "paddlewheel-riverboats",
+        "coast-guard-base"
       ]
     },
     {
@@ -1013,7 +1015,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Nineteenth century–present",
       "summary": "Thriving lower-Columbia sternwheeler and paddleboat sightseeing, heritage, dinner-cruise and charter industry.",
-      "body": "Santa Aurelia's historic riverboat tradition grew from nineteenth-century steam passenger and freight operations into today's **thriving paddlewheel tourism industry**. Working excursion vessels include the proposed [[reina-dos-orillas|PS Reina de las Dos Orillas]], smaller heritage demonstrations, sightseeing tours, evening dining, historical cruises, winter lantern outings and private celebrations.\n\nThe fleet operates in professionally approved, navigable river and estuary channels, not the open Pacific or every small tributary. The lower Columbia's currents, tides, wind and commercial traffic demand skilled pilots and careful planning. Direct paddlewheel service to Willowwick is **not established** until its waterway geography can support it.\n\nThis is distinct from the [[cruise-homeport|sea-going cruise homeport]], although tourists can enjoy riverboat sailings before or after ocean voyages. Links with [[harbor-boardwalks|the waterfront]], [[festival|the Festival of the Two Hearts]] and [[wedding-coast|weddings]] support local businesses. Full chapter: `docs/24-paddlewheel-riverboats.md`.",
+      "body": "Santa Aurelia's historic riverboat tradition grew from nineteenth-century steam passenger and freight operations into today's **thriving paddlewheel tourism industry**. Working excursion vessels include the proposed [[reina-dos-orillas|PS Reina de las Dos Orillas]], smaller heritage demonstrations, sightseeing tours, evening dining, historical cruises, winter lantern outings and private celebrations.\n\nThe fleet operates in professionally approved, navigable river and estuary channels, not the open Pacific or every small tributary. The lower Columbia's currents, tides, wind and commercial traffic demand skilled pilots and careful planning. Direct paddlewheel service to Willowwick is **not established** until its waterway geography can support it.\n\nThis is distinct from the [[cruise-homeport|sea-going cruise homeport]], although tourists can enjoy riverboat sailings before or after ocean voyages. Links with [[harbor-boardwalks|the waterfront]], [[festival|the Festival of the Two Hearts]] and [[wedding-coast|weddings]] support local businesses. Full chapter: `docs/24-paddlewheel-riverboats.md`.\n\nThe nearby [[coast-guard-base|Coast Guard base]] provides emergency maritime-response capability in the wider lower Columbia area.",
       "tags": [
         "paddlewheel",
         "sternwheeler",
@@ -1026,7 +1028,8 @@ window.SANTA_AURELIA_SEED={
         "harbor-boardwalks",
         "festival",
         "wedding-coast",
-        "santa-aurelia"
+        "santa-aurelia",
+        "coast-guard-base"
       ]
     },
     {
@@ -1055,7 +1058,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Modern port era",
       "summary": "Deep-water ocean cruise departure, return and port-of-call operations with a dedicated passenger terminal in the lower Columbia estuary.",
-      "body": "Unlike real-world Astoria's predominantly visiting cruise traffic, Santa Aurelia is an alternate-history **cruise homeport**: passengers **begin and end ocean voyages here**, as well as visiting on port-of-call sailings. The port has invested in [[ocean-passenger-terminal|deep-water passenger terminal]] infrastructure, baggage and check-in, secure embarkation, provisioning, ground transport, hotels and customs/border operations.\n\nWorking itineraries include Pacific coastal journeys, seasonal Alaska voyages and repositioning sailings, subject to international and domestic passenger-vessel rules. The dangerous Columbia Bar, tides, currents, weather and commercial traffic determine safe departures; not all ships can operate on all days.\n\nPre- and post-cruise travelers visit the [[harbor-boardwalks|historic boardwalks]], enjoy [[paddlewheel-riverboats|paddleboat excursions]], explore the [[season-of-halls|great halls]] and take part in [[wedding-coast|the regional wedding economy]]. The deep-water terminal and shallow historic excursion docks are distinct facilities. See `docs/25-santa-aurelia-cruise-homeport.md`.",
+      "body": "Unlike real-world Astoria's predominantly visiting cruise traffic, Santa Aurelia is an alternate-history **cruise homeport**: passengers **begin and end ocean voyages here**, as well as visiting on port-of-call sailings. The port has invested in [[ocean-passenger-terminal|deep-water passenger terminal]] infrastructure, baggage and check-in, secure embarkation, provisioning, ground transport, hotels and customs/border operations.\n\nWorking itineraries include Pacific coastal journeys, seasonal Alaska voyages and repositioning sailings, subject to international and domestic passenger-vessel rules. The dangerous Columbia Bar, tides, currents, weather and commercial traffic determine safe departures; not all ships can operate on all days.\n\nPre- and post-cruise travelers visit the [[harbor-boardwalks|historic boardwalks]], enjoy [[paddlewheel-riverboats|paddleboat excursions]], explore the [[season-of-halls|great halls]] and take part in [[wedding-coast|the regional wedding economy]]. The deep-water terminal and shallow historic excursion docks are distinct facilities. See `docs/25-santa-aurelia-cruise-homeport.md`.\n\nThe nearby [[coast-guard-base|Coast Guard base]] supports maritime rescue and safety coordination; its operational facilities are distinct from the passenger terminal.",
       "tags": [
         "cruise",
         "homeport",
@@ -1069,7 +1072,8 @@ window.SANTA_AURELIA_SEED={
         "harbor-boardwalks",
         "season-of-halls",
         "wedding-coast",
-        "santa-aurelia"
+        "santa-aurelia",
+        "coast-guard-base"
       ]
     },
     {
@@ -1089,6 +1093,29 @@ window.SANTA_AURELIA_SEED={
         "cruise-homeport",
         "harbor-boardwalks",
         "paddlewheel-riverboats"
+      ]
+    },
+    {
+      "id": "coast-guard-base",
+      "title": "Coast Guard Base Santa Aurelia",
+      "category": "Institution",
+      "status": "established",
+      "era": "Modern maritime era",
+      "summary": "Substantial United States Coast Guard maritime and rescue installation outside, but close to, Santa Aurelia; supports the Columbia Bar, port and nearby coastal traffic.",
+      "body": "A substantial **United States Coast Guard base** is situated **just beyond Santa Aurelia's city limits**. Working geography places its aviation and waterside facilities in a harbor hinterland comparable to Warrenton, not among the historic [[harbor-boardwalks|harbor boardwalks]] or grand halls. Its functions include rescue aircraft and boats, cutter support, navigation safety, law enforcement and marine emergency response near the dangerous Columbia Bar.\n\nThe base supports safety planning for the [[cruise-homeport|ocean-going cruise departure homeport]], commercial shipping and [[paddlewheel-riverboats|riverboat excursions]]. It is a federal **Coast Guard maritime installation**, not an independently established U.S. Navy fleet base. Its official naming, scale, exact site and layout remain working details. See `docs/26-coast-guard-base-santa-aurelia.md`.",
+      "tags": [
+        "coast guard",
+        "maritime",
+        "rescue",
+        "military",
+        "port"
+      ],
+      "links": [
+        "santa-aurelia",
+        "cruise-homeport",
+        "ocean-passenger-terminal",
+        "paddlewheel-riverboats",
+        "harbor-boardwalks"
       ]
     }
   ],
