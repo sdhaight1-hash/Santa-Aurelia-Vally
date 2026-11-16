@@ -1,78 +1,76 @@
-# Founding family genealogy — two generations preceding Alonso and Inés
+# The Houses of the Two Shores — Founding Genealogy
 
-**Scope:** Reference family tree for the founding couple, including two generations of ancestors on each side, the couple's nine established but as-yet unnamed children, and their historic painted portraits. Entries with missing names are **open research/editorial placeholders**, not verified historical Indigenous people.
+**Working historical genealogy of Valle de Santa Aurelia, 1500–1690.** This is genuine history *inside the alternate-history setting*, including original Indigenous-language naming and fictional colonial documents. It is not a claim that the invented Ashalewan nation, people or language are part of documented real-world history. The historical rulers Charles V, Barbara Blomberg and Don John of Austria retain their real-world identities; Alonso's connection to Don John is a deliberate alternative-history addition.
 
-## The central couple
-**Don Alonso de Valcárcel y Austria** (working c.1572–1641) established Santa Aurelia in 1608. He was a wealthy Spanish merchant-captain and an **invented descendant** of the historical Habsburg family. **Doña Inés**, the adult daughter of a local Indigenous chief, was his true love and founding household partner. Their wedding is provisionally dated **1611**. They have **nine children** in canon, though individual names, ages, birthplaces and branches of descent have not yet been established.
+## The founding couple
 
-## Don Alonso's paternal ancestry
+**Don Alonso de Valcárcel y Austria** (c.1572–1641) and **Sáweli**, recorded as **Doña Inés de Santa Aurelia** (c.1591–after 1635), marry in the colony c.1611, by genuine mutual affection. Alonso arrived in 1608 with a wealthy Spanish mercantile expedition. Sáweli is the adult daughter of a prominent **Ashalewan estuary council chief**, from a community already engaged in river, forest and coastal trade. Their marriage creates important networks but is not reducible to diplomacy. Their **nine children**, all born after the marriage, become the first extensive mixed Spanish–Ashalewan founding household.
 
-**Grandfather: Charles V** (1500–1558), Holy Roman Emperor, known as King Charles I of Spain. **Historical real person.**
+**Note on naming:** Ashalewan names, their accent marks and the Ashalewan language are original inventions created specifically for this setting. Spanish records often add Christian names while retaining Indigenous personal names. Parentage and descent reflect family relationships, not automatic citizenship or property rights.
 
-**Grandmother: Barbara Blomberg** (1527–1597), historically the mother of Don John of Austria. **Historical real person.** Note that the relationship between Charles V and Barbara was not a royal dynastic marriage; their son was born outside marriage.
+## The royal and merchant ancestry of Alonso
 
-**Father: Don John of Austria / Juan de Austria** (1547–1578). **Historical real person**, recognized illegitimate son of Charles V and Barbara Blomberg, renowned military commander. This setting **invents one additional son of Don John**, Alonso, to satisfy the explicitly chosen royal offshoot. **There is no historical record validating Alonso or this fictional offspring.** Don John's real-world children and documented biography should not silently be rewritten as facts.
+**Paternal grandparents:** historical **Charles V** (1500–1558) and **Barbara Blomberg** (1527–1597), whose historical son is **Don John of Austria / Juan de Austria** (1547–1578). Charles V and Barbara were not married. The setting invents an additional child of Don John: Alonso, born around 1572 to **Catalina de Valcárcel y Montenegro**, without granting him a formal royal inheritance. Don John himself remains a documented historical person; his invented offspring is an explicit change from reality.
 
-The proposed line is:
+**Maternal grandparents:** **Hernando de Valcárcel** (c.1518–1587), a wealthy Spanish merchant with Seville trade contacts, and **Isabel de Montenegro** (c.1523–1590), an estate and finance patron. Their daughter Catalina (c.1548–1609) meets Don John and becomes Alonso's mother. She later marries **Sebastián de Rojas**, an Andalusian notary and commercial factor, around 1577. Through Catalina's commercial family, Alonso acquires credit and early maritime contacts independent of his royal connections.
 
-**Charles V + Barbara Blomberg → Don John of Austria → Don Alonso de Valcárcel y Austria.**
+**Alonso's siblings and kin:** **Beatriz de Austria** (born c.1574) is an *invented paternal half-sister* through Don John and another, unnamed woman—she is **not a documented daughter in real history**. **Leonor de Rojas y Valcárcel** (born c.1579) and **Gabriel de Rojas y Valcárcel** (born c.1582) are Alonso's maternal half-siblings through Catalina and Sebastián. Leonor maintains Iberian family correspondence and accounts; Gabriel handles provisions, letters and later shipping interests. Catalina's sister **Isabel de Valcárcel y Montenegro** and brother **Esteban de Valcárcel y Montenegro** are Alonso's maternal aunt and uncle. Esteban's son **Diego de Valcárcel** is his cousin and another merchant link to the Atlantic trade.
 
-## Don Alonso's maternal ancestry
+The family is influential but not uniformly wealthy, and its members are not interchangeable: shipping, politics, estate administration, religion and distance produce competing interests.
 
-**Mother: Catalina de Valcárcel** (working c.1548–after 1572), an **invented** daughter of an affluent Spanish merchant family. She and Don John are Alonso's fictional parents. Precise place of birth, patronage, relationship, dowry and merchants' connections remain open.
+## Sáweli / Inés's ancestral family: the Ashalewan estuary community
 
-**Maternal grandfather: Elder Valcárcel Merchant** (name undecided), an invented merchant patriarch of the early/mid-sixteenth century.
+The **Ashalewan** are an invented Indigenous nation of the **lower Columbia estuary and adjoining inland waterways** in this alternate timeline. Their political and linguistic history should not be merged into the separate Indigenous Blackwood Ridge community or treated as the sole nation of the lower Columbia. Kinship and leadership involve households, seasonal settlements, intercommunity obligations, practical consensus and powerful women as well as prominent male speakers.
 
-**Maternal grandmother: Elder Valcárcel Matriarch** (name undecided), an invented wife/partner and maternal ancestor whose own family origins are not established.
+**Paternal grandparents:** **Aruwen** (c.1532–1600), a respected river-trade elder, and **Meyála** (c.1538–after 1608), a coastal navigator and keeper of route history. Their children include **Tawélen** and his brother **Savóren** (c.1558–after 1608). Tawélen (c.1560–1625) becomes a major estuary council chief, respected for coordinating trade and seasonal fishing access.
 
-The proposed line is:
+**Maternal grandparents:** **Kováren** (c.1535–1605), an upland kinship elder, and **Olávi** (c.1540–after 1610), known in family tradition for stories associated with the forest trails and silver-leaved willows. Their children include **Elámi** (c.1566–after 1620) and her sister **Yalémi** (c.1568–after 1622). Elámi is a decisive household elder, interpreter of obligations and mediator between families. Yalémi's daughter **Mavéla** (born c.1592) is Sáweli's maternal cousin.
 
-**Elder Valcárcel Merchant + Elder Valcárcel Matriarch → Catalina de Valcárcel → Don Alonso.**
+**Parents:** **Tawélen** and **Elámi** maintain a large household deeply connected to the river, estuary and nearby woodland communities. Their daughter **Sáweli** (c.1591), later known in Spanish records as **Inés**, meets Alonso after 1608. Her community and maternal family are not a backdrop for his adventures: she brings her own authority, obligations, property relationships, craft traditions, and intellectual independence to the marriage.
 
-Nothing in canon has established that Don John and Catalina married, that Alonso acquired a royal legal title, or that the Spanish monarchy confirmed a claim of succession. He can be a socially recognized royal offshoot with private commercial wealth while lacking dynastic legitimacy.
+**Sáweli's siblings:** elder brother **Kévarin**, called **Pedro** in some Spanish records (born c.1585), works in river trade and the negotiations with the colony; elder sister **Anéwi**, known as **María** in Spanish records (born c.1588), is a multilingual negotiator; younger brother **Tórewan**, called **Francisco** in Spanish records (born c.1595), maintains upland trail and timber-land access connections. They retain distinct interests and sometimes disagree over the colony's expanding trade, property boundaries and cultural influence.
 
-## Inés's maternal and paternal ancestries
+These details constitute **in-setting creative colonial history**, not reconstructions of actual Chinookan vocabulary, genealogies, or religious practices.
 
-**Father: Indigenous chief of the Columbia estuary community**, original name undecided. His position as a local chief and Inés's father is established; his precise political title, nation and territory are not. Avoid projecting a rigid hereditary European monarchy onto the Indigenous community.
+## The nine Valcárcel children
 
-**Mother: Indigenous matriarch of the same regional kinship landscape**, personal name and familial community undecided. Her influence, kinship ties and role in Inés's upbringing remain to be developed. A positive meaningful role is encouraged, but not invented as definitive.
+The nine births are placed at plausible intervals between **1612 and 1632**; the proposed late family portrait of c.1633–1636 could include all nine, ages approximately 1–24.
 
-**Paternal grandfather** — unknown Indigenous name, identity, kinship role and dates.
+| Birth | Child | Early family role (working lore) |
+|---|---|---|
+| 1612 | **Catalina Sáyela de Valcárcel** | Eldest daughter; household organizer and bilingual mediator |
+| 1614 | **Juan Alonso Tawélen de Valcárcel** | Eldest son; maritime commerce and trade |
+| 1616 | **María Elámi de Valcárcel** | Family correspondence, textiles and learning |
+| 1619 | **Diego Aruwen de Valcárcel** | River logistics and inland transport |
+| 1621 | **Isabel Meyála de Valcárcel** | Gardens, estuary knowledge and household networks |
+| 1623 | **Tomás Kováren de Valcárcel** | Timber contracts and inland stewardship |
+| 1626 | **Leonor Olávi de Valcárcel** | Written family memory and local accounts |
+| 1629 | **Francisco Tórewan de Valcárcel** | Port trade and coastal service |
+| 1632 | **Ana Lucía Anéwi de Valcárcel** | Youngest; guardian of family stories in later years |
 
-**Paternal grandmother** — unknown Indigenous name, identity, kinship role and dates.
+All nine are now **proposed named individuals in the working genealogy** with both parents explicitly linked. Their adult marriages, descendants, precise deaths, political status and inheritance rights remain open. The family portrait depicts eleven people. There is no need to force all nine children into ruling or noble roles; later branches can include portworkers, farmers, teachers, Indigenous community members, merchants, craftsmen and civic leaders.
 
-**Maternal grandfather** — unknown Indigenous name, identity, kinship role and dates.
+## The original founding portraits
 
-**Maternal grandmother** — unknown Indigenous name, identity, kinship role and dates.
+Four surviving works by the **Spanish founding artist, Alonso's friend**, are preserved as part of the family collection. His **proposed fictional name is Mateo de Villacorta**. The artist accompanied the **1608 expedition** and knew Inés and the growing children. The paintings are **in-setting original colonial-era works**, not later Victorian re-creations.
 
-These are **six genealogical person placeholders** (two parents and four grandparents). They do **not** imply documentation exists naming them or that every kinship system in the community follows European conventions. They allow the family-tree editor to depict two ancestral generations and subsequently replace placeholders when the nation and naming traditions are carefully designed.
+**Arrival** c.1608–1610, individual portrait of Alonso; **Inés** c.1610s–1620s, individual portrait of Sáweli/Inés; **Wedding** c.1611–1613, depicting the couple; **Family Portrait** c.1633–1636, the parents and all nine identified children.
 
-An appropriate future in-setting historical study would compare colonial ship diaries, surviving Spanish baptism and marriage notations, protected Indigenous oral family histories, local archival traditions, and tribal-controlled genealogical resources, without treating Indigenous knowledge as something automatically open to outsiders.
+Portrait records have stable IDs and now list the nine children's person IDs as subjects of the family painting. Individual pictorial identification, custodial claims, restoration campaigns, and chain of ownership should be documented separately. See [the painting catalog](13-colonial-portraits-and-artist.md).
 
-## The children — nine known, identities to be developed
+## A family chronicle in the colonial archive (invented documentary source)
 
-**Established:** Alonso and Inés eventually have **nine children**, and the later family portrait shows all nine with the parents, eleven people in total.
+> *Book of Households and River Agreements*, attributed to an early bilingual household scribe, translated from a surviving seventeenth-century Santa Aurelian collection:
+>
+> “The Captain’s house was not made by one shore alone. Sáweli’s mother spoke for her people, and Catalina’s son called upon ships from far beyond the sea. Their children bore names from both households. No one who entered their hall could claim that the harbor belonged to a single family or a single tongue.”
 
-**Unresolved:** children’s names and order of birth; child ages at the family sitting; who marries whom; household and political roles; maternal and paternal descent lines in relevant societies; where branches of the family settle. Do not create misleading invented children as if already approved. A future genealogical work pass should create nine individually named provisional child records, then connect them to both parents.
+The quotation above is an **original in-world historical text** created for this setting, not an actual document from colonial Oregon. The imagined source could later be catalogued alongside indigenous oral records, maritime accounts and paintings with differing viewpoints.
 
-## Associated surviving portraits
+## Genealogical continuity rules
 
-All four paintings are attributed **in-world to the same famous Spanish painter**, a **personal friend of Alonso who accompanied the colony in 1608**. Working name **Maestro Mateo de Villacorta**, not finalized. See [complete catalog](13-colonial-portraits-and-artist.md).
-
-1. **Arrival portrait** — Captain Alonso, event 1608; painting approximately 1608–1610.
-2. **Formal Inés portrait** — Inés, painted after the founding and marriage, approximately 1610s–1620s.
-3. **Wedding painting** — both spouses, marriage event c.1611, painting c.1611–1613.
-4. **Valcárcel family painting** — both parents and **nine children**, proposed early–mid 1630s to fit a later, older Alonso and the children.
-
-These paintings are **surviving historical works in the setting**. Their actual museum ownership, chain of conservation, paints/canvas and exact dates remain open. The original generated images are separate media assets; this chapter preserves the historical record and intended associations regardless of the eventual image hosting method.
-
-## Canon distinctions
-
-- **Actual-world history:** Charles V, Barbara Blomberg, Don John of Austria.
-- **Alternate-history canon:** wealthy founding captain, Indigenous adult wife and love story, nine children, famous Spanish founding-colony artist, four authentic surviving period paintings.
-- **Working invented names and dates:** Alonso's full surname and lifetime, Catalina, Villacorta, wedding year, individual painting dates.
-- **Anonymous ancestry placeholders:** Inés's parents and grandparents (except father being a chief), Catalina's parents. Avoid giving them false authentic Indigenous-language names.
-
-## Genealogy application
-
-The Family Archive now holds explicit parent-child edges, independently navigable ancestors, and portrait metadata linked to person records. Seed IDs are stable and source-aware for future refinement. The living browser archive is stored locally until exported; the repository's initial data seed and Markdown bible remain the primary version-controlled canon.
+- Historical characters (Charles V, Barbara Blomberg, Don John) must not have their *real-world documented genealogy* misreported as fact outside this setting.
+- Ashalewan names and records are **authentic only within the fictional timeline**; do not identify them as real Chinookan vocabulary.
+- Alonso's half-siblings share exactly one parent with him; Sáweli's three siblings share both recorded parents.
+- The main Valcárcel branch has **nine children**, not an undefined number.
+- The marriage is loving and mutual; Inés is an independent cofounder, not a passive symbol.
+- Indigenous kinship identity, political office, hereditary property rules and later tribal citizenship must not be inferred solely from European patronymics.
