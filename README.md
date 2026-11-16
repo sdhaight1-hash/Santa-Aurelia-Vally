@@ -109,3 +109,5 @@ The privately held Valcárcel archives now include original love letters between
 - [Fernhollow Ecovillage — Witches' Wood ecological research and food-forest planning](docs/33-fernhollow-food-forest-ecology.md)
 
 - [Blacksilver Willow Woodcraft — ebony heartwood, bowyers, furniture and architecture](docs/34-blacksilver-willow-woodcraft.md)
+
+- [Duskwood Township — independent eastern gateway to Witches' Wood](docs/35-duskwood-township.md)
