@@ -5,7 +5,7 @@
     "coordinate_reference": "WGS84 EPSG:4326",
     "fictional_setting": true,
     "planning_date": "2026-11-16",
-    "notes": "Planning points and schematic cultural-region boundary; not real communities, surveyed sites or legal boundaries. Sensitive cultural sites are illustrative placeholders only.",
+    "notes": "Planning points and schematic cultural-region boundary; not real communities, surveyed sites or legal boundaries. Sensitive cultural sites are illustrative placeholders only. Approximate 70-by-45-mile extents represent bounding dimensions, not rectangular region.",
     "source_doc": "docs/29-geographic-master-plan.md"
   },
   "features": [
@@ -16,7 +16,7 @@
         "name": "Valle de Santa Aurelia — study region",
         "status": "schematic-approximate",
         "target_area_sq_mi": 1800,
-        "estimated_area_sq_mi": 1856,
+        "estimated_area_sq_mi": 1863,
         "legal_boundary": false
       },
       "geometry": {
@@ -36,16 +36,16 @@
               46.21
             ],
             [
-              -123,
+              -123.08,
               46.09
             ],
             [
-              -122.86,
+              -122.66,
               45.91
             ],
             [
-              -122.97,
-              45.76
+              -123.08,
+              45.78
             ],
             [
               -123.24,
