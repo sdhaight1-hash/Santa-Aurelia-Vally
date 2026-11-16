@@ -482,6 +482,24 @@
           45.91
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "duskwood",
+      "properties": {
+        "name": "Duskwood Township",
+        "category": "township",
+        "status": "proposed-mapped",
+        "fictional": true,
+        "note": "Independent small settlement on eastern/southeastern outskirts of Witches' Wood; proposed center only, not surveyed or municipal boundary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.592,
+          45.875
+        ]
+      }
     }
   ]
 }
