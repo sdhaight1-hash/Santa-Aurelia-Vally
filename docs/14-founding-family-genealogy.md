@@ -77,3 +77,6 @@ The quotation above is an **original in-world historical text** created for this
 
 ## The family archive survives within the main lineage
 **Established:** the founding portraits, original voyage books and original settler rolls have remained in the **private estate library of the main Valcárcel descent line** for more than four centuries. Later Valcárcel descendants, public scholars and institutions may hold copies, but not the originals by default. For details and open questions about the building, archival custody and modern access, see [The Valcárcel Estate Library](17-valcarcel-estate-library-and-archive.md).
+
+## Written family memory
+The Valcárcel library retains early love letters, descendants' registers, **Sáweli/Inés's own retrospectively written notebooks on childhood and Ashalewan family life**, and selected journals of the founding party. Her own adult handwriting begins only after learning alphabetic literacy in the years after the wedding; earlier messages may have been dictated or recorded by a scribe. The notebooks record the founding couple's nine children and members of Sáweli's natal family, though they should not be treated as complete proof of later political or citizenship claims. See the [full manuscript and artifact inventory](18-estate-library-collection-catalogue.md).
