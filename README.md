@@ -96,3 +96,6 @@ The privately held Valcárcel archives now include original love letters between
 - [Affluent cities and economically varied outlying townships](docs/27-prosperity-and-outlying-townships.md)
 
 - [Valley high school sports: Wisps, Captains and Southbank Wolves](docs/28-high-school-sports-and-rivalries.md)
+
+- [Geographic Master Plan v1 — 1,800-square-mile region and proposed place coordinates](docs/29-geographic-master-plan.md)
+- [GeoJSON study boundary and mapped location points](atlas/geography.geojson)
