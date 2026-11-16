@@ -33,3 +33,7 @@ Two cities have distinct municipal governments and institutions; smaller settlem
 
 ## Cultural common ground
 Collective love of craftsmanship, horticulture, forests, regional history and festivals; pride in Santa Aurelia's unusual founding cooperation, without erasing colonial conflict; shared emergency response in earthquake/tsunami country; community theater, reenactment, folklore collection, parishes, gardens, markets and schools. Annual public celebrations differ from invite-only elite ceremonies and cultural practices belonging to tribal nations.
+
+
+## Founder family genealogical reconstruction
+The atlas's Family Archive now traces two generations behind **both** Alonso and Inés; see [founding family genealogy](14-founding-family-genealogy.md). Alonso's paternal grandfather and grandmother are the historical Charles V and Barbara Blomberg, with historical Don John of Austria as father **only under the fictional alternate branch**, while his mother Catalina and her parents are fictive/provisional. Inés's father is known as a chief and both her parents/grandparents remain unnamed pending Indigenous cultural development. The founders had **nine children**, whose individual identities remain to be established. Four surviving seventeenth-century portraits by Alonso's expedition-companion artist document the couple and family in-world.
