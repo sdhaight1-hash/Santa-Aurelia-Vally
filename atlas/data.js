@@ -9,7 +9,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Present day",
       "summary": "A layered lower Columbia region of maritime cities, inland forests, ancient monuments, and communities shaped by more than four centuries of colonial history.",
-      "body": "The region encompasses [[santa-aurelia|Santa Aurelia]], [[willowwick|Willowwick Grove]], [[blackwood|Blackwood Ridge]], and surrounding watersheds, rural hamlets, lakes and tribal lands.\n\nIts Spanish regional name derives from the old port, but its Indigenous histories reach back millennia. The region is not one municipality, one valley basin, or one uniform culture.\n\nSanta Aurelia and Willowwick Grove are near-peer cities. The northwest portion of Witches' Wood includes reservation land, while southwest Blackwood transitions into Fernhollow Country.\n\nThe coast and inland communities sustain a substantial [[wedding-coast|wedding industry]] built around Santa Aurelia's palaces, gardens, historic inns, [[harbor-boardwalks|waterfront promenades]] and distinctive regional architecture.\n\nThe tourism economy also includes [[paddlewheel-riverboats|heritage paddlewheel cruises]] and Santa Aurelia's [[cruise-homeport|ocean cruise homeport]].\n\nA major [[coast-guard-base|U.S. Coast Guard maritime installation]] is situated outside Santa Aurelia.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\nBoth [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]] are broadly affluent. Some smaller, separate [[outlying-townships|townships]] in the surrounding mining, timber and floodplain valleys face greater economic hardship; they are not districts within either city.\n\n[[southbank|Southbank]] is an independent lower-income former river-mill township in the wider valley, separate from both prosperous cities.\n\nSchool athletics and the rivalries among the [[wisps|Willowwick Wisps]], [[santa-aurelia-captains|Santa Aurelia Captains]] and [[southbank-wolves|Southbank Wolves]] are defining regional traditions.\n\n**Geography master-plan v1:** Approx. 1,800 sq mi (4,660 km²) target; irregular roughly 70-mile east–west and 45-mile north–south cultural region; multiple watersheds, not a single valley. Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\n**Natural-history design:** the region retains Oregon Coast Range rainforest, multiple river basins and estuary but also has local [[moor-ridges|Highland-like exposed ridges]], [[black-steps|basalt-column coast]], [[high-gorge|a major upper gorge]], and [[blackwood-ravines|smaller forest ravines]]. See [[natural-history|natural history]].\n\nLocal natural history includes self-sustaining [[sika-deer|sika deer]] populations and rare [[red-necked-wallabies|wallabies]], both introduced animals with debated ecological effects.\n\nThe native [[blackwood-echojay|Blackwood Echojay]] is celebrated for extraordinary imitative calls and a silvery-on-indigo appearance in Witches' Wood.\n\nThe valley's ancient [[witchwood|Witches' Wood]] has a dual reputation: devastating to repeated commercial logging ventures, yet rich in permitted wild foods and an inspiration for [[fernhollow-ecology-research|Fernhollow's food-forest research]].\n\n**Long-established Blacksilver cultivation:** cuttings taken over centuries established trees outside their native [[witchwood|Witches' Wood]], including cultivated grounds and working woodlots throughout the valley. Those generally smaller trees supply most [[blacksilver-woodcraft|Blacksilver woodcraft]] rather than ancient forest groves.\n\nAn additional independent Blackwood-area settlement, [[duskwood|Duskwood Township]], lies on Witches' Wood's eastern/southeastern outskirts.\n\nThe region's [[valley-agriculture|cattle ranches and farms]], strong [[valley-4h|4-H culture]], and major [[valley-rodeo|rodeo traditions]] include long-established descendants of [[wyoming-ranchers|Wyoming ranching migrants]].\n\nThe [migration-history world-bible section](docs/migration-history/README.md) and [[migration-history|Migration and Settlement History]] trace the valley's multilayered population origins, from Indigenous societies to modern families.",
+      "body": "The region encompasses [[santa-aurelia|Santa Aurelia]], [[willowwick|Willowwick Grove]], [[blackwood|Blackwood Ridge]], and surrounding watersheds, rural hamlets, lakes and tribal lands.\n\nIts Spanish regional name derives from the old port, but its Indigenous histories reach back millennia. The region is not one municipality, one valley basin, or one uniform culture.\n\nSanta Aurelia and Willowwick Grove are near-peer cities. The northwest portion of Witches' Wood includes reservation land, while southwest Blackwood transitions into Fernhollow Country.\n\nThe coast and inland communities sustain a substantial [[wedding-coast|wedding industry]] built around Santa Aurelia's palaces, gardens, historic inns, [[harbor-boardwalks|waterfront promenades]] and distinctive regional architecture.\n\nThe tourism economy also includes [[paddlewheel-riverboats|heritage paddlewheel cruises]] and Santa Aurelia's [[cruise-homeport|ocean cruise homeport]].\n\nA major [[coast-guard-base|U.S. Coast Guard maritime installation]] is situated outside Santa Aurelia.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\nBoth [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]] are broadly affluent. Some smaller, separate [[outlying-townships|townships]] in the surrounding mining, timber and floodplain valleys face greater economic hardship; they are not districts within either city.\n\n[[southbank|Southbank]] is an independent lower-income former river-mill township in the wider valley, separate from both prosperous cities.\n\nSchool athletics and the rivalries among the [[wisps|Willowwick Wisps]], [[santa-aurelia-captains|Santa Aurelia Captains]] and [[southbank-wolves|Southbank Wolves]] are defining regional traditions.\n\n**Geography master-plan v1:** Approx. 1,800 sq mi (4,660 km²) target; irregular roughly 70-mile east–west and 45-mile north–south cultural region; multiple watersheds, not a single valley. Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\n**Natural-history design:** the region retains Oregon Coast Range rainforest, multiple river basins and estuary but also has local [[moor-ridges|Highland-like exposed ridges]], [[black-steps|basalt-column coast]], [[high-gorge|a major upper gorge]], and [[blackwood-ravines|smaller forest ravines]]. See [[natural-history|natural history]].\n\nLocal natural history includes self-sustaining [[sika-deer|sika deer]] populations and rare [[red-necked-wallabies|wallabies]], both introduced animals with debated ecological effects.\n\nThe native [[blackwood-echojay|Blackwood Echojay]] is celebrated for extraordinary imitative calls and a silvery-on-indigo appearance in Witches' Wood.\n\nThe valley's ancient [[witchwood|Witches' Wood]] has a dual reputation: devastating to repeated commercial logging ventures, yet rich in permitted wild foods and an inspiration for [[fernhollow-ecology-research|Fernhollow's food-forest research]].\n\n**Long-established Blacksilver cultivation:** cuttings taken over centuries established trees outside their native [[witchwood|Witches' Wood]], including cultivated grounds and working woodlots throughout the valley. Those generally smaller trees supply most [[blacksilver-woodcraft|Blacksilver woodcraft]] rather than ancient forest groves.\n\nAn additional independent Blackwood-area settlement, [[duskwood|Duskwood Township]], lies on Witches' Wood's eastern/southeastern outskirts.\n\nThe region's [[valley-agriculture|cattle ranches and farms]], strong [[valley-4h|4-H culture]], and major [[valley-rodeo|rodeo traditions]] include long-established descendants of [[wyoming-ranchers|Wyoming ranching migrants]].\n\nThe [migration-history world-bible section](docs/migration-history/README.md) and [[migration-history|Migration and Settlement History]] trace the valley's multilayered population origins, from Indigenous societies to modern families.\n\nThe [[political-succession|Long Transfer]] establishes the city's **1821 negotiated transition to U.S. administration**, with **1846/1848/1859** Oregon milestones; Indigenous land titles and sovereignty remain independently contested.",
       "tags": [
         "geography",
         "overview",
@@ -42,7 +42,8 @@ window.SANTA_AURELIA_SEED={
         "valley-agriculture",
         "valley-4h",
         "valley-rodeo",
-        "migration-history"
+        "migration-history",
+        "political-succession"
       ]
     },
     {
@@ -52,7 +53,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Founded 1608",
       "summary": "The Jewel of the Pacific: a Spanish–Indigenous and Venetian-influenced port city at the site of present-day Astoria, Oregon.",
-      "body": "The first permanent European-founded settlement in the region was established here in **1608** by [[alonso|Don Alonso de Valcárcel y Austria]]. The harbor already supported Indigenous communities, trade, and maritime knowledge.\n\nThe city occupies the present-day Astoria site on the Columbia estuary. It rebuilt after the 1700 earthquake and remains a living commercial port rather than a museum district.\n\nNineteenth-century Venetian migration added merchant wealth, decorated stone arcades, glasswork, and waterfront palazzi to a much older Spanish–Indigenous building tradition.\n\nIts famous [[festival|Festival of the Two Hearts]], [[palacio|Palacio de la Bahía]], and [[flagship|preserved flagship]] attract regional visitors. Working population is approximately 19,000.\n\nThe city's monumental [[season-of-halls|ballroom circuit]] and breathtaking [[harbor-boardwalks|timber-and-stone harbor promenades]] make it the heart of the [[wedding-coast|valley's destination wedding economy]], attracting ceremonies and celebrations throughout the year.\n\nSanta Aurelia is also an **ocean-going [[cruise-homeport|cruise departure homeport]]**, with a dedicated [[ocean-passenger-terminal|passenger terminal]], and hosts a thriving [[paddlewheel-riverboats|heritage paddlewheel excursion industry]]. These complement its wedding venues and magnificent waterfront.\n\nA substantial [[coast-guard-base|Coast Guard base]] sits near, but outside, the city, supporting rescue aviation, boats and maritime safety around the Columbia Bar.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\n**Updated socioeconomic canon:** Santa Aurelia is generally affluent and well-kept, like Willowwick. Ordinary wage-earners, renters and households facing high costs remain part of the city, but it does not have a large named impoverished quarter. More economically challenged former industry communities are [[outlying-townships|separate valley townships]].\n\nThe [[santa-aurelia-captains|Santa Aurelia High School Captains]] are rivals of the [[wisps|Willowwick Wisps]] and [[southbank-wolves|Southbank Wolves]].\n\nThe city's or township's six-time champion [[santa-aurelia-captains|Captains]] are part of the [[valley-highschool-rivalries|Valley Three]], a trio of Oregon high school football dynasties renowned far beyond the valley.\n\n**Geography master-plan v1:** 46.1880° N, 123.8313° W (Astoria real-site anchor). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nThe city's wider coastal tourism draws on the proposed [[black-steps|Black Steps]] volcanic shore and [[natural-history|the region's distinctive geology]], beyond its historic harbor and wedding halls.\n\nFine interior decoration and heirloom furniture sometimes use legally sourced [[blacksilver-woodcraft|Blacksilver Willow heartwood]], a local near-ebony wood with an important traditional bowmaking reputation.\n\n**Long-established Blacksilver cultivation:** cuttings taken over centuries established trees outside their native [[witchwood|Witches' Wood]], including cultivated grounds and working woodlots throughout the valley. Those generally smaller trees supply most [[blacksilver-woodcraft|Blacksilver woodcraft]] rather than ancient forest groves.\n\nThe port's historic Spanish-influenced livestock culture forms an older layer of [[valley-agriculture|valley ranching]], which eventually joins the much later [[valley-rodeo|organized rodeo]] tradition.\n\nThe [[migration-history|migration history]] distinguishes the multiethnic founding fleet, subsequent mixed households, Venetian merchants and later working waterfront communities.",
+      "body": "The first permanent European-founded settlement in the region was established here in **1608** by [[alonso|Don Alonso de Valcárcel y Austria]]. The harbor already supported Indigenous communities, trade, and maritime knowledge.\n\nThe city occupies the present-day Astoria site on the Columbia estuary. It rebuilt after the 1700 earthquake and remains a living commercial port rather than a museum district.\n\nNineteenth-century Venetian migration added merchant wealth, decorated stone arcades, glasswork, and waterfront palazzi to a much older Spanish–Indigenous building tradition.\n\nIts famous [[festival|Festival of the Two Hearts]], [[palacio|Palacio de la Bahía]], and [[flagship|preserved flagship]] attract regional visitors. Working population is approximately 19,000.\n\nThe city's monumental [[season-of-halls|ballroom circuit]] and breathtaking [[harbor-boardwalks|timber-and-stone harbor promenades]] make it the heart of the [[wedding-coast|valley's destination wedding economy]], attracting ceremonies and celebrations throughout the year.\n\nSanta Aurelia is also an **ocean-going [[cruise-homeport|cruise departure homeport]]**, with a dedicated [[ocean-passenger-terminal|passenger terminal]], and hosts a thriving [[paddlewheel-riverboats|heritage paddlewheel excursion industry]]. These complement its wedding venues and magnificent waterfront.\n\nA substantial [[coast-guard-base|Coast Guard base]] sits near, but outside, the city, supporting rescue aviation, boats and maritime safety around the Columbia Bar.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\n**Updated socioeconomic canon:** Santa Aurelia is generally affluent and well-kept, like Willowwick. Ordinary wage-earners, renters and households facing high costs remain part of the city, but it does not have a large named impoverished quarter. More economically challenged former industry communities are [[outlying-townships|separate valley townships]].\n\nThe [[santa-aurelia-captains|Santa Aurelia High School Captains]] are rivals of the [[wisps|Willowwick Wisps]] and [[southbank-wolves|Southbank Wolves]].\n\nThe city's or township's six-time champion [[santa-aurelia-captains|Captains]] are part of the [[valley-highschool-rivalries|Valley Three]], a trio of Oregon high school football dynasties renowned far beyond the valley.\n\n**Geography master-plan v1:** 46.1880° N, 123.8313° W (Astoria real-site anchor). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nThe city's wider coastal tourism draws on the proposed [[black-steps|Black Steps]] volcanic shore and [[natural-history|the region's distinctive geology]], beyond its historic harbor and wedding halls.\n\nFine interior decoration and heirloom furniture sometimes use legally sourced [[blacksilver-woodcraft|Blacksilver Willow heartwood]], a local near-ebony wood with an important traditional bowmaking reputation.\n\n**Long-established Blacksilver cultivation:** cuttings taken over centuries established trees outside their native [[witchwood|Witches' Wood]], including cultivated grounds and working woodlots throughout the valley. Those generally smaller trees supply most [[blacksilver-woodcraft|Blacksilver woodcraft]] rather than ancient forest groves.\n\nThe port's historic Spanish-influenced livestock culture forms an older layer of [[valley-agriculture|valley ranching]], which eventually joins the much later [[valley-rodeo|organized rodeo]] tradition.\n\nThe [[migration-history|migration history]] distinguishes the multiethnic founding fleet, subsequent mixed households, Venetian merchants and later working waterfront communities.\n\nThe [[political-succession|Long Transfer]] establishes the city's **1821 negotiated transition to U.S. administration**, with **1846/1848/1859** Oregon milestones; Indigenous land titles and sovereignty remain independently contested.",
       "tags": [
         "city",
         "coast",
@@ -84,7 +85,8 @@ window.SANTA_AURELIA_SEED={
         "valley-agriculture",
         "valley-4h",
         "valley-rodeo",
-        "migration-history"
+        "migration-history",
+        "political-succession"
       ]
     },
     {
@@ -322,7 +324,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Precolonial to present",
       "summary": "Sovereign tribal lands extend into the northwest portion of Witches' Wood and include ancestral woodland, trails, waystones, and living communities.",
-      "body": "Reservation lands occupy northwestern Blackwood Ridge and **include substantial portions of [[witchwood|Witches' Wood]]**. Tribal governance, conservation and cultural practice extend to these actual landholdings.\n\nSome ancient stones and [[blacksilver|Blacksilver Willow]] habitats occur on reservation land; the exact jurisdiction of the central Fairy Stones complex remains unresolved.\n\nThe [[casino|Cedarwater Casino & Lodge]] is a tribal government enterprise. Tribal citizenship and sovereignty are not determined merely by ancestry from Alonso and Inés.\n\nThe nation's precise in-setting name, language, political history and boundaries have not yet been decided.\n\n**Geography master-plan v1:** 45.9380° N, 123.7030° W (northwest ridge overlap reference point only; not a tribal jurisdictional polygon). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\n**Conservation status:** much of Witches' Wood's ancient forest survived without a single overarching legally recognized protected-area designation. Failed timber ventures, disturbing legends, and generations of reluctance to enter the deep forest have acted as an **informal deterrent**. [[fernhollow|Fernhollow ecovillage]] and the sovereign [[reservation|tribal government]] now advocate formal comprehensive conservation, retaining separate governance and existing parcel-specific protections. The forest remains open to certain authorized foraging and study; neither its lore nor advocacy confers unrestricted access or legal protection. Exact designation and outcome are undecided.",
+      "body": "Reservation lands occupy northwestern Blackwood Ridge and **include substantial portions of [[witchwood|Witches' Wood]]**. Tribal governance, conservation and cultural practice extend to these actual landholdings.\n\nSome ancient stones and [[blacksilver|Blacksilver Willow]] habitats occur on reservation land; the exact jurisdiction of the central Fairy Stones complex remains unresolved.\n\nThe [[casino|Cedarwater Casino & Lodge]] is a tribal government enterprise. Tribal citizenship and sovereignty are not determined merely by ancestry from Alonso and Inés.\n\nThe nation's precise in-setting name, language, political history and boundaries have not yet been decided.\n\n**Geography master-plan v1:** 45.9380° N, 123.7030° W (northwest ridge overlap reference point only; not a tribal jurisdictional polygon). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\n**Conservation status:** much of Witches' Wood's ancient forest survived without a single overarching legally recognized protected-area designation. Failed timber ventures, disturbing legends, and generations of reluctance to enter the deep forest have acted as an **informal deterrent**. [[fernhollow|Fernhollow ecovillage]] and the sovereign [[reservation|tribal government]] now advocate formal comprehensive conservation, retaining separate governance and existing parcel-specific protections. The forest remains open to certain authorized foraging and study; neither its lore nor advocacy confers unrestricted access or legal protection. Exact designation and outcome are undecided.\n\nThe [[political-succession|Long Transfer]] establishes the city's **1821 negotiated transition to U.S. administration**, with **1846/1848/1859** Oregon milestones; Indigenous land titles and sovereignty remain independently contested.",
       "tags": [
         "indigenous",
         "sovereignty",
@@ -334,7 +336,8 @@ window.SANTA_AURELIA_SEED={
         "blackwood",
         "geographic-master-plan",
         "fernhollow",
-        "reservation"
+        "reservation",
+        "political-succession"
       ]
     },
     {
@@ -1739,7 +1742,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Pre-1608 to 2026",
       "summary": "The valley's layered Indigenous, transpacific, Spanish, Venetian, American, European, Asian and Wyoming ranching migrations, with a source-graded chronology and unresolved legal transitions.",
-      "body": "The **Migration, Settlement and Demographic History** traces the region's continuous [[reservation|Indigenous societies]], the **1608 mixed 67-person two-vessel founding fleet**, centuries of [[santa-aurelia|Santa Aurelia]] kinship and Pacific exchange, the 1700 Cascadia disaster and inland relocations, maritime Venetian migration, [[willowwick|Willowwick Grove]] gold/timber and Connecticut/Virginia investment, Irish/Scottish/Romanian/Slavic Blackwood settlement, Chinese and Scandinavian fishing and canning communities, Japanese/Korean horticultural traditions, [[wyoming-ranchers|Wyoming ranching families]], and the 1970s [[fernhollow|Fernhollow]] ecovillage.\n\n**User-established facts and speculative dates remain distinct**. The precise geopolitical/legal transition from a 1608 Spanish port to U.S. Oregon and related Indigenous land history is still unresolved, and real historical Astoria census statistics are not automatically fictional Santa Aurelia's.\n\n**Dedicated world-bible section:** `docs/migration-history/README.md`, with full `01-chronology-and-waves.md`, `02-peoples-places-and-institutions.md`, `03-power-land-rights-and-counterfactuals.md`, and `04-evidence-and-open-decisions.md`.",
+      "body": "The **Migration, Settlement and Demographic History** traces the region's continuous [[reservation|Indigenous societies]], the **1608 mixed 67-person two-vessel founding fleet**, centuries of [[santa-aurelia|Santa Aurelia]] kinship and Pacific exchange, the 1700 Cascadia disaster and inland relocations, maritime Venetian migration, [[willowwick|Willowwick Grove]] gold/timber and Connecticut/Virginia investment, Irish/Scottish/Romanian/Slavic Blackwood settlement, Chinese and Scandinavian fishing and canning communities, Japanese/Korean horticultural traditions, [[wyoming-ranchers|Wyoming ranching families]], and the 1970s [[fernhollow|Fernhollow]] ecovillage.\n\n**User-established facts and speculative dates remain distinct**. The precise geopolitical/legal transition from a 1608 Spanish port to U.S. Oregon and related Indigenous land history is still unresolved, and real historical Astoria census statistics are not automatically fictional Santa Aurelia's.\n\n**Dedicated world-bible section:** `docs/migration-history/README.md`, with full `01-chronology-and-waves.md`, `02-peoples-places-and-institutions.md`, `03-power-land-rights-and-counterfactuals.md`, and `04-evidence-and-open-decisions.md`.\n\nThe [[political-succession|Long Transfer]] establishes the city's **1821 negotiated transition to U.S. administration**, with **1846/1848/1859** Oregon milestones; Indigenous land titles and sovereignty remain independently contested.",
       "tags": [
         "migration",
         "settlement",
@@ -1755,7 +1758,32 @@ window.SANTA_AURELIA_SEED={
         "willowwick",
         "blackwood",
         "wyoming-ranchers",
-        "fernhollow"
+        "fernhollow",
+        "political-succession"
+      ]
+    },
+    {
+      "id": "political-succession",
+      "title": "The Long Transfer: Spanish Santa Aurelia to American Oregon",
+      "category": "History",
+      "status": "established",
+      "era": "1608–1859",
+      "summary": "Santa Aurelia survives as a Spanish-origin port and undergoes a negotiated 1821 U.S. sovereignty transfer, then enters Oregon Territory in 1848 and statehood in 1859.",
+      "body": "**Newly established political canon:** [[santa-aurelia|Santa Aurelia]] is founded as a Spanish-linked maritime port in **1608**, persists after the Cascadia disaster of **1700**, and becomes an **American-administered city in early 1821** under an **invented local implementation annex** to the real Adams–Onís settlement. Old municipal institutions and preexisting civil property records gain provisional, reviewable continuity. The annex and any British accommodation are *fictional alternate-history instruments*, not authentic treaty clauses.\n\nBecause the port already existed, the real 1811 Fort Astoria establishment does **not** occur unchanged; Astor-associated merchants negotiate local facilities instead. The real **1846 Oregon Treaty** clarifies the wider U.S.–British boundary, followed by **Oregon Territory in 1848** and **statehood in 1859**. The city's Spanish-Indigenous identity and later Venetian arrivals are preserved within this new legal context.\n\n**Indigenous sovereignty, land rights, fisheries and ancestral sites cannot be extinguished by a bilateral foreign treaty**. Exact tribal treaty/recognition history and contested titles remain unresolved. Full bible: `docs/37-political-succession-1608-1859.md`; see also [[migration-history|regional migration history]] and [[reservation|tribal government]].",
+      "tags": [
+        "politics",
+        "sovereignty",
+        "1821",
+        "1846",
+        "1848",
+        "1859",
+        "history"
+      ],
+      "links": [
+        "santa-aurelia",
+        "migration-history",
+        "reservation",
+        "valle"
       ]
     }
   ],
@@ -1797,6 +1825,24 @@ window.SANTA_AURELIA_SEED={
       "entry": "migration-history"
     },
     {
+      "year": 1811,
+      "label": "Astor merchants negotiate with an established Santa Aurelia",
+      "summary": "Unlike the real Fort Astoria foundation, traders encounter a functioning Spanish-origin city and seek negotiated access.",
+      "entry": "political-succession"
+    },
+    {
+      "year": 1819,
+      "label": "Adams–Onís Treaty signed; fictional Santa Aurelia negotiations",
+      "summary": "Real treaty sets a boundary; the setting adds a fictional city-specific implementation protocol ahead of 1821 ratification.",
+      "entry": "political-succession"
+    },
+    {
+      "year": 1821,
+      "label": "Santa Aurelia transfers to American administration",
+      "summary": "Fictional early-1821 negotiated implementation transfers Spain's asserted city sovereignty to the U.S.; municipal claims and tribal title remain contested.",
+      "entry": "political-succession"
+    },
+    {
       "year": 1830,
       "label": "Venetian merchant arrival",
       "summary": "A period of Venetian investment reshapes Santa Aurelia's waterfront.",
@@ -1807,6 +1853,24 @@ window.SANTA_AURELIA_SEED={
       "label": "Venetian maritime and artisan immigration (working phase)",
       "summary": "Part of a proposed 1815–1855 merchant and skilled craft movement into existing Santa Aurelia.",
       "entry": "migration-history"
+    },
+    {
+      "year": 1846,
+      "label": "Oregon Treaty confirms surrounding boundary",
+      "summary": "Real U.S.–British Oregon Treaty resolves the wider Anglo-American dispute; Santa Aurelia has already been U.S.-administered since 1821.",
+      "entry": "political-succession"
+    },
+    {
+      "year": 1848,
+      "label": "Santa Aurelia integrates into Oregon Territory",
+      "summary": "Federal Oregon Territory created; fictional municipal continuity provisions carry forward subject to lawful review.",
+      "entry": "political-succession"
+    },
+    {
+      "year": 1859,
+      "label": "Oregon statehood",
+      "summary": "Oregon admitted February 14; Santa Aurelia now governed under state and federal law while preserving earlier civic culture.",
+      "entry": "political-succession"
     },
     {
       "year": 1860,
