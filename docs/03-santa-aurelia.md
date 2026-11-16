@@ -62,3 +62,6 @@ Old colonial quarter, elevated chapel terrace, Catholic parish and churches, Pal
 
 ## Joint U.S. Coast Guard–Navy installation — correction to earlier description
 **Latest explicit canon:** the maritime base a short distance **outside** Santa Aurelia is a **joint U.S. Coast Guard and U.S. Navy installation**, not Coast Guard-only. Both services maintain distinct units and command structures while sharing a geographic base and selected support facilities. Coast Guard rescue/port-safety functions coexist with Navy logistics, training and maritime readiness functions whose exact unit composition remains open. The installation is not inside the historic waterfront. This supersedes any earlier Coast Guard-only statement. See [joint-base reference](26-coast-guard-base-santa-aurelia.md).
+
+## The prosperous-city pattern
+**Established:** Santa Aurelia, like inland Willowwick Grove, is broadly **affluent, well-maintained and economically successful**, rather than containing a large named impoverished quarter. Ordinary workers and lower-income residents still live in the city, amid rising living costs and income variation. Economically distressed former industrial and logging townships occur **outside both municipal limits**, with their own histories. See [regional socioeconomic geography](27-prosperity-and-outlying-townships.md).
