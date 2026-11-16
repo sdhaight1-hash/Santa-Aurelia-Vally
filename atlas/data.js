@@ -9,7 +9,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Present day",
       "summary": "A layered lower Columbia region of maritime cities, inland forests, ancient monuments, and communities shaped by more than four centuries of colonial history.",
-      "body": "The region encompasses [[santa-aurelia|Santa Aurelia]], [[willowwick|Willowwick Grove]], [[blackwood|Blackwood Ridge]], and surrounding watersheds, rural hamlets, lakes and tribal lands.\n\nIts Spanish regional name derives from the old port, but its Indigenous histories reach back millennia. The region is not one municipality, one valley basin, or one uniform culture.\n\nSanta Aurelia and Willowwick Grove are near-peer cities. The northwest portion of Witches' Wood includes reservation land, while southwest Blackwood transitions into Fernhollow Country.\n\nThe coast and inland communities sustain a substantial [[wedding-coast|wedding industry]] built around Santa Aurelia's palaces, gardens, historic inns, [[harbor-boardwalks|waterfront promenades]] and distinctive regional architecture.\n\nThe tourism economy also includes [[paddlewheel-riverboats|heritage paddlewheel cruises]] and Santa Aurelia's [[cruise-homeport|ocean cruise homeport]].\n\nA major [[coast-guard-base|U.S. Coast Guard maritime installation]] is situated outside Santa Aurelia.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\nBoth [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]] are broadly affluent. Some smaller, separate [[outlying-townships|townships]] in the surrounding mining, timber and floodplain valleys face greater economic hardship; they are not districts within either city.\n\n[[southbank|Southbank]] is an independent lower-income former river-mill township in the wider valley, separate from both prosperous cities.\n\nSchool athletics and the rivalries among the [[wisps|Willowwick Wisps]], [[santa-aurelia-captains|Santa Aurelia Captains]] and [[southbank-wolves|Southbank Wolves]] are defining regional traditions.\n\n**Geography master-plan v1:** Approx. 1,800 sq mi (4,660 km²) target; irregular roughly 70-mile east–west and 45-mile north–south cultural region; multiple watersheds, not a single valley. Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\n**Natural-history design:** the region retains Oregon Coast Range rainforest, multiple river basins and estuary but also has local [[moor-ridges|Highland-like exposed ridges]], [[black-steps|basalt-column coast]], [[high-gorge|a major upper gorge]], and [[blackwood-ravines|smaller forest ravines]]. See [[natural-history|natural history]].\n\nLocal natural history includes self-sustaining [[sika-deer|sika deer]] populations and rare [[red-necked-wallabies|wallabies]], both introduced animals with debated ecological effects.\n\nThe native [[blackwood-echojay|Blackwood Echojay]] is celebrated for extraordinary imitative calls and a silvery-on-indigo appearance in Witches' Wood.\n\nThe valley's ancient [[witchwood|Witches' Wood]] has a dual reputation: devastating to repeated commercial logging ventures, yet rich in permitted wild foods and an inspiration for [[fernhollow-ecology-research|Fernhollow's food-forest research]].\n\n**Long-established Blacksilver cultivation:** cuttings taken over centuries established trees outside their native [[witchwood|Witches' Wood]], including cultivated grounds and working woodlots throughout the valley. Those generally smaller trees supply most [[blacksilver-woodcraft|Blacksilver woodcraft]] rather than ancient forest groves.\n\nAn additional independent Blackwood-area settlement, [[duskwood|Duskwood Township]], lies on Witches' Wood's eastern/southeastern outskirts.\n\nThe region's [[valley-agriculture|cattle ranches and farms]], strong [[valley-4h|4-H culture]], and major [[valley-rodeo|rodeo traditions]] include long-established descendants of [[wyoming-ranchers|Wyoming ranching migrants]].",
+      "body": "The region encompasses [[santa-aurelia|Santa Aurelia]], [[willowwick|Willowwick Grove]], [[blackwood|Blackwood Ridge]], and surrounding watersheds, rural hamlets, lakes and tribal lands.\n\nIts Spanish regional name derives from the old port, but its Indigenous histories reach back millennia. The region is not one municipality, one valley basin, or one uniform culture.\n\nSanta Aurelia and Willowwick Grove are near-peer cities. The northwest portion of Witches' Wood includes reservation land, while southwest Blackwood transitions into Fernhollow Country.\n\nThe coast and inland communities sustain a substantial [[wedding-coast|wedding industry]] built around Santa Aurelia's palaces, gardens, historic inns, [[harbor-boardwalks|waterfront promenades]] and distinctive regional architecture.\n\nThe tourism economy also includes [[paddlewheel-riverboats|heritage paddlewheel cruises]] and Santa Aurelia's [[cruise-homeport|ocean cruise homeport]].\n\nA major [[coast-guard-base|U.S. Coast Guard maritime installation]] is situated outside Santa Aurelia.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\nBoth [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]] are broadly affluent. Some smaller, separate [[outlying-townships|townships]] in the surrounding mining, timber and floodplain valleys face greater economic hardship; they are not districts within either city.\n\n[[southbank|Southbank]] is an independent lower-income former river-mill township in the wider valley, separate from both prosperous cities.\n\nSchool athletics and the rivalries among the [[wisps|Willowwick Wisps]], [[santa-aurelia-captains|Santa Aurelia Captains]] and [[southbank-wolves|Southbank Wolves]] are defining regional traditions.\n\n**Geography master-plan v1:** Approx. 1,800 sq mi (4,660 km²) target; irregular roughly 70-mile east–west and 45-mile north–south cultural region; multiple watersheds, not a single valley. Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\n**Natural-history design:** the region retains Oregon Coast Range rainforest, multiple river basins and estuary but also has local [[moor-ridges|Highland-like exposed ridges]], [[black-steps|basalt-column coast]], [[high-gorge|a major upper gorge]], and [[blackwood-ravines|smaller forest ravines]]. See [[natural-history|natural history]].\n\nLocal natural history includes self-sustaining [[sika-deer|sika deer]] populations and rare [[red-necked-wallabies|wallabies]], both introduced animals with debated ecological effects.\n\nThe native [[blackwood-echojay|Blackwood Echojay]] is celebrated for extraordinary imitative calls and a silvery-on-indigo appearance in Witches' Wood.\n\nThe valley's ancient [[witchwood|Witches' Wood]] has a dual reputation: devastating to repeated commercial logging ventures, yet rich in permitted wild foods and an inspiration for [[fernhollow-ecology-research|Fernhollow's food-forest research]].\n\n**Long-established Blacksilver cultivation:** cuttings taken over centuries established trees outside their native [[witchwood|Witches' Wood]], including cultivated grounds and working woodlots throughout the valley. Those generally smaller trees supply most [[blacksilver-woodcraft|Blacksilver woodcraft]] rather than ancient forest groves.\n\nAn additional independent Blackwood-area settlement, [[duskwood|Duskwood Township]], lies on Witches' Wood's eastern/southeastern outskirts.\n\nThe region's [[valley-agriculture|cattle ranches and farms]], strong [[valley-4h|4-H culture]], and major [[valley-rodeo|rodeo traditions]] include long-established descendants of [[wyoming-ranchers|Wyoming ranching migrants]].\n\nThe [migration-history world-bible section](docs/migration-history/README.md) and [[migration-history|Migration and Settlement History]] trace the valley's multilayered population origins, from Indigenous societies to modern families.",
       "tags": [
         "geography",
         "overview",
@@ -41,7 +41,8 @@ window.SANTA_AURELIA_SEED={
         "duskwood",
         "valley-agriculture",
         "valley-4h",
-        "valley-rodeo"
+        "valley-rodeo",
+        "migration-history"
       ]
     },
     {
@@ -51,7 +52,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Founded 1608",
       "summary": "The Jewel of the Pacific: a Spanish–Indigenous and Venetian-influenced port city at the site of present-day Astoria, Oregon.",
-      "body": "The first permanent European-founded settlement in the region was established here in **1608** by [[alonso|Don Alonso de Valcárcel y Austria]]. The harbor already supported Indigenous communities, trade, and maritime knowledge.\n\nThe city occupies the present-day Astoria site on the Columbia estuary. It rebuilt after the 1700 earthquake and remains a living commercial port rather than a museum district.\n\nNineteenth-century Venetian migration added merchant wealth, decorated stone arcades, glasswork, and waterfront palazzi to a much older Spanish–Indigenous building tradition.\n\nIts famous [[festival|Festival of the Two Hearts]], [[palacio|Palacio de la Bahía]], and [[flagship|preserved flagship]] attract regional visitors. Working population is approximately 19,000.\n\nThe city's monumental [[season-of-halls|ballroom circuit]] and breathtaking [[harbor-boardwalks|timber-and-stone harbor promenades]] make it the heart of the [[wedding-coast|valley's destination wedding economy]], attracting ceremonies and celebrations throughout the year.\n\nSanta Aurelia is also an **ocean-going [[cruise-homeport|cruise departure homeport]]**, with a dedicated [[ocean-passenger-terminal|passenger terminal]], and hosts a thriving [[paddlewheel-riverboats|heritage paddlewheel excursion industry]]. These complement its wedding venues and magnificent waterfront.\n\nA substantial [[coast-guard-base|Coast Guard base]] sits near, but outside, the city, supporting rescue aviation, boats and maritime safety around the Columbia Bar.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\n**Updated socioeconomic canon:** Santa Aurelia is generally affluent and well-kept, like Willowwick. Ordinary wage-earners, renters and households facing high costs remain part of the city, but it does not have a large named impoverished quarter. More economically challenged former industry communities are [[outlying-townships|separate valley townships]].\n\nThe [[santa-aurelia-captains|Santa Aurelia High School Captains]] are rivals of the [[wisps|Willowwick Wisps]] and [[southbank-wolves|Southbank Wolves]].\n\nThe city's or township's six-time champion [[santa-aurelia-captains|Captains]] are part of the [[valley-highschool-rivalries|Valley Three]], a trio of Oregon high school football dynasties renowned far beyond the valley.\n\n**Geography master-plan v1:** 46.1880° N, 123.8313° W (Astoria real-site anchor). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nThe city's wider coastal tourism draws on the proposed [[black-steps|Black Steps]] volcanic shore and [[natural-history|the region's distinctive geology]], beyond its historic harbor and wedding halls.\n\nFine interior decoration and heirloom furniture sometimes use legally sourced [[blacksilver-woodcraft|Blacksilver Willow heartwood]], a local near-ebony wood with an important traditional bowmaking reputation.\n\n**Long-established Blacksilver cultivation:** cuttings taken over centuries established trees outside their native [[witchwood|Witches' Wood]], including cultivated grounds and working woodlots throughout the valley. Those generally smaller trees supply most [[blacksilver-woodcraft|Blacksilver woodcraft]] rather than ancient forest groves.\n\nThe port's historic Spanish-influenced livestock culture forms an older layer of [[valley-agriculture|valley ranching]], which eventually joins the much later [[valley-rodeo|organized rodeo]] tradition.",
+      "body": "The first permanent European-founded settlement in the region was established here in **1608** by [[alonso|Don Alonso de Valcárcel y Austria]]. The harbor already supported Indigenous communities, trade, and maritime knowledge.\n\nThe city occupies the present-day Astoria site on the Columbia estuary. It rebuilt after the 1700 earthquake and remains a living commercial port rather than a museum district.\n\nNineteenth-century Venetian migration added merchant wealth, decorated stone arcades, glasswork, and waterfront palazzi to a much older Spanish–Indigenous building tradition.\n\nIts famous [[festival|Festival of the Two Hearts]], [[palacio|Palacio de la Bahía]], and [[flagship|preserved flagship]] attract regional visitors. Working population is approximately 19,000.\n\nThe city's monumental [[season-of-halls|ballroom circuit]] and breathtaking [[harbor-boardwalks|timber-and-stone harbor promenades]] make it the heart of the [[wedding-coast|valley's destination wedding economy]], attracting ceremonies and celebrations throughout the year.\n\nSanta Aurelia is also an **ocean-going [[cruise-homeport|cruise departure homeport]]**, with a dedicated [[ocean-passenger-terminal|passenger terminal]], and hosts a thriving [[paddlewheel-riverboats|heritage paddlewheel excursion industry]]. These complement its wedding venues and magnificent waterfront.\n\nA substantial [[coast-guard-base|Coast Guard base]] sits near, but outside, the city, supporting rescue aviation, boats and maritime safety around the Columbia Bar.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\n**Updated socioeconomic canon:** Santa Aurelia is generally affluent and well-kept, like Willowwick. Ordinary wage-earners, renters and households facing high costs remain part of the city, but it does not have a large named impoverished quarter. More economically challenged former industry communities are [[outlying-townships|separate valley townships]].\n\nThe [[santa-aurelia-captains|Santa Aurelia High School Captains]] are rivals of the [[wisps|Willowwick Wisps]] and [[southbank-wolves|Southbank Wolves]].\n\nThe city's or township's six-time champion [[santa-aurelia-captains|Captains]] are part of the [[valley-highschool-rivalries|Valley Three]], a trio of Oregon high school football dynasties renowned far beyond the valley.\n\n**Geography master-plan v1:** 46.1880° N, 123.8313° W (Astoria real-site anchor). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nThe city's wider coastal tourism draws on the proposed [[black-steps|Black Steps]] volcanic shore and [[natural-history|the region's distinctive geology]], beyond its historic harbor and wedding halls.\n\nFine interior decoration and heirloom furniture sometimes use legally sourced [[blacksilver-woodcraft|Blacksilver Willow heartwood]], a local near-ebony wood with an important traditional bowmaking reputation.\n\n**Long-established Blacksilver cultivation:** cuttings taken over centuries established trees outside their native [[witchwood|Witches' Wood]], including cultivated grounds and working woodlots throughout the valley. Those generally smaller trees supply most [[blacksilver-woodcraft|Blacksilver woodcraft]] rather than ancient forest groves.\n\nThe port's historic Spanish-influenced livestock culture forms an older layer of [[valley-agriculture|valley ranching]], which eventually joins the much later [[valley-rodeo|organized rodeo]] tradition.\n\nThe [[migration-history|migration history]] distinguishes the multiethnic founding fleet, subsequent mixed households, Venetian merchants and later working waterfront communities.",
       "tags": [
         "city",
         "coast",
@@ -82,7 +83,8 @@ window.SANTA_AURELIA_SEED={
         "blacksilver-woodcraft",
         "valley-agriculture",
         "valley-4h",
-        "valley-rodeo"
+        "valley-rodeo",
+        "migration-history"
       ]
     },
     {
@@ -92,7 +94,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Incorporated 1878 (working)",
       "summary": "The Garden City of the Lower Columbia, an inland gold-mining settlement transformed by timber, Victorian architecture, and exceptional horticulture.",
-      "body": "Willowwick began with gold mining in a mineralized portion of the [[craton|Aurelia cratonic fragment]]. Copper and building-stone quarrying added to the district's economy, while timber later became dominant.\n\nConnecticut and Virginia families introduced industrial finance, civic patronage and old-money rivalries here, **rather than in Santa Aurelia**.\n\nThe city is celebrated for [[commons|Willowwick Commons]], the Cherry Blossom Promenade, Gothic Revival institutions, the Grand Willowwick Library and Theatre, Lantern Quay, and the [[wisps|Willowwick Wisps]].\n\nIts proposed population is about 21,000. The precise location of the city within the watershed is still to be surveyed.\n\n**Updated socioeconomic canon:** Willowwick Grove is a generally affluent, beautiful and well-maintained garden city, with no defined poor district. The historic **Millwright Quarter**, once associated with millworkers, has become a restored and desirable but more modest residential neighborhood, not an impoverished trailer district. Economically struggling former industrial settlements exist as [[outlying-townships|separate valley townships]] outside the city's limits. Workers and renters of varied incomes nevertheless live within Willowwick.\n\nThe distinct former mill township of [[southbank|Southbank]] lies outside Willowwick's city boundaries and is generally less affluent; it is not part of Willowwick proper.\n\nHigh school sports are important local culture; the [[wisps|Willowwick Wisps]] maintain rivalries with the [[santa-aurelia-captains|Captains]] and [[southbank-wolves|Wolves]].\n\nThe city's or township's six-time champion [[wisps|Wisps]] are part of the [[valley-highschool-rivalries|Valley Three]], a trio of Oregon high school football dynasties renowned far beyond the valley.\n\n**Geography master-plan v1:** 46.0100° N, 123.6650° W (proposed mapped upper Youngs River corridor; distance targets to Santa Aurelia 22–30 road miles). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nThe proposed upper [[high-gorge|Aurelia High Gorge]] lies farther inland than the city, with roads and waterways requiring elevation-based planning. See [[natural-history|the regional natural history]].\n\nA wealthy nineteenth-century family estate in the surrounding district introduced the [[sika-deer|sika deer]] now established in the broader valley (working origin decade: 1880s).\n\nThe region's prized [[blacksilver-woodcraft|Blacksilver Willow heartwood]] appears in select heirloom furniture, architectural inlay and high-end cabinetmaking.\n\n**Long-established Blacksilver cultivation:** cuttings taken over centuries established trees outside their native [[witchwood|Witches' Wood]], including cultivated grounds and working woodlots throughout the valley. Those generally smaller trees supply most [[blacksilver-woodcraft|Blacksilver woodcraft]] rather than ancient forest groves.\n\nThe city is closely tied to surrounding [[valley-agriculture|farms]], [[valley-4h|4-H families]] and the region's [[valley-rodeo|rodeo culture]].",
+      "body": "Willowwick began with gold mining in a mineralized portion of the [[craton|Aurelia cratonic fragment]]. Copper and building-stone quarrying added to the district's economy, while timber later became dominant.\n\nConnecticut and Virginia families introduced industrial finance, civic patronage and old-money rivalries here, **rather than in Santa Aurelia**.\n\nThe city is celebrated for [[commons|Willowwick Commons]], the Cherry Blossom Promenade, Gothic Revival institutions, the Grand Willowwick Library and Theatre, Lantern Quay, and the [[wisps|Willowwick Wisps]].\n\nIts proposed population is about 21,000. The precise location of the city within the watershed is still to be surveyed.\n\n**Updated socioeconomic canon:** Willowwick Grove is a generally affluent, beautiful and well-maintained garden city, with no defined poor district. The historic **Millwright Quarter**, once associated with millworkers, has become a restored and desirable but more modest residential neighborhood, not an impoverished trailer district. Economically struggling former industrial settlements exist as [[outlying-townships|separate valley townships]] outside the city's limits. Workers and renters of varied incomes nevertheless live within Willowwick.\n\nThe distinct former mill township of [[southbank|Southbank]] lies outside Willowwick's city boundaries and is generally less affluent; it is not part of Willowwick proper.\n\nHigh school sports are important local culture; the [[wisps|Willowwick Wisps]] maintain rivalries with the [[santa-aurelia-captains|Captains]] and [[southbank-wolves|Wolves]].\n\nThe city's or township's six-time champion [[wisps|Wisps]] are part of the [[valley-highschool-rivalries|Valley Three]], a trio of Oregon high school football dynasties renowned far beyond the valley.\n\n**Geography master-plan v1:** 46.0100° N, 123.6650° W (proposed mapped upper Youngs River corridor; distance targets to Santa Aurelia 22–30 road miles). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nThe proposed upper [[high-gorge|Aurelia High Gorge]] lies farther inland than the city, with roads and waterways requiring elevation-based planning. See [[natural-history|the regional natural history]].\n\nA wealthy nineteenth-century family estate in the surrounding district introduced the [[sika-deer|sika deer]] now established in the broader valley (working origin decade: 1880s).\n\nThe region's prized [[blacksilver-woodcraft|Blacksilver Willow heartwood]] appears in select heirloom furniture, architectural inlay and high-end cabinetmaking.\n\n**Long-established Blacksilver cultivation:** cuttings taken over centuries established trees outside their native [[witchwood|Witches' Wood]], including cultivated grounds and working woodlots throughout the valley. Those generally smaller trees supply most [[blacksilver-woodcraft|Blacksilver woodcraft]] rather than ancient forest groves.\n\nThe city is closely tied to surrounding [[valley-agriculture|farms]], [[valley-4h|4-H families]] and the region's [[valley-rodeo|rodeo culture]].\n\n[[migration-history|The migration chronology]] differentiates the town's Connecticut/Virginia mining investment and its diverse immigrant labor and horticultural communities from the port's older founding.",
       "tags": [
         "city",
         "mining",
@@ -116,7 +118,8 @@ window.SANTA_AURELIA_SEED={
         "blacksilver-woodcraft",
         "valley-agriculture",
         "valley-4h",
-        "valley-rodeo"
+        "valley-rodeo",
+        "migration-history"
       ]
     },
     {
@@ -126,7 +129,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Ancient to present",
       "summary": "A rugged, forested district of ancient stoneways, immigrant mountain communities, Indigenous lands, unusual flora, and rural self-reliance.",
-      "body": "The district contains [[witchwood|Witches' Wood]] and its prehistoric monumental landscape. The tribal [[reservation|reservation]] includes some of the northwestern forest; [[fernhollow|Fernhollow Country]] lies southwest.\n\nIrish, Scottish, Romanian, Transylvanian and Slavic households built communities around the forest. Some describe an unexplained sense of kinship to its rugged, foggy landscape.\n\nThe rest of Blackwood Ridge includes working forests, old mines, agricultural valleys, village churches, preparedness homesteads, hiking trails and remote archaeological sanctuaries.\n\n**Geography master-plan v1:** 45.9050° N, 123.6650° W (proposed upland reference center south of Willowwick). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nBlackwood's uplands contain proposed [[blackwood-ravines|shaded tributary ravines]] and some exposed [[moor-ridges|moorlike native heath/meadow ridges]], while the inner [[witchwood|Witches' Wood]] remains a densely forested protected ancient district.\n\nOuter Blackwood woodland margins support some [[sika-deer|sika deer]] and occasional [[red-necked-wallabies|wallabies]]; these are introduced populations, not evidence for ancient White Ones lore.\n\nThe native [[blackwood-echojay|Blackwood Echojay]] is celebrated for extraordinary imitative calls and a silvery-on-indigo appearance in Witches' Wood.\n\nThe region's old-growth [[witchwood|Witches' Wood]] is difficult for industrial logging yet provides permitted traditional gathering and decades of ecological insight for [[fernhollow-ecology-research|Fernhollow's food-forest program]].\n\nThe independent [[duskwood|Duskwood Township]] occupies an eastern/southeastern outer-forest approach, with separate institutions and rural traditions.",
+      "body": "The district contains [[witchwood|Witches' Wood]] and its prehistoric monumental landscape. The tribal [[reservation|reservation]] includes some of the northwestern forest; [[fernhollow|Fernhollow Country]] lies southwest.\n\nIrish, Scottish, Romanian, Transylvanian and Slavic households built communities around the forest. Some describe an unexplained sense of kinship to its rugged, foggy landscape.\n\nThe rest of Blackwood Ridge includes working forests, old mines, agricultural valleys, village churches, preparedness homesteads, hiking trails and remote archaeological sanctuaries.\n\n**Geography master-plan v1:** 45.9050° N, 123.6650° W (proposed upland reference center south of Willowwick). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nBlackwood's uplands contain proposed [[blackwood-ravines|shaded tributary ravines]] and some exposed [[moor-ridges|moorlike native heath/meadow ridges]], while the inner [[witchwood|Witches' Wood]] remains a densely forested protected ancient district.\n\nOuter Blackwood woodland margins support some [[sika-deer|sika deer]] and occasional [[red-necked-wallabies|wallabies]]; these are introduced populations, not evidence for ancient White Ones lore.\n\nThe native [[blackwood-echojay|Blackwood Echojay]] is celebrated for extraordinary imitative calls and a silvery-on-indigo appearance in Witches' Wood.\n\nThe region's old-growth [[witchwood|Witches' Wood]] is difficult for industrial logging yet provides permitted traditional gathering and decades of ecological insight for [[fernhollow-ecology-research|Fernhollow's food-forest program]].\n\nThe independent [[duskwood|Duskwood Township]] occupies an eastern/southeastern outer-forest approach, with separate institutions and rural traditions.\n\n[[migration-history|The regional migration history]] records Indigenous Blackwood traditions first and later Irish, Scottish, Romanian and Slavic settlers along its accessible margins.",
       "tags": [
         "forest",
         "mountains",
@@ -144,7 +147,8 @@ window.SANTA_AURELIA_SEED={
         "red-necked-wallabies",
         "blackwood-echojay",
         "fernhollow-ecology-research",
-        "duskwood"
+        "duskwood",
+        "migration-history"
       ]
     },
     {
@@ -357,7 +361,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Older farms; 1970s ecovillage",
       "summary": "The rural southwest approaches to Witches' Wood, home to historic immigrant villages, independent homesteads, and the Fernhollow ecovillage.",
-      "body": "The larger district southwest of [[witchwood|Witches' Wood]] contains farms, old Irish/Scottish/Romanian/Slavic settlements, private woodlots and preparedness households.\n\nThe ecovillage founded during the **1970s back-to-the-land movement** uses practical permaculture, food forests, timber/cob construction, greenhouses, rainproofing, mushroom cultivation, and vocational teaching. It buys and sells goods like other communities.\n\n[[thornhaven|Thornhaven Village]] lies nearby but is independently run. Other families pursue hunting, archery, off-grid living, livestock care and emergency preparedness.\n\n**Geography master-plan v1:** 45.8670° N, 123.7360° W (proposed district center southwest of Blackwood). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nA Scottish-born naturalist's early-twentieth-century private collection is the working origin of the region's strange naturalized [[red-necked-wallabies|red-necked wallabies]].\n\nThe ecovillage's decades-long study of [[witchwood|Witches' Wood]] is central to its living [[fernhollow-ecology-research|food-forest research program]], applying ecological lessons from ancient forest without appropriating sensitive habitats or tribal lands.\n\nLocal bowyers and furniture craftspeople particularly value the [[blacksilver-woodcraft|ebony-dark heartwood of Blacksilver Willow]] for finely made bows and decorative pieces, using legally sourced stock rather than ancient protected groves.\n\n**Long-established Blacksilver cultivation:** cuttings taken over centuries established trees outside their native [[witchwood|Witches' Wood]], including cultivated grounds and working woodlots throughout the valley. Those generally smaller trees supply most [[blacksilver-woodcraft|Blacksilver woodcraft]] rather than ancient forest groves.\n\n**Conservation status:** much of Witches' Wood's ancient forest survived without a single overarching legally recognized protected-area designation. Failed timber ventures, disturbing legends, and generations of reluctance to enter the deep forest have acted as an **informal deterrent**. [[fernhollow|Fernhollow ecovillage]] and the sovereign [[reservation|tribal government]] now advocate formal comprehensive conservation, retaining separate governance and existing parcel-specific protections. The forest remains open to certain authorized foraging and study; neither its lore nor advocacy confers unrestricted access or legal protection. Exact designation and outcome are undecided.\n\n[[duskwood|Duskwood Township]] is a **separate** small forest-edge community east/southeast of Witches' Wood, while Fernhollow remains the southwestern district with its own ecovillage.\n\nThe cultivated countryside around Fernhollow participates in the wider [[valley-agriculture|family-farming and cattle]] and [[valley-rodeo|rodeo]] cultures, distinct from the ancient protected forest.",
+      "body": "The larger district southwest of [[witchwood|Witches' Wood]] contains farms, old Irish/Scottish/Romanian/Slavic settlements, private woodlots and preparedness households.\n\nThe ecovillage founded during the **1970s back-to-the-land movement** uses practical permaculture, food forests, timber/cob construction, greenhouses, rainproofing, mushroom cultivation, and vocational teaching. It buys and sells goods like other communities.\n\n[[thornhaven|Thornhaven Village]] lies nearby but is independently run. Other families pursue hunting, archery, off-grid living, livestock care and emergency preparedness.\n\n**Geography master-plan v1:** 45.8670° N, 123.7360° W (proposed district center southwest of Blackwood). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nA Scottish-born naturalist's early-twentieth-century private collection is the working origin of the region's strange naturalized [[red-necked-wallabies|red-necked wallabies]].\n\nThe ecovillage's decades-long study of [[witchwood|Witches' Wood]] is central to its living [[fernhollow-ecology-research|food-forest research program]], applying ecological lessons from ancient forest without appropriating sensitive habitats or tribal lands.\n\nLocal bowyers and furniture craftspeople particularly value the [[blacksilver-woodcraft|ebony-dark heartwood of Blacksilver Willow]] for finely made bows and decorative pieces, using legally sourced stock rather than ancient protected groves.\n\n**Long-established Blacksilver cultivation:** cuttings taken over centuries established trees outside their native [[witchwood|Witches' Wood]], including cultivated grounds and working woodlots throughout the valley. Those generally smaller trees supply most [[blacksilver-woodcraft|Blacksilver woodcraft]] rather than ancient forest groves.\n\n**Conservation status:** much of Witches' Wood's ancient forest survived without a single overarching legally recognized protected-area designation. Failed timber ventures, disturbing legends, and generations of reluctance to enter the deep forest have acted as an **informal deterrent**. [[fernhollow|Fernhollow ecovillage]] and the sovereign [[reservation|tribal government]] now advocate formal comprehensive conservation, retaining separate governance and existing parcel-specific protections. The forest remains open to certain authorized foraging and study; neither its lore nor advocacy confers unrestricted access or legal protection. Exact designation and outcome are undecided.\n\n[[duskwood|Duskwood Township]] is a **separate** small forest-edge community east/southeast of Witches' Wood, while Fernhollow remains the southwestern district with its own ecovillage.\n\nThe cultivated countryside around Fernhollow participates in the wider [[valley-agriculture|family-farming and cattle]] and [[valley-rodeo|rodeo]] cultures, distinct from the ancient protected forest.\n\n[[migration-history|The migration-history reference]] distinguishes the district's older ethnic and rural communities from the ecovillage founded in the 1970s.",
       "tags": [
         "ecovillage",
         "homesteading",
@@ -377,7 +381,8 @@ window.SANTA_AURELIA_SEED={
         "duskwood",
         "valley-agriculture",
         "valley-4h",
-        "valley-rodeo"
+        "valley-rodeo",
+        "migration-history"
       ]
     },
     {
@@ -1671,7 +1676,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Late 19th–early 20th century (proposed wave)",
       "summary": "Long-ago Wyoming rancher migration brought additional cattle and cowboy traditions into an already-established Oregon coastal agricultural culture.",
-      "body": "**Wyoming ranching families migrated into Valle de Santa Aurelia long ago**, joining centuries of older local cattle and agricultural traditions. A *working* migration window around **1887–1915**, influenced by open-range pressures and the disastrous Wyoming winter of 1886–87, is plausible but not yet fixed. Ranchers moved onto suitable South Hills and upper-valley properties, adapting to heavy rains, smaller pastures, mud, and forested terrain. Their descendants shaped horse training, cattle handling, saddle crafts and [[valley-rodeo|regional rodeo]] life. This is alternate-history local lore, not a documented real-world relocation of particular Wyoming families. See [[valley-agriculture|regional agriculture]] and `docs/36-agriculture-ranching-4h-rodeo.md`.",
+      "body": "**Wyoming ranching families migrated into Valle de Santa Aurelia long ago**, joining centuries of older local cattle and agricultural traditions. A *working* migration window around **1887–1915**, influenced by open-range pressures and the disastrous Wyoming winter of 1886–87, is plausible but not yet fixed. Ranchers moved onto suitable South Hills and upper-valley properties, adapting to heavy rains, smaller pastures, mud, and forested terrain. Their descendants shaped horse training, cattle handling, saddle crafts and [[valley-rodeo|regional rodeo]] life. This is alternate-history local lore, not a documented real-world relocation of particular Wyoming families. See [[valley-agriculture|regional agriculture]] and `docs/36-agriculture-ranching-4h-rodeo.md`.\n\nThe [[migration-history|master migration chronology]] preserves the Wyoming family's historical arrival as canon while treating the proposed c.1887–1915 date range as working.",
       "tags": [
         "Wyoming",
         "migration",
@@ -1682,7 +1687,8 @@ window.SANTA_AURELIA_SEED={
       "links": [
         "valley-agriculture",
         "valley-rodeo",
-        "valle"
+        "valle",
+        "migration-history"
       ]
     },
     {
@@ -1725,6 +1731,32 @@ window.SANTA_AURELIA_SEED={
         "valley-agriculture",
         "valley-rodeo"
       ]
+    },
+    {
+      "id": "migration-history",
+      "title": "Migration and Settlement History",
+      "category": "History",
+      "status": "established",
+      "era": "Pre-1608 to 2026",
+      "summary": "The valley's layered Indigenous, transpacific, Spanish, Venetian, American, European, Asian and Wyoming ranching migrations, with a source-graded chronology and unresolved legal transitions.",
+      "body": "The **Migration, Settlement and Demographic History** traces the region's continuous [[reservation|Indigenous societies]], the **1608 mixed 67-person two-vessel founding fleet**, centuries of [[santa-aurelia|Santa Aurelia]] kinship and Pacific exchange, the 1700 Cascadia disaster and inland relocations, maritime Venetian migration, [[willowwick|Willowwick Grove]] gold/timber and Connecticut/Virginia investment, Irish/Scottish/Romanian/Slavic Blackwood settlement, Chinese and Scandinavian fishing and canning communities, Japanese/Korean horticultural traditions, [[wyoming-ranchers|Wyoming ranching families]], and the 1970s [[fernhollow|Fernhollow]] ecovillage.\n\n**User-established facts and speculative dates remain distinct**. The precise geopolitical/legal transition from a 1608 Spanish port to U.S. Oregon and related Indigenous land history is still unresolved, and real historical Astoria census statistics are not automatically fictional Santa Aurelia's.\n\n**Dedicated world-bible section:** `docs/migration-history/README.md`, with full `01-chronology-and-waves.md`, `02-peoples-places-and-institutions.md`, `03-power-land-rights-and-counterfactuals.md`, and `04-evidence-and-open-decisions.md`.",
+      "tags": [
+        "migration",
+        "settlement",
+        "demographics",
+        "history",
+        "Indigenous sovereignty",
+        "immigration"
+      ],
+      "links": [
+        "valle",
+        "reservation",
+        "santa-aurelia",
+        "willowwick",
+        "blackwood",
+        "wyoming-ranchers",
+        "fernhollow"
+      ]
     }
   ],
   "timeline": [
@@ -1759,16 +1791,40 @@ window.SANTA_AURELIA_SEED={
       "entry": "earthquake"
     },
     {
+      "year": 1700,
+      "label": "Cascadia earthquake and regional displacement",
+      "summary": "Tsunami damage forces rebuilding and some inland relocation; Santa Aurelia endures.",
+      "entry": "migration-history"
+    },
+    {
       "year": 1830,
       "label": "Venetian merchant arrival",
       "summary": "A period of Venetian investment reshapes Santa Aurelia's waterfront.",
       "entry": "venetian"
     },
     {
+      "year": 1835,
+      "label": "Venetian maritime and artisan immigration (working phase)",
+      "summary": "Part of a proposed 1815–1855 merchant and skilled craft movement into existing Santa Aurelia.",
+      "entry": "migration-history"
+    },
+    {
       "year": 1860,
       "label": "Age of the Paddlewheel",
       "summary": "Working era for steam river transport on suitable lower Columbia waterways.",
       "entry": "paddlewheel-riverboats"
+    },
+    {
+      "year": 1860,
+      "label": "Mining and eastern capital migration (working period)",
+      "summary": "Connecticut/Virginia capital and labor increasingly shape gold-mining Willowwick rather than the old port.",
+      "entry": "migration-history"
+    },
+    {
+      "year": 1875,
+      "label": "Industrial coastal and Blackwood immigration (working era)",
+      "summary": "Scandinavian, Chinese and varied European work and household networks enrich the coast and inland districts.",
+      "entry": "migration-history"
     },
     {
       "year": 1878,
@@ -1789,6 +1845,12 @@ window.SANTA_AURELIA_SEED={
       "entry": "sika-deer"
     },
     {
+      "year": 1887,
+      "label": "Wyoming ranch family movement (working start)",
+      "summary": "A proposed c.1887–1915 ranching-family wave adapts cowboy practices to wet Coast Range pastures.",
+      "entry": "wyoming-ranchers"
+    },
+    {
       "year": 1905,
       "label": "Fernhollow wallaby escape",
       "summary": "Working date for escaped red-necked wallabies establishing localized populations.",
@@ -1798,6 +1860,12 @@ window.SANTA_AURELIA_SEED={
       "year": 1970,
       "label": "Fernhollow takes shape",
       "summary": "Back-to-the-land settlement develops into a working ecovillage.",
+      "entry": "fernhollow"
+    },
+    {
+      "year": 1975,
+      "label": "Fernhollow back-to-the-land arrivals (working midpoint)",
+      "summary": "The ecovillage grows in the 1970s within a much older Fernhollow rural district.",
       "entry": "fernhollow"
     },
     {
