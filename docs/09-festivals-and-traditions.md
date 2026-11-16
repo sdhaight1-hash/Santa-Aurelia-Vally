@@ -42,3 +42,6 @@ Santa Aurelia is a **major destination wedding city**, renowned for elegant hist
 
 ## High-school sports: the valley's Friday-night identity
 High school sports rivalries are a defining part of the region's culture. The **Willowwick Wisps** play the **Santa Aurelia Captains** in the proposed Lantern and Anchor Game and the **Southbank Wolves** in the proposed Milltown Classic. A third rivalry pits the Captains against the Wolves, the proposed Harbor–Howl. Football, basketball, wrestling, soccer, volleyball, track, baseball/softball, music ensembles and student sections link towns across income differences and municipal boundaries. **Southbank Wolves**, not Millers, is established canon. See [sports and rivalries](28-high-school-sports-and-rivalries.md).
+
+## The Valley Three — three football dynasties
+Football rivalry between the **Willowwick Wisps (six state titles), Santa Aurelia Captains (six), and Southbank Wolves (five)** is statewide famous. Their 17 combined championships are alternate-history results, with title-year ledgers in [the high school sports chapter](28-high-school-sports-and-rivalries.md). Matchups draw regional press, scouts, visiting fans and multigenerational crowds; the Wolves are a respected powerhouse rather than merely a resource-poor underdog. Current classification and cross-division scheduling remain to be established.
