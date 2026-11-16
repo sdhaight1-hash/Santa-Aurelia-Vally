@@ -187,3 +187,6 @@ The registry survives the **1700 Cascadia disaster** in a raised family archive 
 - Cross-cultural Pacific crewing at Acapulco 1590–1600: research published in *The Philippine Review of Economics*, https://pre.econ.upd.edu.ph/index.php/pre/article/viewFile/1046/970.
 
 Historical scholarship grounds plausibility; it does not substantiate the fictional voyage or register.
+
+## Custody correction — the original manuscripts
+**Established:** the **original 1608 voyage logbook, founding passenger rolls, cargo-related registers and other original fleet records have remained with the principal Valcárcel family line**, housed in its **private estate library and archives** through the present. Copies and transcriptions may be consulted elsewhere, but the originals were never donated to a municipal or maritime museum. Even the seventeenth-century-to-modern preservation story must include the family's continued custodianship; disasters, restoration and rebinding do not break custody. The family estate archive also retains **all four original Villacorta-attributed paintings**. See [The Valcárcel Estate Library](17-valcarcel-estate-library-and-archive.md).
