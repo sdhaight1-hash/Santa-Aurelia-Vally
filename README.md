@@ -101,3 +101,5 @@ The privately held Valcárcel archives now include original love letters between
 - [GeoJSON study boundary and mapped location points](atlas/geography.geojson)
 
 - [Natural History of Valle de Santa Aurelia — geology, basalt-column coast, Highland-like uplands, gorges, hydrology, ecology and climate](docs/30-natural-history-geology-climate-ecology.md)
+
+- [Naturalized Exotic Wildlife — Sika Deer and Fernhollow Wallabies](docs/31-naturalized-exotic-wildlife.md)
