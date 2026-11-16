@@ -47,7 +47,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Founded 1608",
       "summary": "The Jewel of the Pacific: a Spanish–Indigenous and Venetian-influenced port city at the site of present-day Astoria, Oregon.",
-      "body": "The first permanent European-founded settlement in the region was established here in **1608** by [[alonso|Don Alonso de Valcárcel y Austria]]. The harbor already supported Indigenous communities, trade, and maritime knowledge.\n\nThe city occupies the present-day Astoria site on the Columbia estuary. It rebuilt after the 1700 earthquake and remains a living commercial port rather than a museum district.\n\nNineteenth-century Venetian migration added merchant wealth, decorated stone arcades, glasswork, and waterfront palazzi to a much older Spanish–Indigenous building tradition.\n\nIts famous [[festival|Festival of the Two Hearts]], [[palacio|Palacio de la Bahía]], and [[flagship|preserved flagship]] attract regional visitors. Working population is approximately 19,000.\n\nThe city's monumental [[season-of-halls|ballroom circuit]] and breathtaking [[harbor-boardwalks|timber-and-stone harbor promenades]] make it the heart of the [[wedding-coast|valley's destination wedding economy]], attracting ceremonies and celebrations throughout the year.\n\nSanta Aurelia is also an **ocean-going [[cruise-homeport|cruise departure homeport]]**, with a dedicated [[ocean-passenger-terminal|passenger terminal]], and hosts a thriving [[paddlewheel-riverboats|heritage paddlewheel excursion industry]]. These complement its wedding venues and magnificent waterfront.\n\nA substantial [[coast-guard-base|Coast Guard base]] sits near, but outside, the city, supporting rescue aviation, boats and maritime safety around the Columbia Bar.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\n**Updated socioeconomic canon:** Santa Aurelia is generally affluent and well-kept, like Willowwick. Ordinary wage-earners, renters and households facing high costs remain part of the city, but it does not have a large named impoverished quarter. More economically challenged former industry communities are [[outlying-townships|separate valley townships]].\n\nThe [[santa-aurelia-captains|Santa Aurelia High School Captains]] are rivals of the [[wisps|Willowwick Wisps]] and [[southbank-wolves|Southbank Wolves]].\n\nThe city's or township's six-time champion [[santa-aurelia-captains|Captains]] are part of the [[valley-highschool-rivalries|Valley Three]], a trio of Oregon high school football dynasties renowned far beyond the valley.\n\n**Geography master-plan v1:** 46.1880° N, 123.8313° W (Astoria real-site anchor). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nThe city's wider coastal tourism draws on the proposed [[black-steps|Black Steps]] volcanic shore and [[natural-history|the region's distinctive geology]], beyond its historic harbor and wedding halls.",
+      "body": "The first permanent European-founded settlement in the region was established here in **1608** by [[alonso|Don Alonso de Valcárcel y Austria]]. The harbor already supported Indigenous communities, trade, and maritime knowledge.\n\nThe city occupies the present-day Astoria site on the Columbia estuary. It rebuilt after the 1700 earthquake and remains a living commercial port rather than a museum district.\n\nNineteenth-century Venetian migration added merchant wealth, decorated stone arcades, glasswork, and waterfront palazzi to a much older Spanish–Indigenous building tradition.\n\nIts famous [[festival|Festival of the Two Hearts]], [[palacio|Palacio de la Bahía]], and [[flagship|preserved flagship]] attract regional visitors. Working population is approximately 19,000.\n\nThe city's monumental [[season-of-halls|ballroom circuit]] and breathtaking [[harbor-boardwalks|timber-and-stone harbor promenades]] make it the heart of the [[wedding-coast|valley's destination wedding economy]], attracting ceremonies and celebrations throughout the year.\n\nSanta Aurelia is also an **ocean-going [[cruise-homeport|cruise departure homeport]]**, with a dedicated [[ocean-passenger-terminal|passenger terminal]], and hosts a thriving [[paddlewheel-riverboats|heritage paddlewheel excursion industry]]. These complement its wedding venues and magnificent waterfront.\n\nA substantial [[coast-guard-base|Coast Guard base]] sits near, but outside, the city, supporting rescue aviation, boats and maritime safety around the Columbia Bar.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\n**Updated socioeconomic canon:** Santa Aurelia is generally affluent and well-kept, like Willowwick. Ordinary wage-earners, renters and households facing high costs remain part of the city, but it does not have a large named impoverished quarter. More economically challenged former industry communities are [[outlying-townships|separate valley townships]].\n\nThe [[santa-aurelia-captains|Santa Aurelia High School Captains]] are rivals of the [[wisps|Willowwick Wisps]] and [[southbank-wolves|Southbank Wolves]].\n\nThe city's or township's six-time champion [[santa-aurelia-captains|Captains]] are part of the [[valley-highschool-rivalries|Valley Three]], a trio of Oregon high school football dynasties renowned far beyond the valley.\n\n**Geography master-plan v1:** 46.1880° N, 123.8313° W (Astoria real-site anchor). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nThe city's wider coastal tourism draws on the proposed [[black-steps|Black Steps]] volcanic shore and [[natural-history|the region's distinctive geology]], beyond its historic harbor and wedding halls.\n\nFine interior decoration and heirloom furniture sometimes use legally sourced [[blacksilver-woodcraft|Blacksilver Willow heartwood]], a local near-ebony wood with an important traditional bowmaking reputation.",
       "tags": [
         "city",
         "coast",
@@ -74,7 +74,8 @@ window.SANTA_AURELIA_SEED={
         "valley-highschool-rivalries",
         "geographic-master-plan",
         "black-steps",
-        "natural-history"
+        "natural-history",
+        "blacksilver-woodcraft"
       ]
     },
     {
@@ -84,7 +85,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Incorporated 1878 (working)",
       "summary": "The Garden City of the Lower Columbia, an inland gold-mining settlement transformed by timber, Victorian architecture, and exceptional horticulture.",
-      "body": "Willowwick began with gold mining in a mineralized portion of the [[craton|Aurelia cratonic fragment]]. Copper and building-stone quarrying added to the district's economy, while timber later became dominant.\n\nConnecticut and Virginia families introduced industrial finance, civic patronage and old-money rivalries here, **rather than in Santa Aurelia**.\n\nThe city is celebrated for [[commons|Willowwick Commons]], the Cherry Blossom Promenade, Gothic Revival institutions, the Grand Willowwick Library and Theatre, Lantern Quay, and the [[wisps|Willowwick Wisps]].\n\nIts proposed population is about 21,000. The precise location of the city within the watershed is still to be surveyed.\n\n**Updated socioeconomic canon:** Willowwick Grove is a generally affluent, beautiful and well-maintained garden city, with no defined poor district. The historic **Millwright Quarter**, once associated with millworkers, has become a restored and desirable but more modest residential neighborhood, not an impoverished trailer district. Economically struggling former industrial settlements exist as [[outlying-townships|separate valley townships]] outside the city's limits. Workers and renters of varied incomes nevertheless live within Willowwick.\n\nThe distinct former mill township of [[southbank|Southbank]] lies outside Willowwick's city boundaries and is generally less affluent; it is not part of Willowwick proper.\n\nHigh school sports are important local culture; the [[wisps|Willowwick Wisps]] maintain rivalries with the [[santa-aurelia-captains|Captains]] and [[southbank-wolves|Wolves]].\n\nThe city's or township's six-time champion [[wisps|Wisps]] are part of the [[valley-highschool-rivalries|Valley Three]], a trio of Oregon high school football dynasties renowned far beyond the valley.\n\n**Geography master-plan v1:** 46.0100° N, 123.6650° W (proposed mapped upper Youngs River corridor; distance targets to Santa Aurelia 22–30 road miles). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nThe proposed upper [[high-gorge|Aurelia High Gorge]] lies farther inland than the city, with roads and waterways requiring elevation-based planning. See [[natural-history|the regional natural history]].\n\nA wealthy nineteenth-century family estate in the surrounding district introduced the [[sika-deer|sika deer]] now established in the broader valley (working origin decade: 1880s).",
+      "body": "Willowwick began with gold mining in a mineralized portion of the [[craton|Aurelia cratonic fragment]]. Copper and building-stone quarrying added to the district's economy, while timber later became dominant.\n\nConnecticut and Virginia families introduced industrial finance, civic patronage and old-money rivalries here, **rather than in Santa Aurelia**.\n\nThe city is celebrated for [[commons|Willowwick Commons]], the Cherry Blossom Promenade, Gothic Revival institutions, the Grand Willowwick Library and Theatre, Lantern Quay, and the [[wisps|Willowwick Wisps]].\n\nIts proposed population is about 21,000. The precise location of the city within the watershed is still to be surveyed.\n\n**Updated socioeconomic canon:** Willowwick Grove is a generally affluent, beautiful and well-maintained garden city, with no defined poor district. The historic **Millwright Quarter**, once associated with millworkers, has become a restored and desirable but more modest residential neighborhood, not an impoverished trailer district. Economically struggling former industrial settlements exist as [[outlying-townships|separate valley townships]] outside the city's limits. Workers and renters of varied incomes nevertheless live within Willowwick.\n\nThe distinct former mill township of [[southbank|Southbank]] lies outside Willowwick's city boundaries and is generally less affluent; it is not part of Willowwick proper.\n\nHigh school sports are important local culture; the [[wisps|Willowwick Wisps]] maintain rivalries with the [[santa-aurelia-captains|Captains]] and [[southbank-wolves|Wolves]].\n\nThe city's or township's six-time champion [[wisps|Wisps]] are part of the [[valley-highschool-rivalries|Valley Three]], a trio of Oregon high school football dynasties renowned far beyond the valley.\n\n**Geography master-plan v1:** 46.0100° N, 123.6650° W (proposed mapped upper Youngs River corridor; distance targets to Santa Aurelia 22–30 road miles). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nThe proposed upper [[high-gorge|Aurelia High Gorge]] lies farther inland than the city, with roads and waterways requiring elevation-based planning. See [[natural-history|the regional natural history]].\n\nA wealthy nineteenth-century family estate in the surrounding district introduced the [[sika-deer|sika deer]] now established in the broader valley (working origin decade: 1880s).\n\nThe region's prized [[blacksilver-woodcraft|Blacksilver Willow heartwood]] appears in select heirloom furniture, architectural inlay and high-end cabinetmaking.",
       "tags": [
         "city",
         "mining",
@@ -104,7 +105,8 @@ window.SANTA_AURELIA_SEED={
         "geographic-master-plan",
         "high-gorge",
         "natural-history",
-        "sika-deer"
+        "sika-deer",
+        "blacksilver-woodcraft"
       ]
     },
     {
@@ -188,7 +190,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Ancient to present",
       "summary": "A mist-draped habitat of endemic giant Blacksilver Willows and glowing fungi surrounding the Fairy Stones.",
-      "body": "Silverveil Grove contains the principal concentration of [[blacksilver|Blacksilver Willows]] near [[fairy-stones|the Fairy Stones]]. Massive black-barked trunks support curtains of silvery leaves. Vines, moss, ferns and frequent basin fog help create the area's eerie appearance.\n\nIn darkness, specialized [[fungi|bioluminescent fungi]] produce faint, often greenish light on deadwood and small mushrooms. The landscape became central to fairy, ghost-light and lost-child folklore.\n\nA proposed exceptionally large specimen is known as **Old Mother Willow**.\n\n**Geography master-plan v1:** 45.8980° N, 123.6250° W (illustrative sensitive-site reference only). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.",
+      "body": "Silverveil Grove contains the principal concentration of [[blacksilver|Blacksilver Willows]] near [[fairy-stones|the Fairy Stones]]. Massive black-barked trunks support curtains of silvery leaves. Vines, moss, ferns and frequent basin fog help create the area's eerie appearance.\n\nIn darkness, specialized [[fungi|bioluminescent fungi]] produce faint, often greenish light on deadwood and small mushrooms. The landscape became central to fairy, ghost-light and lost-child folklore.\n\nA proposed exceptionally large specimen is known as **Old Mother Willow**.\n\n**Geography master-plan v1:** 45.8980° N, 123.6250° W (illustrative sensitive-site reference only). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nThe giant [[blacksilver|Blacksilver Willows]] are prized for valuable dark heartwood, but this protected ancient stand is not a commercial harvest site; see [[blacksilver-woodcraft|regional woodcraft and conservation]].",
       "tags": [
         "botany",
         "forest",
@@ -198,7 +200,8 @@ window.SANTA_AURELIA_SEED={
         "blacksilver",
         "fungi",
         "fairy-stones",
-        "geographic-master-plan"
+        "geographic-master-plan",
+        "blacksilver-woodcraft"
       ]
     },
     {
@@ -207,8 +210,8 @@ window.SANTA_AURELIA_SEED={
       "category": "Species",
       "status": "established",
       "era": "Endemic species",
-      "summary": "An enormous, uniquely local weeping willow with nearly black bark and cascading silver leaves; unknown in the wild outside Valle de Santa Aurelia.",
-      "body": "Unlike ornamental imports, this species is endemic to the region. Its vast descending crowns, heavy textured charcoal bark and pale shimmering foliage are unmistakable.\n\nIts principal wild stands occur in wet forest hollows, especially [[silverveil|Silverveil Grove]]. It is associated with unusual [[fungi|luminous fungi]] growing in fallen leaves, decaying roots and deadwood.\n\n**Provisional scientific name:** *Salix argentenebra*. Actual classification, maximum age and morphology still need a botanical monograph. Its fallen wood may have limited craft uses; the protected wild groves are not logging stock.",
+      "summary": "A giant endemic silver-leaved willow whose extraordinarily dark heartwood is prized for bows, furniture and architectural decoration.",
+      "body": "Unlike ornamental imports, this species is endemic to the region. Its vast descending crowns, heavy textured charcoal bark and pale shimmering foliage are unmistakable.\n\nIts principal wild stands occur in wet forest hollows, especially [[silverveil|Silverveil Grove]]. It is associated with unusual [[fungi|luminous fungi]] growing in fallen leaves, decaying roots and deadwood.\n\n**Provisional scientific name:** *Salix argentenebra*. Actual classification, maximum age and morphology still need a botanical monograph. **Material culture:** its mature wood contains unusually rich ebony-dark heartwood coveted by [[blacksilver-woodcraft|regional bowmakers, fine cabinetmakers and ornamental architectural woodworkers]]. Selected straight-grained material combines unexpected bow-suitable elastic recovery with a beautiful fine-grained finish. Exact measured mechanical properties are still open. **Protected wild groves are not commercial logging stock**; authorized reclaimed material, carefully approved salvage and potential managed cultivation provide plausible sources.",
       "tags": [
         "endemic tree",
         "silver foliage",
@@ -216,7 +219,8 @@ window.SANTA_AURELIA_SEED={
       ],
       "links": [
         "silverveil",
-        "fungi"
+        "fungi",
+        "blacksilver-woodcraft"
       ]
     },
     {
@@ -337,7 +341,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Older farms; 1970s ecovillage",
       "summary": "The rural southwest approaches to Witches' Wood, home to historic immigrant villages, independent homesteads, and the Fernhollow ecovillage.",
-      "body": "The larger district southwest of [[witchwood|Witches' Wood]] contains farms, old Irish/Scottish/Romanian/Slavic settlements, private woodlots and preparedness households.\n\nThe ecovillage founded during the **1970s back-to-the-land movement** uses practical permaculture, food forests, timber/cob construction, greenhouses, rainproofing, mushroom cultivation, and vocational teaching. It buys and sells goods like other communities.\n\n[[thornhaven|Thornhaven Village]] lies nearby but is independently run. Other families pursue hunting, archery, off-grid living, livestock care and emergency preparedness.\n\n**Geography master-plan v1:** 45.8670° N, 123.7360° W (proposed district center southwest of Blackwood). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nA Scottish-born naturalist's early-twentieth-century private collection is the working origin of the region's strange naturalized [[red-necked-wallabies|red-necked wallabies]].\n\nThe ecovillage's decades-long study of [[witchwood|Witches' Wood]] is central to its living [[fernhollow-ecology-research|food-forest research program]], applying ecological lessons from ancient forest without appropriating sensitive habitats or tribal lands.",
+      "body": "The larger district southwest of [[witchwood|Witches' Wood]] contains farms, old Irish/Scottish/Romanian/Slavic settlements, private woodlots and preparedness households.\n\nThe ecovillage founded during the **1970s back-to-the-land movement** uses practical permaculture, food forests, timber/cob construction, greenhouses, rainproofing, mushroom cultivation, and vocational teaching. It buys and sells goods like other communities.\n\n[[thornhaven|Thornhaven Village]] lies nearby but is independently run. Other families pursue hunting, archery, off-grid living, livestock care and emergency preparedness.\n\n**Geography master-plan v1:** 45.8670° N, 123.7360° W (proposed district center southwest of Blackwood). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nA Scottish-born naturalist's early-twentieth-century private collection is the working origin of the region's strange naturalized [[red-necked-wallabies|red-necked wallabies]].\n\nThe ecovillage's decades-long study of [[witchwood|Witches' Wood]] is central to its living [[fernhollow-ecology-research|food-forest research program]], applying ecological lessons from ancient forest without appropriating sensitive habitats or tribal lands.\n\nLocal bowyers and furniture craftspeople particularly value the [[blacksilver-woodcraft|ebony-dark heartwood of Blacksilver Willow]] for finely made bows and decorative pieces, using legally sourced stock rather than ancient protected groves.",
       "tags": [
         "ecovillage",
         "homesteading",
@@ -350,7 +354,8 @@ window.SANTA_AURELIA_SEED={
         "geographic-master-plan",
         "red-necked-wallabies",
         "naturalized-exotics",
-        "fernhollow-ecology-research"
+        "fernhollow-ecology-research",
+        "blacksilver-woodcraft"
       ]
     },
     {
@@ -1541,7 +1546,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "1970s–present",
       "summary": "Decades of Witches' Wood ecological study have guided Fernhollow ecovillage's layered food forests, fungal cultivation, soil stewardship and perennial crops.",
-      "body": "The [[fernhollow|Fernhollow ecovillage]] has spent **decades researching the ecosystems of [[witchwood|Witches' Wood]]** and adapting its own cultivated [[natural-history|food forests]] from what the forest teaches. This is an established, ongoing practical research tradition, beginning with the 1970s community's foraging and seasonal habitat observations and later developing canopy, soil, fungal, water, plant and habitat studies.\n\nThe old forest itself contains **abundant but localized wild edible resources**—mushrooms in forest stands, berries in gaps and margins, and various seasonal edible plants in suitable habitats—and has a long history of careful foraging in permitted places. **Large-scale logging ventures repeatedly failed** in its deepest tracts, contributing to the survival of extensive ancient old growth. Local stories describe the forest resisting exploitation, although the causes are not established as supernatural.\n\nFernhollow's food forests are **cultivated ecological mosaics**, with appropriately sited orchards, native edible shrub edges, perennial plantings, mushrooms, pollinators and greenhouses; they are not copies of virgin old-growth forest. Ecological research never grants ownership, unrestricted gathering, or access to sensitive [[reservation|tribal lands]] or [[fairy-stones|sacred archaeological sites]]. See `docs/33-fernhollow-food-forest-ecology.md`.",
+      "body": "The [[fernhollow|Fernhollow ecovillage]] has spent **decades researching the ecosystems of [[witchwood|Witches' Wood]]** and adapting its own cultivated [[natural-history|food forests]] from what the forest teaches. This is an established, ongoing practical research tradition, beginning with the 1970s community's foraging and seasonal habitat observations and later developing canopy, soil, fungal, water, plant and habitat studies.\n\nThe old forest itself contains **abundant but localized wild edible resources**—mushrooms in forest stands, berries in gaps and margins, and various seasonal edible plants in suitable habitats—and has a long history of careful foraging in permitted places. **Large-scale logging ventures repeatedly failed** in its deepest tracts, contributing to the survival of extensive ancient old growth. Local stories describe the forest resisting exploitation, although the causes are not established as supernatural.\n\nFernhollow's food forests are **cultivated ecological mosaics**, with appropriately sited orchards, native edible shrub edges, perennial plantings, mushrooms, pollinators and greenhouses; they are not copies of virgin old-growth forest. Ecological research never grants ownership, unrestricted gathering, or access to sensitive [[reservation|tribal lands]] or [[fairy-stones|sacred archaeological sites]]. See `docs/33-fernhollow-food-forest-ecology.md`.\n\nFernhollow's long-term forest research may eventually inform managed propagation of prized [[blacksilver-woodcraft|Blacksilver Willow wood]], while keeping ancient protected groves intact.",
       "tags": [
         "permaculture",
         "ecology",
@@ -1556,7 +1561,34 @@ window.SANTA_AURELIA_SEED={
         "natural-history",
         "reservation",
         "fairy-stones",
-        "blackwood"
+        "blackwood",
+        "blacksilver-woodcraft"
+      ]
+    },
+    {
+      "id": "blacksilver-woodcraft",
+      "title": "Blacksilver Willow Woodcraft and Bowyers",
+      "category": "Tradition",
+      "status": "established",
+      "era": "Historical and present day",
+      "summary": "The extraordinary ebony-black heartwood of the region's endemic Blacksilver Willow is revered by bowyers, furniture makers and architectural craftspeople.",
+      "body": "Local bowyers cherish selected straight-grained [[blacksilver|Blacksilver Willow]] heartwood for its surprising flexibility, elastic recovery and toughness in well-crafted bows, despite the wood's dark, dense appearance and willow ancestry. It is also a luxury material in black-polished furniture, cabinets, wood inlay, carved architectural fittings, ornamental doors and restoration work in [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]]. Exact material specifications and bow designs remain in development.\n\nThe work is tied to the archery and woodworking traditions of [[fernhollow|Fernhollow Country]], the South Hills and surrounding villages, including [[thornhaven|Thornhaven]]. **Scarce protected ancient [[silverveil|Silverveil Grove]] trees are not commercial timber**; legally documented salvage, historical reclaimed stock and suitable managed-growing methods are the plausible sources. Relevant tribal sovereignty and forest protections remain in force. [[fernhollow-ecology-research|Fernhollow ecological research]] may investigate careful propagation without claiming that protected groves can be harvested. Full details: `docs/34-blacksilver-willow-woodcraft.md`.",
+      "tags": [
+        "bowmaking",
+        "woodworking",
+        "furniture",
+        "architecture",
+        "ebony heartwood",
+        "heritage craft"
+      ],
+      "links": [
+        "blacksilver",
+        "willowwick",
+        "santa-aurelia",
+        "fernhollow",
+        "thornhaven",
+        "silverveil",
+        "fernhollow-ecology-research"
       ]
     }
   ],
