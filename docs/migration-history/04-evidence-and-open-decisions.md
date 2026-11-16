@@ -96,3 +96,6 @@ Use separate links from each event to **people/families, settlements, industries
 2. Build a conservative **population interval model** before naming more migration wave sizes.
 3. Add **household migration records** only for already established families first, with validated chronology.
 4. Then build optional interactive atlas filters by period, origin and destination, using the above schema and linking back to documented canon.
+
+## Updated decision M1 — resolved model, open instruments
+**The overarching political-succession model is now established** in [The Long Transfer](../37-political-succession-1608-1859.md): Spain's asserted sovereignty over the established city transfers by negotiated 1821 treaty implementation to the United States, while provisional charter government continues; 1846 Oregon Treaty consolidates surrounding boundaries; 1848 territorial administration and 1859 statehood follow. **Still requiring development:** actual *fictional* annex text and signatories, the British commercial-accommodation mechanism, city council/electoral procedures, legal handling of mixed Spanish-era claims, federal naturalization and Indigenous sovereignty. This subsection supersedes the original Tier 1 M1 sentence calling the entire transition unselected; the unresolved parts are now implementation, not whether or when U.S. control begins.
