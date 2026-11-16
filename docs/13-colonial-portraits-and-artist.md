@@ -40,3 +40,6 @@ The genealogy remains **nine-child canonical** even though the children's names,
 
 ## Established custody: the Valcárcel estate library
 **User-confirmed:** the **main Valcárcel family line** has kept **all four original colonial paintings** and the **founding fleet's original logbooks** continuously in its private estate library/archive from the colonial era to the present. Earlier discussion of possible public museum ownership or dispersed family collections is superseded. Individual works may be temporarily conserved, copied, loaned or exhibited, but they are **not permanently transferred from the family collection**. See [The Valcárcel Estate Library](17-valcarcel-estate-library-and-archive.md). This does not imply the physical library room has remained unchanged for four centuries.
+
+## The artist's surviving journals and tools
+The family archive contains Villacorta's proposed personal sketchbooks, paintings studies and a surviving travel painter's chest, alongside the four original portraits. These are catalogued at [VA-JRN-001 and VA-OBJ-004](18-estate-library-collection-catalogue.md). The artist's journals are separate witnesses to the expedition and the private household; they should not be assumed to agree in every detail with official colony records.
