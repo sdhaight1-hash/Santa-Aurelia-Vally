@@ -58,3 +58,6 @@ Southbank High School's established mascot is the **Southbank Wolves**, replacin
 
 ## The Wolves are champions, not merely underdogs
 **Southbank Wolves** football holds **five state titles** in the alternate-history ledger (1984, 1998, 2009, 2017 and 2021), making it an Oregon powerhouse equal in competitive reputation to nearby affluent Willowwick and Santa Aurelia. Economic differences among towns do not imply weaker athletics. See [the Valley Three](28-high-school-sports-and-rivalries.md).
+
+## Agricultural livelihoods and rodeo economy
+Cattle ranches, dairies, hay farms, horse properties, 4-H and a **major rodeo culture** are important parts of the region's rural economy. Ranching families migrating **from Wyoming** in the late nineteenth/early twentieth century (proposed wave) joined earlier local stock-raising traditions and adapted to wet, forested, limited-pasture terrain. Rodeo supports arenas, training, livestock contractors, veterinary and farrier work, tack making and local tourism. Agricultural fortunes vary; not every rancher is wealthy. See [Agriculture, 4-H and Rodeo](36-agriculture-ranching-4h-rodeo.md).
