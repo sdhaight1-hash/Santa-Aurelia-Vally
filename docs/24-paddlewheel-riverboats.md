@@ -32,3 +32,6 @@ Riverboat operators support pier staff, captains, engineers, mechanics, licensed
 The Columbia is a tidal, wind-affected commercial navigation system, and the hazardous Columbia Bar stands between the estuary and the open Pacific. Paddlewheel excursion vessels operate on approved **protected river routes**, not routine ocean crossings. Larger vessels need appropriate berth draft, bridge clearance, weather policies, trained pilots, accessible boarding and modern safety compliance. The route from Santa Aurelia to Willowwick is **not presumed navigable**; it must be established in our geographic/hydrological map before through-cruises are canonized.
 
 See also [the ocean cruise homeport](25-santa-aurelia-cruise-homeport.md). The industries overlap through hotels, transport, waterfront attractions and pre-/post-cruise excursions but remain technically distinct.
+
+## Maritime rescue coordination
+The nearby **Coast Guard base outside Santa Aurelia** reinforces the valley's professional maritime response capabilities. Licensed riverboat masters remain responsible for vessel operations and weather decisions, while Coast Guard resources respond to emergencies and applicable maritime regulations. See [base history](26-coast-guard-base-santa-aurelia.md).
