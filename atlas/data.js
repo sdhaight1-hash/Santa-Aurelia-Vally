@@ -326,7 +326,9 @@ window.SANTA_AURELIA_SEED={
         "ines",
         "flagship",
         "festival",
-        "valcarcel-estate-library"
+        "valcarcel-estate-library",
+        "letters-two-shores",
+        "founding-artifacts"
       ]
     },
     {
@@ -345,7 +347,9 @@ window.SANTA_AURELIA_SEED={
       "links": [
         "alonso",
         "santa-aurelia",
-        "festival"
+        "festival",
+        "letters-two-shores",
+        "saweli-notebooks"
       ]
     },
     {
@@ -567,7 +571,8 @@ window.SANTA_AURELIA_SEED={
         "portrait-arrival",
         "portrait-ines",
         "portrait-wedding",
-        "portrait-family"
+        "portrait-family",
+        "founder-journals"
       ]
     },
     {
@@ -657,7 +662,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "1608 to present",
       "summary": "Private archive of the principal Valcárcel family, continuously preserving the founding fleet's original logbooks and all four colonial family portraits.",
-      "body": "The **main Valcárcel family line** has kept the originals of the [[founding-logbook|1608 founding voyage logbook and passenger manifests]] together with all four celebrated colonial paintings in its private estate library through the centuries.\n\nThese include [[portrait-arrival|Alonso's arrival]], [[portrait-ines|the formal portrait of Inés]], [[portrait-wedding|their marriage portrait]], and [[portrait-family|their later eleven-person household painting]]. All are attributed within the setting to the founding-colony painter [[mateo-villacorta|Mateo de Villacorta (working name)]], a friend of [[alonso|Alonso]].\n\nThe estate remains a private institution. Historians may study family-authorized copies, transcripts, loans or supervised originals, but original ownership is not public museum ownership. The room and building may have changed during four centuries of family custody. Its formal estate name, exact grounds and custody chronology remain to be developed.",
+      "body": "The **main Valcárcel family line** has kept the originals of the [[founding-logbook|1608 founding voyage logbook and passenger manifests]] together with all four celebrated colonial paintings in its private estate library through the centuries.\n\nThese include [[portrait-arrival|Alonso's arrival]], [[portrait-ines|the formal portrait of Inés]], [[portrait-wedding|their marriage portrait]], and [[portrait-family|their later eleven-person household painting]]. All are attributed within the setting to the founding-colony painter [[mateo-villacorta|Mateo de Villacorta (working name)]], a friend of [[alonso|Alonso]].\n\nThe estate remains a private institution. Historians may study family-authorized copies, transcripts, loans or supervised originals, but original ownership is not public museum ownership. The room and building may have changed during four centuries of family custody. Its formal estate name, exact grounds and custody chronology remain to be developed.\n\nThe library also preserves the [[letters-two-shores|founders' love letters]], [[saweli-notebooks|Sáweli/Inés's retrospective diary notebooks]], [[founder-journals|early settlers' personal journals]] and extensive [[founding-artifacts|material artifacts]]. Their detailed inventory and proposed excerpts are in `docs/18-estate-library-collection-catalogue.md`.",
       "tags": [
         "family archive",
         "colonial",
@@ -673,7 +678,11 @@ window.SANTA_AURELIA_SEED={
         "portrait-wedding",
         "portrait-family",
         "mateo-villacorta",
-        "founding-logbook"
+        "founding-logbook",
+        "letters-two-shores",
+        "saweli-notebooks",
+        "founder-journals",
+        "founding-artifacts"
       ]
     },
     {
@@ -693,6 +702,83 @@ window.SANTA_AURELIA_SEED={
         "valcarcel-estate-library",
         "flagship",
         "alonso"
+      ]
+    },
+    {
+      "id": "letters-two-shores",
+      "title": "The Letters of the Two Shores",
+      "category": "Document",
+      "status": "working",
+      "era": "1609–1639",
+      "summary": "The private love letters of Alonso and Sáweli/Inés, preserved at their descendants' estate library.",
+      "body": "The **Letters of the Two Shores** are a collection of surviving love letters, dictated messages, folded notes, and later autograph correspondence exchanged by [[alonso|Alonso]] and [[ines|Sáweli/Inés]].\n\nInés did not write fluent Spanish when the fleet arrived in 1608. Early notes attributed to her were spoken, dictated or transmitted through trusted people; her later letters were written independently as she learned adult alphabetic literacy around 1612–1615 (working dates). The letters include affection, disagreements, trade voyages, the births of nine children and mundane household concerns.\n\nThe original manuscripts are preserved in the [[valcarcel-estate-library|private Valcárcel Estate Library]], catalogued as VA-COR-001 to VA-COR-003. The long manuscript catalog and fictional excerpts are in `docs/18-estate-library-collection-catalogue.md`.",
+      "tags": [
+        "letters",
+        "romance",
+        "historical manuscript"
+      ],
+      "links": [
+        "alonso",
+        "ines",
+        "valcarcel-estate-library"
+      ]
+    },
+    {
+      "id": "saweli-notebooks",
+      "title": "The Sáweli Notebooks",
+      "category": "Document",
+      "status": "working",
+      "era": "c.1616–1636",
+      "summary": "Inés's own later-life diary manuscripts, recounting her childhood and Ashalewan life before the 1608 founding expedition.",
+      "body": "The **Sáweli Notebooks** are among the most important surviving manuscripts held by the [[valcarcel-estate-library|private family archive]]. They include [[ines|Sáweli/Inés's]] first-person recollections of her Ashalewan family, life before meeting [[alonso|Alonso]], her siblings, ancestors, fishing seasons, river navigation, dispute resolution and community relationships.\n\n**The early-life passages are written retrospectively** after Sáweli learned alphabetic reading and writing as an adult following the 1608 expedition. They are not implausibly pre-contact written childhood diaries. Other notebook sections record the growing colonial household and nine children, including words in the invented Ashalewan language.\n\nThe catalog distinguishes her own hand, copied extracts, scribal additions and later translations. The notebooks are classed VA-DIA-001 to VA-DIA-004; see `docs/18-estate-library-collection-catalogue.md`.",
+      "tags": [
+        "diary",
+        "indigenous history",
+        "women's writings"
+      ],
+      "links": [
+        "ines",
+        "alonso",
+        "valcarcel-estate-library"
+      ]
+    },
+    {
+      "id": "founder-journals",
+      "title": "Journals of the First Settlers",
+      "category": "Document",
+      "status": "working",
+      "era": "1608–1645",
+      "summary": "Privately kept journals of the original expedition's sailors, traders, artists, mariners, gardeners and builders.",
+      "body": "The family archive holds multiple early settlers' journals: [[mateo-villacorta|the founding painter's sketchbooks]], the shipmaster's working sea book, **María de la Cruz's trading notes**, **Pablo Manalo's wage book**, Beatriz Salazar's garden and remedies notes, builders' measurements and the ships' duplicate scribal notes.\n\nThey provide different viewpoints on the colony, including women and Filipino maritime workers, rather than making Alonso the only author of early settlement history. Their originals entered the [[valcarcel-estate-library|Valcárcel Estate Library]] through different transactions, bequests and family deposits over time. See `docs/18-estate-library-collection-catalogue.md`.",
+      "tags": [
+        "journals",
+        "1608",
+        "founders"
+      ],
+      "links": [
+        "mateo-villacorta",
+        "founding-logbook",
+        "valcarcel-estate-library"
+      ]
+    },
+    {
+      "id": "founding-artifacts",
+      "title": "Artifacts of the First Colony",
+      "category": "Artifact",
+      "status": "working",
+      "era": "1608 onward",
+      "summary": "Navigation instruments, marriage tokens, painter's chest, trade weights, textiles and other objects kept by the Valcárcel family.",
+      "body": "The [[valcarcel-estate-library|Valcárcel Estate Library]] holds the founder's navigational instruments, correspondence seals, marriage tokens from [[alonso|Alonso]] and [[ines|Sáweli/Inés]], the founding painter's travel equipment, colonial textiles, household craft objects, trade weights, transport cases, and objects linked with early children and their homes.\n\nTheir provenance varies. Not all objects are demonstrably from 1608, and cultural objects or community knowledge must not be treated as automatically available to outsiders. The restored [[flagship|original flagship]] remains on the harbor waterfront, not inside the library.\n\nThe catalog of object classes is VA-OBJ-001 through VA-OBJ-012 in `docs/18-estate-library-collection-catalogue.md`.",
+      "tags": [
+        "artifacts",
+        "material culture",
+        "estate library"
+      ],
+      "links": [
+        "valcarcel-estate-library",
+        "alonso",
+        "ines",
+        "mateo-villacorta"
       ]
     }
   ],
