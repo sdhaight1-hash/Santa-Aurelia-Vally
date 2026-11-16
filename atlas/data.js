@@ -9,7 +9,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Present day",
       "summary": "A layered lower Columbia region of maritime cities, inland forests, ancient monuments, and communities shaped by more than four centuries of colonial history.",
-      "body": "The region encompasses [[santa-aurelia|Santa Aurelia]], [[willowwick|Willowwick Grove]], [[blackwood|Blackwood Ridge]], and surrounding watersheds, rural hamlets, lakes and tribal lands.\n\nIts Spanish regional name derives from the old port, but its Indigenous histories reach back millennia. The region is not one municipality, one valley basin, or one uniform culture.\n\nSanta Aurelia and Willowwick Grove are near-peer cities. The northwest portion of Witches' Wood includes reservation land, while southwest Blackwood transitions into Fernhollow Country.\n\nThe coast and inland communities sustain a substantial [[wedding-coast|wedding industry]] built around Santa Aurelia's palaces, gardens, historic inns, [[harbor-boardwalks|waterfront promenades]] and distinctive regional architecture.\n\nThe tourism economy also includes [[paddlewheel-riverboats|heritage paddlewheel cruises]] and Santa Aurelia's [[cruise-homeport|ocean cruise homeport]].\n\nA major [[coast-guard-base|U.S. Coast Guard maritime installation]] is situated outside Santa Aurelia.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\nBoth [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]] are broadly affluent. Some smaller, separate [[outlying-townships|townships]] in the surrounding mining, timber and floodplain valleys face greater economic hardship; they are not districts within either city.\n\n[[southbank|Southbank]] is an independent lower-income former river-mill township in the wider valley, separate from both prosperous cities.\n\nSchool athletics and the rivalries among the [[wisps|Willowwick Wisps]], [[santa-aurelia-captains|Santa Aurelia Captains]] and [[southbank-wolves|Southbank Wolves]] are defining regional traditions.",
+      "body": "The region encompasses [[santa-aurelia|Santa Aurelia]], [[willowwick|Willowwick Grove]], [[blackwood|Blackwood Ridge]], and surrounding watersheds, rural hamlets, lakes and tribal lands.\n\nIts Spanish regional name derives from the old port, but its Indigenous histories reach back millennia. The region is not one municipality, one valley basin, or one uniform culture.\n\nSanta Aurelia and Willowwick Grove are near-peer cities. The northwest portion of Witches' Wood includes reservation land, while southwest Blackwood transitions into Fernhollow Country.\n\nThe coast and inland communities sustain a substantial [[wedding-coast|wedding industry]] built around Santa Aurelia's palaces, gardens, historic inns, [[harbor-boardwalks|waterfront promenades]] and distinctive regional architecture.\n\nThe tourism economy also includes [[paddlewheel-riverboats|heritage paddlewheel cruises]] and Santa Aurelia's [[cruise-homeport|ocean cruise homeport]].\n\nA major [[coast-guard-base|U.S. Coast Guard maritime installation]] is situated outside Santa Aurelia.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\nBoth [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]] are broadly affluent. Some smaller, separate [[outlying-townships|townships]] in the surrounding mining, timber and floodplain valleys face greater economic hardship; they are not districts within either city.\n\n[[southbank|Southbank]] is an independent lower-income former river-mill township in the wider valley, separate from both prosperous cities.\n\nSchool athletics and the rivalries among the [[wisps|Willowwick Wisps]], [[santa-aurelia-captains|Santa Aurelia Captains]] and [[southbank-wolves|Southbank Wolves]] are defining regional traditions.\n\n**Geography master-plan v1:** Approx. 1,800 sq mi (4,660 km²) target; irregular roughly 70-mile east–west and 45-mile north–south cultural region; multiple watersheds, not a single valley. Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.",
       "tags": [
         "geography",
         "overview",
@@ -26,7 +26,8 @@ window.SANTA_AURELIA_SEED={
         "coast-guard-base",
         "outlying-townships",
         "southbank",
-        "valley-highschool-rivalries"
+        "valley-highschool-rivalries",
+        "geographic-master-plan"
       ]
     },
     {
@@ -36,7 +37,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Founded 1608",
       "summary": "The Jewel of the Pacific: a Spanish–Indigenous and Venetian-influenced port city at the site of present-day Astoria, Oregon.",
-      "body": "The first permanent European-founded settlement in the region was established here in **1608** by [[alonso|Don Alonso de Valcárcel y Austria]]. The harbor already supported Indigenous communities, trade, and maritime knowledge.\n\nThe city occupies the present-day Astoria site on the Columbia estuary. It rebuilt after the 1700 earthquake and remains a living commercial port rather than a museum district.\n\nNineteenth-century Venetian migration added merchant wealth, decorated stone arcades, glasswork, and waterfront palazzi to a much older Spanish–Indigenous building tradition.\n\nIts famous [[festival|Festival of the Two Hearts]], [[palacio|Palacio de la Bahía]], and [[flagship|preserved flagship]] attract regional visitors. Working population is approximately 19,000.\n\nThe city's monumental [[season-of-halls|ballroom circuit]] and breathtaking [[harbor-boardwalks|timber-and-stone harbor promenades]] make it the heart of the [[wedding-coast|valley's destination wedding economy]], attracting ceremonies and celebrations throughout the year.\n\nSanta Aurelia is also an **ocean-going [[cruise-homeport|cruise departure homeport]]**, with a dedicated [[ocean-passenger-terminal|passenger terminal]], and hosts a thriving [[paddlewheel-riverboats|heritage paddlewheel excursion industry]]. These complement its wedding venues and magnificent waterfront.\n\nA substantial [[coast-guard-base|Coast Guard base]] sits near, but outside, the city, supporting rescue aviation, boats and maritime safety around the Columbia Bar.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\n**Updated socioeconomic canon:** Santa Aurelia is generally affluent and well-kept, like Willowwick. Ordinary wage-earners, renters and households facing high costs remain part of the city, but it does not have a large named impoverished quarter. More economically challenged former industry communities are [[outlying-townships|separate valley townships]].\n\nThe [[santa-aurelia-captains|Santa Aurelia High School Captains]] are rivals of the [[wisps|Willowwick Wisps]] and [[southbank-wolves|Southbank Wolves]].\n\nThe city's or township's six-time champion [[santa-aurelia-captains|Captains]] are part of the [[valley-highschool-rivalries|Valley Three]], a trio of Oregon high school football dynasties renowned far beyond the valley.",
+      "body": "The first permanent European-founded settlement in the region was established here in **1608** by [[alonso|Don Alonso de Valcárcel y Austria]]. The harbor already supported Indigenous communities, trade, and maritime knowledge.\n\nThe city occupies the present-day Astoria site on the Columbia estuary. It rebuilt after the 1700 earthquake and remains a living commercial port rather than a museum district.\n\nNineteenth-century Venetian migration added merchant wealth, decorated stone arcades, glasswork, and waterfront palazzi to a much older Spanish–Indigenous building tradition.\n\nIts famous [[festival|Festival of the Two Hearts]], [[palacio|Palacio de la Bahía]], and [[flagship|preserved flagship]] attract regional visitors. Working population is approximately 19,000.\n\nThe city's monumental [[season-of-halls|ballroom circuit]] and breathtaking [[harbor-boardwalks|timber-and-stone harbor promenades]] make it the heart of the [[wedding-coast|valley's destination wedding economy]], attracting ceremonies and celebrations throughout the year.\n\nSanta Aurelia is also an **ocean-going [[cruise-homeport|cruise departure homeport]]**, with a dedicated [[ocean-passenger-terminal|passenger terminal]], and hosts a thriving [[paddlewheel-riverboats|heritage paddlewheel excursion industry]]. These complement its wedding venues and magnificent waterfront.\n\nA substantial [[coast-guard-base|Coast Guard base]] sits near, but outside, the city, supporting rescue aviation, boats and maritime safety around the Columbia Bar.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\n**Updated socioeconomic canon:** Santa Aurelia is generally affluent and well-kept, like Willowwick. Ordinary wage-earners, renters and households facing high costs remain part of the city, but it does not have a large named impoverished quarter. More economically challenged former industry communities are [[outlying-townships|separate valley townships]].\n\nThe [[santa-aurelia-captains|Santa Aurelia High School Captains]] are rivals of the [[wisps|Willowwick Wisps]] and [[southbank-wolves|Southbank Wolves]].\n\nThe city's or township's six-time champion [[santa-aurelia-captains|Captains]] are part of the [[valley-highschool-rivalries|Valley Three]], a trio of Oregon high school football dynasties renowned far beyond the valley.\n\n**Geography master-plan v1:** 46.1880° N, 123.8313° W (Astoria real-site anchor). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.",
       "tags": [
         "city",
         "coast",
@@ -60,7 +61,8 @@ window.SANTA_AURELIA_SEED={
         "outlying-townships",
         "santa-aurelia-captains",
         "southbank-wolves",
-        "valley-highschool-rivalries"
+        "valley-highschool-rivalries",
+        "geographic-master-plan"
       ]
     },
     {
@@ -70,7 +72,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Incorporated 1878 (working)",
       "summary": "The Garden City of the Lower Columbia, an inland gold-mining settlement transformed by timber, Victorian architecture, and exceptional horticulture.",
-      "body": "Willowwick began with gold mining in a mineralized portion of the [[craton|Aurelia cratonic fragment]]. Copper and building-stone quarrying added to the district's economy, while timber later became dominant.\n\nConnecticut and Virginia families introduced industrial finance, civic patronage and old-money rivalries here, **rather than in Santa Aurelia**.\n\nThe city is celebrated for [[commons|Willowwick Commons]], the Cherry Blossom Promenade, Gothic Revival institutions, the Grand Willowwick Library and Theatre, Lantern Quay, and the [[wisps|Willowwick Wisps]].\n\nIts proposed population is about 21,000. The precise location of the city within the watershed is still to be surveyed.\n\n**Updated socioeconomic canon:** Willowwick Grove is a generally affluent, beautiful and well-maintained garden city, with no defined poor district. The historic **Millwright Quarter**, once associated with millworkers, has become a restored and desirable but more modest residential neighborhood, not an impoverished trailer district. Economically struggling former industrial settlements exist as [[outlying-townships|separate valley townships]] outside the city's limits. Workers and renters of varied incomes nevertheless live within Willowwick.\n\nThe distinct former mill township of [[southbank|Southbank]] lies outside Willowwick's city boundaries and is generally less affluent; it is not part of Willowwick proper.\n\nHigh school sports are important local culture; the [[wisps|Willowwick Wisps]] maintain rivalries with the [[santa-aurelia-captains|Captains]] and [[southbank-wolves|Wolves]].\n\nThe city's or township's six-time champion [[wisps|Wisps]] are part of the [[valley-highschool-rivalries|Valley Three]], a trio of Oregon high school football dynasties renowned far beyond the valley.",
+      "body": "Willowwick began with gold mining in a mineralized portion of the [[craton|Aurelia cratonic fragment]]. Copper and building-stone quarrying added to the district's economy, while timber later became dominant.\n\nConnecticut and Virginia families introduced industrial finance, civic patronage and old-money rivalries here, **rather than in Santa Aurelia**.\n\nThe city is celebrated for [[commons|Willowwick Commons]], the Cherry Blossom Promenade, Gothic Revival institutions, the Grand Willowwick Library and Theatre, Lantern Quay, and the [[wisps|Willowwick Wisps]].\n\nIts proposed population is about 21,000. The precise location of the city within the watershed is still to be surveyed.\n\n**Updated socioeconomic canon:** Willowwick Grove is a generally affluent, beautiful and well-maintained garden city, with no defined poor district. The historic **Millwright Quarter**, once associated with millworkers, has become a restored and desirable but more modest residential neighborhood, not an impoverished trailer district. Economically struggling former industrial settlements exist as [[outlying-townships|separate valley townships]] outside the city's limits. Workers and renters of varied incomes nevertheless live within Willowwick.\n\nThe distinct former mill township of [[southbank|Southbank]] lies outside Willowwick's city boundaries and is generally less affluent; it is not part of Willowwick proper.\n\nHigh school sports are important local culture; the [[wisps|Willowwick Wisps]] maintain rivalries with the [[santa-aurelia-captains|Captains]] and [[southbank-wolves|Wolves]].\n\nThe city's or township's six-time champion [[wisps|Wisps]] are part of the [[valley-highschool-rivalries|Valley Three]], a trio of Oregon high school football dynasties renowned far beyond the valley.\n\n**Geography master-plan v1:** 46.0100° N, 123.6650° W (proposed mapped upper Youngs River corridor; distance targets to Santa Aurelia 22–30 road miles). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.",
       "tags": [
         "city",
         "mining",
@@ -86,7 +88,8 @@ window.SANTA_AURELIA_SEED={
         "southbank",
         "santa-aurelia-captains",
         "southbank-wolves",
-        "valley-highschool-rivalries"
+        "valley-highschool-rivalries",
+        "geographic-master-plan"
       ]
     },
     {
@@ -96,7 +99,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Ancient to present",
       "summary": "A rugged, forested district of ancient stoneways, immigrant mountain communities, Indigenous lands, unusual flora, and rural self-reliance.",
-      "body": "The district contains [[witchwood|Witches' Wood]] and its prehistoric monumental landscape. The tribal [[reservation|reservation]] includes some of the northwestern forest; [[fernhollow|Fernhollow Country]] lies southwest.\n\nIrish, Scottish, Romanian, Transylvanian and Slavic households built communities around the forest. Some describe an unexplained sense of kinship to its rugged, foggy landscape.\n\nThe rest of Blackwood Ridge includes working forests, old mines, agricultural valleys, village churches, preparedness homesteads, hiking trails and remote archaeological sanctuaries.",
+      "body": "The district contains [[witchwood|Witches' Wood]] and its prehistoric monumental landscape. The tribal [[reservation|reservation]] includes some of the northwestern forest; [[fernhollow|Fernhollow Country]] lies southwest.\n\nIrish, Scottish, Romanian, Transylvanian and Slavic households built communities around the forest. Some describe an unexplained sense of kinship to its rugged, foggy landscape.\n\nThe rest of Blackwood Ridge includes working forests, old mines, agricultural valleys, village churches, preparedness homesteads, hiking trails and remote archaeological sanctuaries.\n\n**Geography master-plan v1:** 45.9050° N, 123.6650° W (proposed upland reference center south of Willowwick). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.",
       "tags": [
         "forest",
         "mountains",
@@ -105,7 +108,8 @@ window.SANTA_AURELIA_SEED={
       "links": [
         "witchwood",
         "reservation",
-        "fernhollow"
+        "fernhollow",
+        "geographic-master-plan"
       ]
     },
     {
@@ -115,7 +119,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Ancient to present",
       "summary": "A woodland famous for the Fairy Stones, luminous groves, ancient legends, cryptid sightings, and wilderness disappearance lore.",
-      "body": "Its heart is [[fairy-stones|the Fairy Stones]] within [[silverveil|Silverveil Grove]], where giant Blacksilver Willows shelter ancient monuments and faintly glowing fungi.\n\nCenturies of stories include [[white-ones|the White Ones]], [[lantern-children|Lantern Children]], [[howler|the Blackwood Howler]], Bigfoot sightings, and modern Missing 411-style speculation. Those stories are cultural history, **not objective supernatural fact**.\n\nThe northwest portion extends into sovereign [[reservation|reservation lands]], while its southwest approaches connect to [[fernhollow|Fernhollow Country]].\n\nThe legends are preserved in early written form by [[saweli-historical-corpus|Sáweli/Inés]], an Indigenous historian who interviewed Blackwood-area people in the seventeenth century; the forest's folklore did not survive solely through later migrant legends.",
+      "body": "Its heart is [[fairy-stones|the Fairy Stones]] within [[silverveil|Silverveil Grove]], where giant Blacksilver Willows shelter ancient monuments and faintly glowing fungi.\n\nCenturies of stories include [[white-ones|the White Ones]], [[lantern-children|Lantern Children]], [[howler|the Blackwood Howler]], Bigfoot sightings, and modern Missing 411-style speculation. Those stories are cultural history, **not objective supernatural fact**.\n\nThe northwest portion extends into sovereign [[reservation|reservation lands]], while its southwest approaches connect to [[fernhollow|Fernhollow Country]].\n\nThe legends are preserved in early written form by [[saweli-historical-corpus|Sáweli/Inés]], an Indigenous historian who interviewed Blackwood-area people in the seventeenth century; the forest's folklore did not survive solely through later migrant legends.\n\n**Geography master-plan v1:** 45.8980° N, 123.6420° W (proposed center; protected forest, no automatic public access). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.",
       "tags": [
         "forest",
         "folklore",
@@ -128,7 +132,8 @@ window.SANTA_AURELIA_SEED={
         "lantern-children",
         "howler",
         "reservation",
-        "saweli-historical-corpus"
+        "saweli-historical-corpus",
+        "geographic-master-plan"
       ]
     },
     {
@@ -138,7 +143,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Precolonial",
       "summary": "Ancient standing-stone circle, also called the Giants' Ring, surrounded by silver-leaved willows, fog, vines, and faintly luminous fungi.",
-      "body": "The megalithic ring occupies the heart of [[silverveil|Silverveil Grove]]. The surrounding stoneways, smaller alignments, and mounds comprise the wider Blackwood Ridge complex.\n\nThe name **Fairy Stones** reflects later fairy folklore inspired by the extraordinary environment; **Giants' Ring** connects to legends of [[white-ones|the White Ones]]. The specific ancient builders, original Indigenous place name and construction dates remain unresolved.\n\nThe monument and its fragile botanical habitat require careful conservation and consultation with the community associated with the ancestral landscape.\n\nSáweli's [[saweli-historical-corpus|early written testimony]] preserves accounts from people of Blackwood Ridge about the ancient stones, before the modern English label Fairy Stones existed.",
+      "body": "The megalithic ring occupies the heart of [[silverveil|Silverveil Grove]]. The surrounding stoneways, smaller alignments, and mounds comprise the wider Blackwood Ridge complex.\n\nThe name **Fairy Stones** reflects later fairy folklore inspired by the extraordinary environment; **Giants' Ring** connects to legends of [[white-ones|the White Ones]]. The specific ancient builders, original Indigenous place name and construction dates remain unresolved.\n\nThe monument and its fragile botanical habitat require careful conservation and consultation with the community associated with the ancestral landscape.\n\nSáweli's [[saweli-historical-corpus|early written testimony]] preserves accounts from people of Blackwood Ridge about the ancient stones, before the modern English label Fairy Stones existed.\n\n**Geography master-plan v1:** 45.9000° N, 123.6350° W (illustrative sensitive-site reference only; no verified title or public access). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.",
       "tags": [
         "standing stones",
         "archaeology",
@@ -148,7 +153,8 @@ window.SANTA_AURELIA_SEED={
         "silverveil",
         "blackwood",
         "white-ones",
-        "saweli-historical-corpus"
+        "saweli-historical-corpus",
+        "geographic-master-plan"
       ]
     },
     {
@@ -158,7 +164,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Ancient to present",
       "summary": "A mist-draped habitat of endemic giant Blacksilver Willows and glowing fungi surrounding the Fairy Stones.",
-      "body": "Silverveil Grove contains the principal concentration of [[blacksilver|Blacksilver Willows]] near [[fairy-stones|the Fairy Stones]]. Massive black-barked trunks support curtains of silvery leaves. Vines, moss, ferns and frequent basin fog help create the area's eerie appearance.\n\nIn darkness, specialized [[fungi|bioluminescent fungi]] produce faint, often greenish light on deadwood and small mushrooms. The landscape became central to fairy, ghost-light and lost-child folklore.\n\nA proposed exceptionally large specimen is known as **Old Mother Willow**.",
+      "body": "Silverveil Grove contains the principal concentration of [[blacksilver|Blacksilver Willows]] near [[fairy-stones|the Fairy Stones]]. Massive black-barked trunks support curtains of silvery leaves. Vines, moss, ferns and frequent basin fog help create the area's eerie appearance.\n\nIn darkness, specialized [[fungi|bioluminescent fungi]] produce faint, often greenish light on deadwood and small mushrooms. The landscape became central to fairy, ghost-light and lost-child folklore.\n\nA proposed exceptionally large specimen is known as **Old Mother Willow**.\n\n**Geography master-plan v1:** 45.8980° N, 123.6250° W (illustrative sensitive-site reference only). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.",
       "tags": [
         "botany",
         "forest",
@@ -167,7 +173,8 @@ window.SANTA_AURELIA_SEED={
       "links": [
         "blacksilver",
         "fungi",
-        "fairy-stones"
+        "fairy-stones",
+        "geographic-master-plan"
       ]
     },
     {
@@ -269,7 +276,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Precolonial to present",
       "summary": "Sovereign tribal lands extend into the northwest portion of Witches' Wood and include ancestral woodland, trails, waystones, and living communities.",
-      "body": "Reservation lands occupy northwestern Blackwood Ridge and **include substantial portions of [[witchwood|Witches' Wood]]**. Tribal governance, conservation and cultural practice extend to these actual landholdings.\n\nSome ancient stones and [[blacksilver|Blacksilver Willow]] habitats occur on reservation land; the exact jurisdiction of the central Fairy Stones complex remains unresolved.\n\nThe [[casino|Cedarwater Casino & Lodge]] is a tribal government enterprise. Tribal citizenship and sovereignty are not determined merely by ancestry from Alonso and Inés.\n\nThe nation's precise in-setting name, language, political history and boundaries have not yet been decided.",
+      "body": "Reservation lands occupy northwestern Blackwood Ridge and **include substantial portions of [[witchwood|Witches' Wood]]**. Tribal governance, conservation and cultural practice extend to these actual landholdings.\n\nSome ancient stones and [[blacksilver|Blacksilver Willow]] habitats occur on reservation land; the exact jurisdiction of the central Fairy Stones complex remains unresolved.\n\nThe [[casino|Cedarwater Casino & Lodge]] is a tribal government enterprise. Tribal citizenship and sovereignty are not determined merely by ancestry from Alonso and Inés.\n\nThe nation's precise in-setting name, language, political history and boundaries have not yet been decided.\n\n**Geography master-plan v1:** 45.9380° N, 123.7030° W (northwest ridge overlap reference point only; not a tribal jurisdictional polygon). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.",
       "tags": [
         "indigenous",
         "sovereignty",
@@ -278,7 +285,8 @@ window.SANTA_AURELIA_SEED={
       "links": [
         "witchwood",
         "casino",
-        "blackwood"
+        "blackwood",
+        "geographic-master-plan"
       ]
     },
     {
@@ -305,7 +313,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Older farms; 1970s ecovillage",
       "summary": "The rural southwest approaches to Witches' Wood, home to historic immigrant villages, independent homesteads, and the Fernhollow ecovillage.",
-      "body": "The larger district southwest of [[witchwood|Witches' Wood]] contains farms, old Irish/Scottish/Romanian/Slavic settlements, private woodlots and preparedness households.\n\nThe ecovillage founded during the **1970s back-to-the-land movement** uses practical permaculture, food forests, timber/cob construction, greenhouses, rainproofing, mushroom cultivation, and vocational teaching. It buys and sells goods like other communities.\n\n[[thornhaven|Thornhaven Village]] lies nearby but is independently run. Other families pursue hunting, archery, off-grid living, livestock care and emergency preparedness.",
+      "body": "The larger district southwest of [[witchwood|Witches' Wood]] contains farms, old Irish/Scottish/Romanian/Slavic settlements, private woodlots and preparedness households.\n\nThe ecovillage founded during the **1970s back-to-the-land movement** uses practical permaculture, food forests, timber/cob construction, greenhouses, rainproofing, mushroom cultivation, and vocational teaching. It buys and sells goods like other communities.\n\n[[thornhaven|Thornhaven Village]] lies nearby but is independently run. Other families pursue hunting, archery, off-grid living, livestock care and emergency preparedness.\n\n**Geography master-plan v1:** 45.8670° N, 123.7360° W (proposed district center southwest of Blackwood). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.",
       "tags": [
         "ecovillage",
         "homesteading",
@@ -314,7 +322,8 @@ window.SANTA_AURELIA_SEED={
       "links": [
         "blackwood",
         "thornhaven",
-        "witchwood"
+        "witchwood",
+        "geographic-master-plan"
       ]
     },
     {
@@ -514,14 +523,15 @@ window.SANTA_AURELIA_SEED={
       "status": "working",
       "era": "Historic timber resort era onward",
       "summary": "A lake and woodland recreation district with canoeing, camping and the old timber-era Alderwood Lodge.",
-      "body": "The lake district combines forest recreation, cabins, historic resort hospitality, angling, family visits and outdoor trails. The lake's geological formation, exact position and connections to Willowwick and Blackwood Ridge remain undecided.",
+      "body": "The lake district combines forest recreation, cabins, historic resort hospitality, angling, family visits and outdoor trails. The lake's geological formation, exact position and connections to Willowwick and Blackwood Ridge remain undecided.\n\n**Geography master-plan v1:** 45.9700° N, 123.5250° W (proposed fictional basin center east of Willowwick; requires hydrologic/geologic validation). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.",
       "tags": [
         "lake",
         "leisure",
         "forestry"
       ],
       "links": [
-        "valle"
+        "valle",
+        "geographic-master-plan"
       ]
     },
     {
@@ -1005,7 +1015,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Colonial origins, many later rebuildings",
       "summary": "The city's striking timber-and-dressed-stone promenades, arcaded walks and terraces around the harbor are beloved for festivals, daily life and weddings.",
-      "body": "Santa Aurelia's waterfront is lined with a breathtaking network of **timber-decked and stone-built boardwalks**, covered walks, masonry quays, lanterns, railings, gardens, small plazas, stairways and overlooks across the Columbia estuary. Structures developed over centuries, with repairs after storms and the 1700 Cascadia earthquake; the entire promenade is not unchanged from 1608.\n\nThe layered Spanish and Venetian architecture provides dramatic backdrops for the [[festival|Festival of the Two Hearts]] and the city's [[wedding-coast|wedding economy]]. The harbor remains a **working public waterfront**, so visitors and private ceremonies share access with residents, traders, vessels and the maritime economy. Winter wind, rain and tides shape safe operations and design.\n\nThe promenade includes overlooks and approved excursion-pier connections for [[paddlewheel-riverboats|riverboats]]; a separate modern [[ocean-passenger-terminal|deep-water passenger terminal]] handles embarkation of sea-going cruise ships.",
+      "body": "Santa Aurelia's waterfront is lined with a breathtaking network of **timber-decked and stone-built boardwalks**, covered walks, masonry quays, lanterns, railings, gardens, small plazas, stairways and overlooks across the Columbia estuary. Structures developed over centuries, with repairs after storms and the 1700 Cascadia earthquake; the entire promenade is not unchanged from 1608.\n\nThe layered Spanish and Venetian architecture provides dramatic backdrops for the [[festival|Festival of the Two Hearts]] and the city's [[wedding-coast|wedding economy]]. The harbor remains a **working public waterfront**, so visitors and private ceremonies share access with residents, traders, vessels and the maritime economy. Winter wind, rain and tides shape safe operations and design.\n\nThe promenade includes overlooks and approved excursion-pier connections for [[paddlewheel-riverboats|riverboats]]; a separate modern [[ocean-passenger-terminal|deep-water passenger terminal]] handles embarkation of sea-going cruise ships.\n\n**Geography master-plan v1:** Historic promenade proposed reference center at 46.1870° N, 123.8270° W. Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.",
       "tags": [
         "boardwalk",
         "waterfront",
@@ -1020,7 +1030,8 @@ window.SANTA_AURELIA_SEED={
         "palacio",
         "paddlewheel-riverboats",
         "ocean-passenger-terminal",
-        "cruise-homeport"
+        "cruise-homeport",
+        "geographic-master-plan"
       ]
     },
     {
@@ -1030,7 +1041,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Nineteenth century–present",
       "summary": "Thriving lower-Columbia sternwheeler and paddleboat sightseeing, heritage, dinner-cruise and charter industry.",
-      "body": "Santa Aurelia's historic riverboat tradition grew from nineteenth-century steam passenger and freight operations into today's **thriving paddlewheel tourism industry**. Working excursion vessels include the proposed [[reina-dos-orillas|PS Reina de las Dos Orillas]], smaller heritage demonstrations, sightseeing tours, evening dining, historical cruises, winter lantern outings and private celebrations.\n\nThe fleet operates in professionally approved, navigable river and estuary channels, not the open Pacific or every small tributary. The lower Columbia's currents, tides, wind and commercial traffic demand skilled pilots and careful planning. Direct paddlewheel service to Willowwick is **not established** until its waterway geography can support it.\n\nThis is distinct from the [[cruise-homeport|sea-going cruise homeport]], although tourists can enjoy riverboat sailings before or after ocean voyages. Links with [[harbor-boardwalks|the waterfront]], [[festival|the Festival of the Two Hearts]] and [[wedding-coast|weddings]] support local businesses. Full chapter: `docs/24-paddlewheel-riverboats.md`.\n\nThe nearby [[coast-guard-base|Coast Guard base]] provides emergency maritime-response capability in the wider lower Columbia area.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.",
+      "body": "Santa Aurelia's historic riverboat tradition grew from nineteenth-century steam passenger and freight operations into today's **thriving paddlewheel tourism industry**. Working excursion vessels include the proposed [[reina-dos-orillas|PS Reina de las Dos Orillas]], smaller heritage demonstrations, sightseeing tours, evening dining, historical cruises, winter lantern outings and private celebrations.\n\nThe fleet operates in professionally approved, navigable river and estuary channels, not the open Pacific or every small tributary. The lower Columbia's currents, tides, wind and commercial traffic demand skilled pilots and careful planning. Direct paddlewheel service to Willowwick is **not established** until its waterway geography can support it.\n\nThis is distinct from the [[cruise-homeport|sea-going cruise homeport]], although tourists can enjoy riverboat sailings before or after ocean voyages. Links with [[harbor-boardwalks|the waterfront]], [[festival|the Festival of the Two Hearts]] and [[wedding-coast|weddings]] support local businesses. Full chapter: `docs/24-paddlewheel-riverboats.md`.\n\nThe nearby [[coast-guard-base|Coast Guard base]] provides emergency maritime-response capability in the wider lower Columbia area.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\n**Geography master-plan v1:** Heritage excursion pier proposed at 46.1890° N, 123.8240° W (navigable sheltered dock to verify). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.",
       "tags": [
         "paddlewheel",
         "sternwheeler",
@@ -1044,7 +1055,8 @@ window.SANTA_AURELIA_SEED={
         "festival",
         "wedding-coast",
         "santa-aurelia",
-        "coast-guard-base"
+        "coast-guard-base",
+        "geographic-master-plan"
       ]
     },
     {
@@ -1073,7 +1085,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Modern port era",
       "summary": "Deep-water ocean cruise departure, return and port-of-call operations with a dedicated passenger terminal in the lower Columbia estuary.",
-      "body": "Unlike real-world Astoria's predominantly visiting cruise traffic, Santa Aurelia is an alternate-history **cruise homeport**: passengers **begin and end ocean voyages here**, as well as visiting on port-of-call sailings. The port has invested in [[ocean-passenger-terminal|deep-water passenger terminal]] infrastructure, baggage and check-in, secure embarkation, provisioning, ground transport, hotels and customs/border operations.\n\nWorking itineraries include Pacific coastal journeys, seasonal Alaska voyages and repositioning sailings, subject to international and domestic passenger-vessel rules. The dangerous Columbia Bar, tides, currents, weather and commercial traffic determine safe departures; not all ships can operate on all days.\n\nPre- and post-cruise travelers visit the [[harbor-boardwalks|historic boardwalks]], enjoy [[paddlewheel-riverboats|paddleboat excursions]], explore the [[season-of-halls|great halls]] and take part in [[wedding-coast|the regional wedding economy]]. The deep-water terminal and shallow historic excursion docks are distinct facilities. See `docs/25-santa-aurelia-cruise-homeport.md`.\n\nThe nearby [[coast-guard-base|Coast Guard base]] supports maritime rescue and safety coordination; its operational facilities are distinct from the passenger terminal.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.",
+      "body": "Unlike real-world Astoria's predominantly visiting cruise traffic, Santa Aurelia is an alternate-history **cruise homeport**: passengers **begin and end ocean voyages here**, as well as visiting on port-of-call sailings. The port has invested in [[ocean-passenger-terminal|deep-water passenger terminal]] infrastructure, baggage and check-in, secure embarkation, provisioning, ground transport, hotels and customs/border operations.\n\nWorking itineraries include Pacific coastal journeys, seasonal Alaska voyages and repositioning sailings, subject to international and domestic passenger-vessel rules. The dangerous Columbia Bar, tides, currents, weather and commercial traffic determine safe departures; not all ships can operate on all days.\n\nPre- and post-cruise travelers visit the [[harbor-boardwalks|historic boardwalks]], enjoy [[paddlewheel-riverboats|paddleboat excursions]], explore the [[season-of-halls|great halls]] and take part in [[wedding-coast|the regional wedding economy]]. The deep-water terminal and shallow historic excursion docks are distinct facilities. See `docs/25-santa-aurelia-cruise-homeport.md`.\n\nThe nearby [[coast-guard-base|Coast Guard base]] supports maritime rescue and safety coordination; its operational facilities are distinct from the passenger terminal.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\n**Geography master-plan v1:** Ocean passenger terminal proposed at 46.1910° N, 123.8490° W (deep-water harbor; berth capacity unverified). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.",
       "tags": [
         "cruise",
         "homeport",
@@ -1088,7 +1100,8 @@ window.SANTA_AURELIA_SEED={
         "season-of-halls",
         "wedding-coast",
         "santa-aurelia",
-        "coast-guard-base"
+        "coast-guard-base",
+        "geographic-master-plan"
       ]
     },
     {
@@ -1117,7 +1130,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Modern maritime era",
       "summary": "Substantial joint U.S. Coast Guard and U.S. Navy installation outside Santa Aurelia, with separate service missions and shared maritime-support facilities.",
-      "body": "The **joint United States Coast Guard–United States Navy base** lies a short distance **outside Santa Aurelia** in the harbor hinterland, not on the historic [[harbor-boardwalks|waterfront]]. Both armed services maintain a genuine local presence while retaining distinct operational command structures and missions.\n\nCoast Guard components provide maritime search and rescue, aviation, cutters, navigation support and safety response for the Columbia Bar, [[cruise-homeport|ocean cruise homeport]], commercial vessels and [[paddlewheel-riverboats|river excursions]]. Navy components have separate maritime logistics, training, maintenance and readiness functions; their precise unit assignments, homeported vessels and official base designation are still to be determined. Co-location does not mean the Navy directly commands Coast Guard rescue work.\n\nThe proposed geographic setting is a Warrenton-like area outside the city, with air and waterfront facilities potentially distributed across several parcels. Read `docs/26-coast-guard-base-santa-aurelia.md`.",
+      "body": "The **joint United States Coast Guard–United States Navy base** lies a short distance **outside Santa Aurelia** in the harbor hinterland, not on the historic [[harbor-boardwalks|waterfront]]. Both armed services maintain a genuine local presence while retaining distinct operational command structures and missions.\n\nCoast Guard components provide maritime search and rescue, aviation, cutters, navigation support and safety response for the Columbia Bar, [[cruise-homeport|ocean cruise homeport]], commercial vessels and [[paddlewheel-riverboats|river excursions]]. Navy components have separate maritime logistics, training, maintenance and readiness functions; their precise unit assignments, homeported vessels and official base designation are still to be determined. Co-location does not mean the Navy directly commands Coast Guard rescue work.\n\nThe proposed geographic setting is a Warrenton-like area outside the city, with air and waterfront facilities potentially distributed across several parcels. Read `docs/26-coast-guard-base-santa-aurelia.md`.\n\n**Geography master-plan v1:** Joint-service base proposed reference point 46.1570° N, 123.8820° W, Warrenton-area district outside city; exact multi-site facilities and jurisdictions unresolved. Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.",
       "tags": [
         "coast guard",
         "maritime",
@@ -1132,7 +1145,8 @@ window.SANTA_AURELIA_SEED={
         "cruise-homeport",
         "ocean-passenger-terminal",
         "paddlewheel-riverboats",
-        "harbor-boardwalks"
+        "harbor-boardwalks",
+        "geographic-master-plan"
       ]
     },
     {
@@ -1162,7 +1176,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Industrial origins to present",
       "summary": "An independent, less-affluent former riverside mill township in the valley, outside the city limits of Willowwick Grove and Santa Aurelia.",
-      "body": "**Southbank** is a separate working-class township outside [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]], in the [[valle|Valle de Santa Aurelia]]. A riverside mill and loading wharf shaped its early economy (working historical detail), while industrial decline contributed to more modest household incomes, aging buildings and service challenges.\n\nSouthbank is not a slum, not part of either city's municipal boundaries and not shorthand for crime or deprivation. It retains residents, craftspeople, local businesses, community relationships and civic pride. Its exact location, incorporation status, population and contemporary institutions await further development.\n\n**Continuity:** the former in-city 'Southbank Flats' idea has been retired and replaced with Willowwick's relatively prosperous **Millwright Quarter**. See `docs/27-prosperity-and-outlying-townships.md`.\n\n**Southbank High School's mascot is the [[southbank-wolves|Wolves]]**, a defining point of township identity and pride. They face the Wisps and Captains in major regional rivalries.\n\nThe city's or township's five-time champion [[southbank-wolves|Wolves]] are part of the [[valley-highschool-rivalries|Valley Three]], a trio of Oregon high school football dynasties renowned far beyond the valley.",
+      "body": "**Southbank** is a separate working-class township outside [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]], in the [[valle|Valle de Santa Aurelia]]. A riverside mill and loading wharf shaped its early economy (working historical detail), while industrial decline contributed to more modest household incomes, aging buildings and service challenges.\n\nSouthbank is not a slum, not part of either city's municipal boundaries and not shorthand for crime or deprivation. It retains residents, craftspeople, local businesses, community relationships and civic pride. Its exact location, incorporation status, population and contemporary institutions await further development.\n\n**Continuity:** the former in-city 'Southbank Flats' idea has been retired and replaced with Willowwick's relatively prosperous **Millwright Quarter**. See `docs/27-prosperity-and-outlying-townships.md`.\n\n**Southbank High School's mascot is the [[southbank-wolves|Wolves]]**, a defining point of township identity and pride. They face the Wisps and Captains in major regional rivalries.\n\nThe city's or township's five-time champion [[southbank-wolves|Wolves]] are part of the [[valley-highschool-rivalries|Valley Three]], a trio of Oregon high school football dynasties renowned far beyond the valley.\n\n**Geography master-plan v1:** 46.0650° N, 123.7380° W (proposed separate middle Youngs corridor township between Willowwick and the harbor). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.",
       "tags": [
         "township",
         "mill",
@@ -1175,7 +1189,8 @@ window.SANTA_AURELIA_SEED={
         "santa-aurelia",
         "valle",
         "southbank-wolves",
-        "valley-highschool-rivalries"
+        "valley-highschool-rivalries",
+        "geographic-master-plan"
       ]
     },
     {
@@ -1241,6 +1256,34 @@ window.SANTA_AURELIA_SEED={
         "willowwick",
         "santa-aurelia",
         "southbank"
+      ]
+    },
+    {
+      "id": "geographic-master-plan",
+      "title": "Geographic Master Plan of Valle de Santa Aurelia",
+      "category": "Region",
+      "status": "established",
+      "era": "Geographic planning v1 (2026)",
+      "summary": "A multi-watershed 1,800-square-mile study region around the Columbia estuary, with proposed coordinates for all major cities, sacred forests, coastal communities and port infrastructure.",
+      "body": "The historic **[[valle|Valle de Santa Aurelia]]** is a **roughly 1,800-square-mile** multi-watershed cultural region spanning the Columbia estuary, northern Pacific coast, Youngs River corridor, foothills and Coast Range uplands. The study polygon has **approximately 1,863 sq mi** under a local planar approximation, with approximately **70-mile east–west by 45-mile north–south** maximum extents; those are **planning envelopes, not surveyed limits**.\n\n**[[santa-aurelia|Santa Aurelia]]** (46.1880, -123.8313) uses Astoria's geographic site. **[[willowwick|Willowwick Grove]]** (46.0100, -123.6650) is placed in the modified upper Youngs River corridor. **[[southbank|Southbank]]** (46.0650, -123.7380) is a separate middle-valley township. The [[blackwood|Blackwood Ridge]] and [[witchwood|Witches' Wood]] are farther south, with [[reservation|sovereign tribal territory]] on their northwestern side and [[fernhollow|Fernhollow]] to the southwest; [[alderwood|Alderwood Lake]] lies in an eastern upland basin.\n\nPorts, outer coast, cruise terminal and [[coast-guard-base|joint Navy–Coast Guard base]] have separate proposed reference points. Real watersheds and river navigability must be respected; the cratonic geology and Alderwood Lake are fictional modifications needing terrain work. Full proposed coordinates, distances and design assumptions: `docs/29-geographic-master-plan.md`; machine-readable polygon and 20 points: `atlas/geography.geojson`.",
+      "tags": [
+        "maps",
+        "watersheds",
+        "geography",
+        "planning",
+        "coordinates"
+      ],
+      "links": [
+        "valle",
+        "santa-aurelia",
+        "willowwick",
+        "southbank",
+        "blackwood",
+        "witchwood",
+        "reservation",
+        "fernhollow",
+        "alderwood",
+        "coast-guard-base"
       ]
     }
   ],
