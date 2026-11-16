@@ -16,13 +16,13 @@ Distinctive **Connecticut and Virginia migrations belong primarily to Willowwick
 These are not one cabal: there are competitions, marriages, philanthropic rivalries, changing fortunes, gentrification, and relationships with the old Spanish/Venetian maritime families of Santa Aurelia without shared origin.
 
 ## The garden-city aesthetic
-Willowwick is an ongoing communal work of art: vernacular Victorian and Gothic Revival houses, brick and stone commercial streets, ornate ironwork, cobbled pedestrian lanes, antique-style electric lamps, bridges, preserved craftsmanship, flowering walks and dense horticultural displays. Historic appearance is maintained by trained park crews, skilled artisans, resident volunteers and longstanding benefactors; upkeep costs and uneven wealth remain visible.
+Willowwick is an ongoing communal work of art: vernacular Victorian and Gothic Revival houses, brick and stone commercial streets, ornate ironwork, cobbled pedestrian lanes, antique-style electric lamps, bridges, preserved craftsmanship, flowering walks and dense horticultural displays. Historic appearance is maintained by trained park crews, skilled artisans, resident volunteers and longstanding benefactors. The city is broadly prosperous, though its residents are not uniformly wealthy, and high housing costs create real pressures.
 
 **Old Town:** extraordinary historic central streets, clocktower, ornate shops, Gothic/Victorian buildings, civic architecture, pedestrian courtyards.
 
 **The Heights:** affluent hilltop Victorian houses and mansions, old-money estates, landscaped grounds and prestige institutions.
 
-**Southbank Flats:** modest millworker cottages, lower-income housing, manufactured-home/trailer communities, flood hazards, reinvestment and unequal access to amenities.
+**Southbank Quarter (formerly Southbank Flats):** a restored historic millworkers' neighborhood with well-maintained cottages, modest but generally desirable townhouses, riverside apartments and heritage workshops. It remains less grand than the Heights and includes households of varied means, but **it is not Willowwick's designated poor district**. Historic flood risk is managed through engineering and land-use controls, not romanticized.
 
 **Willowwick Commons:** approximately **45-acre** formal central park, mature trees, ornamental willows/maples, rose and wildflower gardens, pond, bridges, fountains, gazebo/bandstand, conservatory and historic-style carousel.
 
@@ -52,3 +52,8 @@ The valley's public festivals include spring cherry blossoms, autumn foliage/har
 
 ## Contrast with Santa Aurelia
 Santa Aurelia: **1608 Spanish–Indigenous maritime origins + nineteenth-century Venetian urban wealth, Jewel of the Pacific**. Willowwick: **mining/timber + Connecticut and Virginia capital + Victorian garden-city beautification**. The two cities are approximate population peers, economic collaborators and civic rivals; neither should be flattened into the other's culture.
+
+## Prosperity and the valley's social geography — later established canon
+**Explicit revision:** **Willowwick Grove and Santa Aurelia are both relatively affluent, well-kept, economically successful cities**, not cities with a defined impoverished quarter. Neither is a gated enclave or populated solely by wealthy households: teachers, artisans, service workers, sailors, nurses, students, retirees and lower-income residents still live within their municipalities. Their neighborhoods vary in housing type and prestige, but the earlier image of a large, distinctly poor **Southbank Flats** neighborhood within Willowwick is superseded by the restored **Southbank Quarter**.
+
+The **more economically distressed communities are smaller, separate townships and unincorporated settlements across the valley**, including certain former mill, timber and mining communities beyond the city limits. Some may suffer from industrial decline, flood-prone infrastructure, difficult commutes and limited services. They are **distinct municipalities or unincorporated places**, not silently renamed neighborhoods of Willowwick or Santa Aurelia. Residents travel to both cities for employment, schools, hospitals, shopping and culture. Their experiences, economies and identities deserve development rather than being defined only by poverty. See [regional economic geography](27-prosperity-and-outlying-townships.md).
