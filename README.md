@@ -4,6 +4,37 @@
 
 > **Foundational rule:** The region's folklore, religious practices, supernatural beliefs, ghost stories, and paranormal investigations are genuine parts of its society, but **no objectively supernatural events, beings, or powers have been established**. The natural world and documented human history supply the wonder.
 
+## Interactive Living Atlas
+
+**New:** a dependency-free, responsive browser application at [`index.html`](index.html).
+
+The visual language combines deep forest green, silver willow, parchment, muted Venetian burgundy and antique brass. Its first working version includes:
+
+- A curated home dashboard, regional cards, and editable **29-entry** seeded encyclopedia based on the canon bible.
+- Categories spanning region, settlement, people, families, organizations, culture, species, geology, landmarks, events, myths, institutions, languages and more.
+- Search, category filters, article-to-article links using `[[Entry Title]]` or `[[entry-id|Link label]]`, outgoing relationships and automatic backlinks.
+- Clickable **schematic** regional map (clearly **not geographically surveyed**) and an initial chronological event view.
+- Create, edit, and delete tools; canon-status fields; tags and linked-entry fields; browser-local persistence; JSON export/import and reset to the bundled seed.
+- Mobile-responsive navigation and no JavaScript framework, backend, account or build dependency.
+
+### Launch locally
+
+Open `index.html` directly in a modern browser. If browser security settings interfere with local file storage, use any static web server rooted at the repository (for example `python -m http.server 8000`, then open `http://localhost:8000`). No installation or build step is otherwise required. **A public hosted URL has not been deployed or verified.** To host publicly, configure GitHub Pages to serve from the `main` branch root; then check that Pages has successfully published.
+
+### Editing and backing up
+
+Click **New entry**, or open an article and choose **Edit article**. Use `[[Santa Aurelia]]` or `[[santa-aurelia|the historic port]]` in article content. Links typed in the dedicated Linked entries field also appear in the article's relationship sidebar. Search via the top bar (keyboard shortcut `/`).
+
+**Important:** Editing the app updates browser `localStorage`—it does **not** commit to GitHub. Use **Import / export archive** to save a portable JSON backup. The maintained human-readable canon is still in the `docs/` chapters. Do not assume browser-local changes or an exported JSON file have automatically been merged back into the GitHub repository.
+
+### Initial product boundaries
+
+This is a **working first milestone**, not complete World Anvil parity. The map is conceptual, timeline events are seeded but not yet editor-managed, connections are listed rather than graph-visualized, family-tree editing and map-pin authoring are not yet implemented, and there is no multi-user synchronization/authentication or cloud database. The program has been syntax-checked after commit; a full interactive browser regression pass has **not** yet been completed.
+
+See [application roadmap](docs/11-atlas-app-roadmap.md) for the next implementation stages.
+
+---
+
 ## Start here
 
 - [Canon and editorial conventions](docs/00-canon-and-open-questions.md)
