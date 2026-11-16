@@ -55,6 +55,8 @@ See [application roadmap](docs/11-atlas-app-roadmap.md) for the next implementat
 - [Alternate geology, flora, and conservation](docs/08-geology-and-ecology.md)
 - [Festivals and cultural calendar](docs/09-festivals-and-traditions.md)
 - [Continuity register, outstanding decisions, and map needs](docs/10-continuity-register.md)
+- [Founding family genealogy: two ancestral generations](docs/14-founding-family-genealogy.md)
+- [Surviving colonial paintings and founding artist](docs/13-colonial-portraits-and-artist.md)
 
 ## Scope and status
 
@@ -69,3 +71,6 @@ Compiled from the extended collaborative conversation through **November 16, 202
 ## Editing guideline
 
 Add new material to the appropriate chapter and log unresolved decisions. Avoid overwriting established facts with decorative prose. Keep geology, ecology, date ranges, Indigenous identities, population, and placenames internally consistent. When a previous version conflicts, record it in the continuity register rather than silently blending alternatives.
+
+### Founding family genealogy and art (latest)
+The Family Archive now seeds two generations before both founding spouses. Alonso's paternal branch uses historical Charles V, Barbara Blomberg, and Don John of Austria, followed by **the fictional Alonso parentage**; his fictional maternal branch has Catalina and two provisional ancestors. Inés's parents and four grandparents are conservatively named by *unknown family position*, not invented Indigenous-language names. **Nine children are canon but remain individually unnamed**. Four seventeenth-century paintings are linked to Alonso/Inés profiles as archival catalog records, with an artist and survival/provenance narrative. The images themselves are **not yet stored in the repository**, so the interactive gallery currently shows explicit archival placeholders until image assets are committed. The gallery does not silently load missing files.
