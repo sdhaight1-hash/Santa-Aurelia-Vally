@@ -34,3 +34,7 @@ Maritime commerce, fisheries, shipyards, hospitality, finance, glass, sculpture,
 
 ## Built sites for further development
 Old colonial quarter, elevated chapel terrace, Catholic parish and churches, Palacio de la Bahía, maritime museum and protected flagship berth, historical waterfront / Riva, heritage gardens and memorial, ordinary residential neighborhoods, functioning port, civic institutions, and river defense approaches. Exact street locations and harbor engineering still to map.
+
+
+## The founding painter and surviving portraits
+**Established:** four original colonial-period paintings were produced by a **famous Spanish artist who was personally Alonso's friend and accompanied the 1608 founding expedition**. They portray Alonso's arrival, Inés at a later date, the couple's wedding (proposed 1611), and a later family grouping of **Alonso, Inés, and their nine children**. Their actual painter's personal name, studio and precise dates remain provisional; working artist identity is **Mateo de Villacorta**. The paintings are surviving in-world historic artifacts, and the descendants' nine names are not yet established. See [painting provenance and catalog](13-colonial-portraits-and-artist.md).
