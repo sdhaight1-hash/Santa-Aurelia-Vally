@@ -99,3 +99,5 @@ The privately held Valcárcel archives now include original love letters between
 
 - [Geographic Master Plan v1 — 1,800-square-mile region and proposed place coordinates](docs/29-geographic-master-plan.md)
 - [GeoJSON study boundary and mapped location points](atlas/geography.geojson)
+
+- [Natural History of Valle de Santa Aurelia — geology, basalt-column coast, Highland-like uplands, gorges, hydrology, ecology and climate](docs/30-natural-history-geology-climate-ecology.md)
