@@ -7,7 +7,7 @@ Sáweli/Inés is an author and Indigenous political actor with her own perspecti
 
 ## Resolved political succession — 1821 to 1859 (new fixed setting history)
 
-**Established after this section's first draft:** Santa Aurelia now has a specific political succession. A fictional **local implementation annex** to the real 1819 Adams–Onís settlement leads to **U.S. assumption of Spain's asserted sovereignty in early 1821**, with continuity of municipal government and provisional reviewable pre-existing civil-property claims. **The annex is fictional—not text from the real treaty.** The city remains an American-administered charter municipality during broader Anglo-American Oregon Country disputes, gains surrounding territorial clarity through the **1846 Oregon Treaty**, joins Oregon Territory's administration **1848**, and becomes part of the state **1859**. A British commercial accommodation and territorial confirmation ordinance are **working mechanisms**, not separately confirmed treaties.
+**Superseding canon:** Santa Aurelia governs itself **de facto for generations in the late seventeenth and eighteenth centuries**; Spanish administrative authority is largely absent well before 1821. The Adams–Onís Treaty (signed 1819, effective 1821) ends Spain's **diplomatic claim only**; the previously invented annex conveying an actively Spanish-run city to U.S. municipal control is **retired**. Santa Aurelia's independent municipal practice continues during the Oregon Country dispute, with gradual dealings with the 1843 provisional government and **formal territorial integration in 1848**. The 1846 Oregon Treaty clarifies U.S.–British boundary claims; 1859 statehood follows. Details of civic compacts and land titles are still unresolved.
 
 This **does not** settle or extinguish Indigenous sovereignty/land claims; modern reservation and treaty history remain unresolved. Detailed chapter: [The Long Transfer](../37-political-succession-1608-1859.md).
 
@@ -17,9 +17,9 @@ In real history, Astor's post was founded in **1811** and went through British t
 ### Resolved framework and still-open implementation questions
 1. Was the port initially under a viceregal Spanish charter, private commercial concession, or other licensing arrangement? **1608 charter text U**.
 2. How did it sustain sea communication and military security through the seventeenth century? Number of vessels, return routes, provisions, navigational feasibility and legal monopolies **U**.
-3. **Resolved political choice:** the port's U.S. transfer occurs early in 1821, before Mexico's September independence consummation; families' identities and later Mexican trade/legal claims remain open.
-4. **Resolved core:** no founding of Fort Astoria on the established city's site; British firms negotiate warehouses and trade, with a proposed British–American commercial accommodation, exact instrument unresolved.
-5. **Resolved:** negotiated **1821** transfer of the old port's asserted Spanish sovereignty to the U.S.; **1846** boundary clarification; **1848** territorial integration; **1859** statehood. **Still open:** definitive annex and city charter language, British commercial accommodation and actual cases.
+3. **Resolved political choice:** 1821 ends Spain's formal claims but does not initiate U.S. municipal rule; Mexico's independence changes family and trade networks without founding or directly governing the existing autonomous city.
+4. **Resolved core:** no founding of Fort Astoria on the established city's site; British firms negotiate warehouses and trade with local city and Indigenous authorities; precise commercial compacts remain unresolved.
+5. **Resolved:** centuries of de facto local autonomy; **1819/1821** end of Spain's formal claims; **1843–1848** local negotiations and **1848** territorial integration; **1859** statehood. **Still open:** definitive annex and city charter language, British commercial accommodation and actual cases.
 6. How were earlier Indigenous, Spanish, mixed-family and merchant land rights adjudicated, lost, preserved or disputed? **U**.
 7. Which in-setting event gives the reservation its present constitutional, treaty and jurisdictional status? **U**, to be developed with careful distinction from real modern tribal nations.
 
