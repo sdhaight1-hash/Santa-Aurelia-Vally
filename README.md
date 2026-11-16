@@ -94,3 +94,5 @@ The privately held Valcárcel archives now include original love letters between
 - [Joint Coast Guard–Navy Base Santa Aurelia — maritime installation outside the city](docs/26-coast-guard-base-santa-aurelia.md)
 
 - [Affluent cities and economically varied outlying townships](docs/27-prosperity-and-outlying-townships.md)
+
+- [Valley high school sports: Wisps, Captains and Southbank Wolves](docs/28-high-school-sports-and-rivalries.md)
