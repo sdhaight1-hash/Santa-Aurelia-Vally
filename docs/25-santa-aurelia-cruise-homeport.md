@@ -82,3 +82,6 @@ These real-world facts are supporting geography and contrast, **not claims that 
 
 ## Coast Guard support nearby
 A substantial **Coast Guard base outside the city**, with naval/maritime facilities, supports Columbia Bar emergency response, maritime safety, law enforcement and search-and-rescue coordination affecting the homeport. It is **not part of the cruise terminal**, and the Coast Guard does not replace licensed pilots, the ship's master or local port operators. See [the nearby base](26-coast-guard-base-santa-aurelia.md).
+
+## Joint naval installation near the homeport
+**Updated canon:** the nearby facility is a **joint U.S. Coast Guard–U.S. Navy base** outside Santa Aurelia. The Coast Guard retains its distinct maritime safety and rescue role for the port. The Navy separately maintains naval facilities and operational readiness activities; its presence does not make the civilian cruise terminal a naval facility. See [joint base](26-coast-guard-base-santa-aurelia.md).
