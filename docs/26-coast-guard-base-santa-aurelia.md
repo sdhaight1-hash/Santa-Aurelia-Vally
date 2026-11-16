@@ -1,12 +1,12 @@
-# Coast Guard Base Santa Aurelia — The Columbia Estuary Maritime District
+# Joint Coast Guard–Navy Base Santa Aurelia — The Columbia Estuary Maritime District
 
 ## Established canon and real-world distinction
 
-**The valley has a substantial United States Coast Guard naval and maritime installation a short distance outside Santa Aurelia itself.** It is not a downtown waterfront base. Its modern maritime mission connects the **Columbia Bar**, fishing and shipping traffic, the Santa Aurelia **ocean-cruise departure homeport**, ferry and paddlewheel tourism, and coastal search-and-rescue operations.
+**The valley has a substantial joint United States Coast Guard and United States Navy installation a short distance outside Santa Aurelia itself.** It is not a downtown waterfront base. Its modern maritime mission connects the **Columbia Bar**, fishing and shipping traffic, the Santa Aurelia **ocean-cruise departure homeport**, ferry and paddlewheel tourism, and coastal search-and-rescue operations.
 
-**Service designation:** The U.S. Coast Guard is a military service with cutters, shore facilities, aviation, maritime law-enforcement and search-and-rescue responsibilities. A sizeable installation can reasonably be called a **Coast Guard base or naval facility** in casual speech; it is **not automatically a U.S. Navy installation**. No independent Navy fleet base or joint command is established at this time.
+**Joint-service designation (established canon):** This is a real **U.S. Coast Guard–U.S. Navy joint installation** in the fictional timeline. The Coast Guard provides search-and-rescue, port and waterway safety, law enforcement, cutters and aviation. The Navy maintains a separate naval presence and mission infrastructure at the same overall installation, potentially supporting logistics, training, patrol vessels and maritime readiness. Sharing facilities does **not** merge their chains of command. Precise Navy unit assignments and base designation remain to be developed.
 
-The precise base name, facility boundary and command structure are working lore. For the moment, **Coast Guard Base Santa Aurelia** is the convenient in-world name.
+The precise base name, facility boundary and command structure are working lore. For the moment, **Joint Maritime Base Santa Aurelia** is the convenient in-world name; the official federal designation remains provisional.
 
 ## Geographic placement
 
@@ -16,7 +16,9 @@ The installation may have:
 - **Air and rescue section:** helicopter hangars, flight operations and search-and-rescue staging, potentially near the regional airport.
 - **Cutter and small-boat support:** suitable working-waterfront berths, maintenance shops, fueling, stores and shore-support services, potentially not on the same parcel as the air station.
 - **Maritime safety and operations:** navigation support, communications, environmental incident response, harbor traffic coordination and training.
-- **Personnel and family services:** offices, training rooms, housing support and local community connections.
+- **Navy operations and support:** separate Navy berths, technical maintenance, training, maritime logistics and personnel facilities appropriate to whatever naval units are ultimately assigned.
+- **Shared infrastructure:** mutually used access, utilities, communications, security administration and emergency coordination where authorized; each service retains its own operational command.
+- **Personnel and family services:** offices, training rooms, housing support and local community connections for both services.
 
 A wide-ranging institution can have **multiple nearby operating sites**, rather than implausibly fitting flight operations, deep-draft cutters, and small rescue boats inside one compact waterfront enclosure.
 
@@ -36,7 +38,7 @@ Principal roles in setting:
 
 ## A human part of the valley
 
-The base brings active-duty members, civilian specialists, families and retirees into the surrounding communities. Coast Guard households may live in Santa Aurelia, Warrenton-equivalent settlements, nearby rural neighborhoods or Willowwick, depending on road geography and housing.
+The joint base brings Coast Guard and Navy active-duty members, civilian specialists, families and retirees into the surrounding communities. Coast Guard households may live in Santa Aurelia, Warrenton-equivalent settlements, nearby rural neighborhoods or Willowwick, depending on road geography and housing.
 
 The base contributes local incomes, schools, businesses, medical networks, engineering training, port operations and civic traditions, without creating a gigantic garrison dominating a city of approximately 19,000 people. Its open houses, maritime-safety education and rescue heritage can be public-facing, but **operational piers and protected military facilities remain restricted**.
 
@@ -46,7 +48,7 @@ The base's rescue work supplies a serious counterpoint to the tourist waterfront
 
 - **Late nineteenth century:** life-saving and lighthouse services respond to Columbia Bar shipwrecks; these precursors should not be retroactively labeled the U.S. Coast Guard before that service's 1915 formation.
 - **Early–mid twentieth century:** a modern maritime support station develops as local commercial ship traffic and coastal safety needs increase.
-- **Mid twentieth century:** helicopter rescue operations and a purpose-built air station expand into an area outside Santa Aurelia; additional cutter facilities may support the Columbia estuary.
+- **Mid twentieth century:** helicopter rescue operations and a purpose-built air station expand into an area outside Santa Aurelia, alongside distinct Navy shore-side facilities; separate cutter and naval piers may support the Columbia estuary.
 - **Late twentieth–early twenty-first century:** mission expansion and infrastructure upgrades accommodate modern navigation, rescue aircraft, environmental response and growth of cruise-homeport traffic.
 
 The date when the fictional installation first received its present name, the ages of individual buildings, cutter homeport assignments and exact base size remain **open**.
@@ -65,6 +67,9 @@ These references establish **real-world plausibility and geography only**, not t
 
 ## Canon boundary
 
-**User-established:** a Coast Guard/naval base exists outside but near Santa Aurelia. **Working:** exact name, site, multi-parcel layout, missions above the baseline USCG duties, original construction dates, number of assigned personnel, cutter homeport lists and air assets. Do not invent aircraft inventories, tactical details, security layouts or public access to restricted facilities.
+**User-established:** a **joint U.S. Coast Guard and U.S. Navy base** exists outside but near Santa Aurelia. **Working:** exact name, site, multi-parcel layout, missions above the baseline USCG duties, original construction dates, number of assigned personnel, cutter homeport lists and air assets. Do not invent aircraft inventories, Navy homeported vessel classes, tactical details, security layouts or public access to restricted facilities.
 
 See [Santa Aurelia's ocean cruise homeport](25-santa-aurelia-cruise-homeport.md) and [paddlewheel heritage](24-paddlewheel-riverboats.md).
+
+## Joint command and institutional clarity
+The installation is shared by **two distinct armed services**, with separate operational missions and command hierarchies. An overall host-base command, shared facilities agreement, and participating Navy and Coast Guard units are plausible but **not yet specified**; the adjective *joint* denotes co-location and coordinated support, not a fictional unified operational command or proof that the U.S. Navy commands the Coast Guard. The Navy presence has its own independent raison d'être beyond assisting cruise tourism, such as maritime logistics, training and Pacific coastal readiness. This supersedes every earlier Coast Guard-only interpretation of the user's stated base.
