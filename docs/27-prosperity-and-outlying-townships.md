@@ -14,7 +14,7 @@ The revision supersedes the earlier description of a large impoverished **Southb
 
 **The Heights:** large Victorian houses, older estates and a conspicuously affluent hilltop enclave.
 
-**Millwright Quarter:** formerly the working mills' district, now a restored and attractive historic neighborhood of original cottages, apartments, small family houses and workshops. It is somewhat more modest than The Heights but still part of Willowwick's prosperous overall civic fabric. Heritage restoration and property-price increases create pressure on longstanding residents, but **Southbank is not a slum or trailer-camp district**.
+**Millwright Quarter:** formerly the working mills' district, now a restored and attractive historic neighborhood of original cottages, apartments, small family houses and workshops. It is somewhat more modest than The Heights but still part of Willowwick's prosperous overall civic fabric. Heritage restoration and property-price increases create pressure on longstanding residents, but **Millwright Quarter is not a slum or trailer-camp district**.
 
 **Willowwick Commons / Promenade / Lantern Quay:** exceptionally landscaped civic park, riverfront and commercial amenities, maintained through public resources, nonprofits and private benefactors.
 
