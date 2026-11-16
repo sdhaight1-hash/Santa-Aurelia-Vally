@@ -113,3 +113,7 @@ The privately held Valcárcel archives now include original love letters between
 - [Duskwood Township — independent eastern gateway to Witches' Wood](docs/35-duskwood-township.md)
 
 - [Cattle, Family Farms, 4-H, Rodeo and Wyoming Ranching Migration](docs/36-agriculture-ranching-4h-rodeo.md)
+
+## Dedicated Migration, Settlement and Demographic History
+
+The **[Migration History master section](docs/migration-history/README.md)** synthesizes the Indigenous baseline, the 1608 multiethnic founding fleet, three-plus centuries of intermarriage and trade, Cascadia displacement, Venetian maritime influx, Willowwick's Connecticut/Virginia capital families, Blackwood's European communities, Chinese and Scandinavian coastal workforces, Japanese/Korean horticulture and Asian-Pacific histories, Wyoming ranching migrants, and Fernhollow's later ecological movement. Four chapters distinguish user-fixed facts, in-world working reconstructions, external historical analogues and unresolved legal/demographic questions. Start with the [chronology](docs/migration-history/01-chronology-and-waves.md), [community registry](docs/migration-history/02-peoples-places-and-institutions.md), [legal history](docs/migration-history/03-power-land-rights-and-counterfactuals.md), and [evidence/open-decision register](docs/migration-history/04-evidence-and-open-decisions.md).
