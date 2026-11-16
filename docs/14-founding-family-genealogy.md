@@ -83,3 +83,6 @@ The Valcárcel library retains early love letters, descendants' registers, **Sá
 
 ## Sáweli's historical career
 **Sáweli/Inés is now established as an accomplished, prolific historian and recorder of Indigenous testimony** in her own right. Her surviving corpus includes retrospective descriptions of Ashalewan life before the Spaniards and later interviews with narrators from several neighboring peoples, notably the Blackwood community associated with the ancient stones and White Ones legends. Her writings became among the most significant primary records of the region's early seventeenth-century cultural history; she was not merely the founder's wife or a mother of nine. See [historian's monograph](19-saweli-ines-historian-and-oral-histories.md).
+
+## Sáweli's journeys with Alonso to Spain
+The couple **occasionally traveled to Spain together**, and Sáweli left original diaries describing those visits from her own perspective. Two major journeys are provisionally placed around **1624–1625** and **1635–1637**, timed between/after childbirth periods but still requiring extended family childcare and potentially long New Spain/Atlantic travel. The years and travel arrangements can be refined, while the trips and authored journals are fixed canon. See [Sáweli's Iberian Journals](20-saweli-journals-of-spain.md).
