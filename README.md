@@ -91,4 +91,4 @@ The privately held Valcárcel archives now include original love letters between
 
 - [Riverboat heritage: paddlewheel tourism on the Columbia](docs/24-paddlewheel-riverboats.md)
 - [Santa Aurelia's ocean cruise homeport and passenger terminal](docs/25-santa-aurelia-cruise-homeport.md)
-- [Coast Guard Base Santa Aurelia — maritime and rescue installation outside the city](docs/26-coast-guard-base-santa-aurelia.md)
+- [Joint Coast Guard–Navy Base Santa Aurelia — maritime installation outside the city](docs/26-coast-guard-base-santa-aurelia.md)
