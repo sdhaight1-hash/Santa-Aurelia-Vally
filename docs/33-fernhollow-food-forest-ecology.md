@@ -81,3 +81,6 @@ A proposed local formulation captures the distinction: **“Witches' Wood is our
 **Required consistency:** research never implies sovereign tribal access, a right to sensitive ecological data or unlimited harvesting; native forest and cultivated food forest remain ecologically different; no scientifically proven supernatural mechanism is declared.
 
 See [Blackwood communities](07-blackwood-communities.md), [Natural History](30-natural-history-geology-climate-ecology.md), [Blackwood Echojay](32-blackwood-echojay.md), and [Geographic Master Plan](29-geographic-master-plan.md).
+
+## Blacksilver Willow propagation research — plausible future connection
+The valuable ebony-colored wood of the endemic **Blacksilver Willow** creates demand from traditional bowyers, furniture makers and ornamental architects. Fernhollow's ecological study of the original species' habitats offers a **possible** foundation for carefully managed propagation on suitable nonprotected land, reducing pressure on old-growth Silverveil stands. This is a **proposed research direction**, not an already proven commercial plantation or a warrant to take source material from sacred/sovereign land. See [Blacksilver Willow Woodcraft](34-blacksilver-willow-woodcraft.md).
