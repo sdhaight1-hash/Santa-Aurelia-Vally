@@ -60,6 +60,8 @@ See [application roadmap](docs/11-atlas-app-roadmap.md) for the next implementat
 - [1608 founding fleet and passenger logbook](docs/16-founding-fleet-logbook-1608.md)
 - [Valcárcel Estate Library and conservation history](docs/17-valcarcel-estate-library-and-archive.md)
 - [Full family archival collection: letters, Sáweli's diaries, founder journals and artifacts](docs/18-estate-library-collection-catalogue.md)
+- [Sáweli / Inés as historian and recorder of Blackwood's traditions](docs/19-saweli-ines-historian-and-oral-histories.md)
+- [Sáweli's journals from her journeys to Spain](docs/20-saweli-journals-of-spain.md)
 
 ## Scope and status
 
