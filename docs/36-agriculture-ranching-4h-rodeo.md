@@ -81,9 +81,24 @@ The town and farm hierarchy remains intact: Santa Aurelia (~19k), Willowwick (~2
 
 Real-world reference: [Tillamook County Fair](https://tillamookcoast.com/plan-your-trip/what-to-do/topic/annual-events/tillamook-county-fair/) demonstrates how Oregon coast fairs combine 4-H/FFA projects, livestock, exhibitions and entertainment. [ProRodeo Hall of Fame: rodeo events](https://www.prorodeohalloffame.com/rodeo-events/) lists standard professional rodeo disciplines. These do not prove that the **fictional** valley already has any specific named fair, rodeo or championship.
 
+
+## Wyoming ranching families: a later migration layer
+
+**Newly established by user:** Ranching families **migrated from Wyoming to Valle de Santa Aurelia long ago**, helping shape its livestock, horsemanship and ultimately rodeo culture. The region already had centuries of locally developed Spanish-influenced ranching and Indigenous food/land traditions; Wyoming newcomers **did not introduce cattle or horses for the first time**, and they do not displace existing communities in the historical narrative.
+
+**Working historical placement:** A substantial recognizable wave **circa 1887–1915**, with some later chain migration, makes particular sense. The devastating Wyoming open-range winter of **1886–87**, changes in cattle economics, fencing, homesteading and family connections create plausible reasons for some Wyoming ranchers to relocate. These are historical context and **fictional local migration causes**, not a claim that an archival mass migration to real-world Clatsop County has been verified.
+
+The newcomers favor suitable **South Hills**, upper-valley and outer Blackwood agricultural holdings. They bring cattle-handling and breeding experience, ranch horses, saddle and leatherwork, roping styles, stockmanship, and sporting traditions that blend with the valley's older Spanish-derived and Pacific Northwest agricultural cultures. A few dynasties become important to local fair and rodeo life, but **specific family names, herd counts, estates and routes remain unassigned**.
+
+**A real adaptation, not Wyoming recreated:** These arrivals cannot bring semi-arid open-range grazing intact to rainy, forested northwestern Oregon. They adjust to smaller suitable pastures, winter mud, drainage and shelter, hay management, fencing, parasite pressure, limited flat ground and local markets. Their descendants can still preserve distinctive cowboy clothing, rodeo competition, ranch language and family stories. Some families become prosperous; others struggle or diversify into dairy, horse breeding, equipment and trade work.
+
+**Credible real historical connections:** Wyoming was a major cattle-ranching center in the late 1800s, and Oregon cattle moved eastward to Wyoming and Montana historically. This supports livestock-industry links but does **not independently document the specific fictional reverse migration**. References: [Oregon cattle drives historical marker](https://oregontic.com/oregon-historical-markers/cattle-drives/); [Wyoming ranching history](https://wyomingdigitalcollections.ptfs.com/aw-server/rest/product/purl/WSL/s/eaba3b73-daf8-424a-8f8f-e0920778af67); [Oregon Coast farming history](https://www.oregonhistoryproject.org/narratives/the-oregon-coastforists-and-green-verdent-launs/development-of-the-coastal-economy/farming-and-fishing/).
+
+**Canon boundaries:** Wyoming-to-valley ranch family migration is established; the particular wave dates and 1886–87 causal narrative are proposals pending named families and a regional migration timeline. Rodeo's modern organization still dates to a later era than the founding of Santa Aurelia.
+
 ## Continuity status
 
-**Locked from user:** important valley agricultural and cattle-ranch culture; large 4-H participation; **major living rodeo culture**.
+**Locked from user:** important valley agricultural and cattle-ranch culture; large 4-H participation; **major living rodeo culture**; **historic migration of Wyoming ranching families into the valley**.
 
 **Open working proposals:** exact farms and landholdings, origin stories and historic families, named rodeos, dates, sanction, first livestock show, fairground location, adult/youth rider profiles, attendance, prize purses, specific 4-H club counts and local champion lists.
 
