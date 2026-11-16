@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#0d1716"/>
+  <title>Valle de Santa Aurelia · Living Atlas</title>
+  <link rel="stylesheet" href="./atlas/styles.css"/>
+</head>
+<body>
+<div class="app-shell">
+  <aside class="sidebar">
+    <a href="#/" class="brand" id="brandHome">
+      <span class="brand-mark">✥</span>
+      <span class="brand-words"><b>VALLE DE<br>SANTA AURELIA</b><small>THE LIVING ATLAS · EST. 1608</small></span>
+    </a>
+    <div class="side-label">THE ARCHIVE</div>
+    <nav id="primaryNav" aria-label="Main navigation">
+      <button class="nav-item active" data-view="home"><span>◈</span> Overview</button>
+      <button class="nav-item" data-view="library"><span>▤</span> Encyclopedia <em id="countNav">0</em></button>
+      <button class="nav-item" data-view="map"><span>◇</span> Regional atlas</button>
+      <button class="nav-item" data-view="timeline"><span>◷</span> Chronology</button>
+      <button class="nav-item" data-view="connections"><span>⌘</span> Connections</button>
+    </nav>
+    <div class="side-label space-top">EXPLORE BY SUBJECT</div>
+    <nav id="categoryNav" aria-label="Entry categories"></nav>
+    <div class="side-bottom">
+      <div class="side-status"><span class="status-dot"></span> Stored on this device</div>
+      <button id="openTools" class="side-tool">⇵ Import / export archive</button>
+      <small>Based on the regional canon bible.<br>Changes are saved locally until exported.</small>
+    </div>
+  </aside>
+
+  <div class="workspace">
+    <header class="topbar">
+      <button id="mobileMenu" class="icon-button mobile-menu" aria-label="Toggle navigation">☰</button>
+      <div class="breadcrumbs" id="crumbs">THE ATLAS <span>/</span> OVERVIEW</div>
+      <div class="top-actions">
+        <label class="searchbar"><span>⌕</span><input id="globalSearch" placeholder="Search the valley..." autocomplete="off" aria-label="Search articles"/><kbd>/</kbd></label>
+        <button class="button button-gold" id="newEntry">＋ New entry</button>
+      </div>
+    </header>
+    <main id="content" tabindex="-1"></main>
+    <footer class="footer"><span>VALLE DE SANTA AURELIA · A LIVING REGIONAL ARCHIVE</span><span id="footerCount"></span></footer>
+  </div>
+</div>
+
+<div class="modal-backdrop hidden" id="editBackdrop" role="presentation">
+  <section class="modal wide" role="dialog" aria-modal="true" aria-labelledby="editTitle">
+    <div class="modal-head"><div><span class="eyebrow">THE ARCHIVE / EDITOR</span><h2 id="editTitle">New entry</h2></div><button class="icon-button" data-close="editBackdrop" aria-label="Close">✕</button></div>
+    <form id="entryForm">
+      <input type="hidden" name="id" id="entryId"/>
+      <div class="form-grid">
+        <label class="field">Title<input id="entryTitle" name="title" required maxlength="120" placeholder="Name your entry"/></label>
+        <label class="field">Category<select id="entryCategory" name="category"></select></label>
+        <label class="field">Canon status<select id="entryStatus" name="status"><option value="established">Established</option><option value="working">Working canon</option><option value="provisional">Provisional</option><option value="legend">Folklore / in-world account</option></select></label>
+        <label class="field">Date or period<input id="entryEra" name="era" placeholder="e.g. 1608, 19th century"/></label>
+      </div>
+      <label class="field">Short description<textarea id="entrySummary" rows="2" maxlength="350" placeholder="One or two sentences for cards and search."></textarea></label>
+      <label class="field">Article content<textarea id="entryBody" rows="9" placeholder="Write your lore here. Link another entry with [[Entry Title]] or [[entry-id|Custom text]]."></textarea><small>Use blank lines for paragraphs. Start a line with ## for a heading. Link any other article with [[Title]].</small></label>
+      <div class="form-grid">
+        <label class="field">Tags (comma-separated)<input id="entryTags" placeholder="history, coastal, colonial"/></label>
+        <label class="field">Linked entries (comma-separated titles or IDs)<input id="entryLinks" placeholder="Santa Aurelia, Witches' Wood"/></label>
+      </div>
+      <div class="modal-actions"><button type="button" class="button subtle" data-close="editBackdrop">Cancel</button><button type="submit" class="button button-gold">Save entry</button></div>
+    </form>
+  </section>
+</div>
+<div class="modal-backdrop hidden" id="toolsBackdrop" role="presentation">
+  <section class="modal" role="dialog" aria-modal="true" aria-labelledby="toolsTitle">
+    <div class="modal-head"><div><span class="eyebrow">DATA & OWNERSHIP</span><h2 id="toolsTitle">Archive tools</h2></div><button class="icon-button" data-close="toolsBackdrop" aria-label="Close">✕</button></div>
+    <p>Edits are saved in this browser only. Export JSON for a durable backup or to bring the changes back into the GitHub canon repository.</p>
+    <div class="tool-actions"><button id="exportJson" class="button button-gold">↓ Export full archive</button><label class="button secondary input-label">↑ Import archive<input type="file" id="importJson" accept=".json,application/json" hidden /></label></div>
+    <p class="hint">Import replaces your locally edited archive. A backup is recommended first. The original seed remains in the repository.</p>
+    <button id="resetData" class="button danger-outline">Restore original seed data</button>
+  </section>
+</div>
+<div id="toast" role="status" aria-live="polite" class="toast hidden"></div>
+<script src="./atlas/data.js"></script>
+<script src="./atlas/app.js"></script>
+</body>
+</html>
