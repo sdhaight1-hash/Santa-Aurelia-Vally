@@ -52,3 +52,6 @@ A credible setting acknowledges that **well-kept city streets may reflect invest
 **Established directly by user:** Santa Aurelia and Willowwick are both broadly affluent; poorer settlements exist as **separate valley townships**, not prominent impoverished neighborhoods inside the two cities.
 
 **Working proposals:** precise townships, names, locations, legal boundaries, census distributions and causes of local deprivation. Do not manufacture poverty statistics, imply all people of lower income live outside the city, or classify sovereign Indigenous lands as townships subject to either city's government.
+
+## Southbank Wolves — a point of township pride
+Southbank High School's established mascot is the **Southbank Wolves**, replacing the previously proposed *Millers*. School athletics and rivalries with the Willowwick Wisps and Santa Aurelia Captains are a major community institution. Different town incomes influence facilities, but Southbank is not defined by losing or inferiority. See [high school rivalry culture](28-high-school-sports-and-rivalries.md).
