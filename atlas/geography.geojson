@@ -5,7 +5,7 @@
     "coordinate_reference": "WGS84 EPSG:4326",
     "fictional_setting": true,
     "planning_date": "2026-11-16",
-    "notes": "Planning points and schematic cultural-region boundary; not real communities, surveyed sites or legal boundaries. Sensitive cultural sites are illustrative placeholders only. Approximate 70-by-45-mile extents represent bounding dimensions, not rectangular region.",
+    "notes": "Planning points and schematic cultural-region boundary; not real communities, surveyed sites or legal boundaries. Sensitive cultural sites are illustrative placeholders only. Approximate 70-by-45-mile extents represent bounding dimensions, not rectangular region. Four natural-history anchors added; coast/gorge geology, DEM watershed and ecological boundaries require validation.",
     "source_doc": "docs/29-geographic-master-plan.md"
   },
   "features": [
@@ -408,6 +408,78 @@
         "coordinates": [
           -123.6852,
           45.9689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "black-steps",
+      "properties": {
+        "name": "The Black Steps — Columnar Basalt Coast",
+        "category": "volcanic-shore",
+        "status": "proposed-mapped",
+        "fictional": true,
+        "note": "Giant's Causeway-like basalt terrace; fictional; exact tide-safe location not surveyed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.98,
+          45.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "high-gorge",
+      "properties": {
+        "name": "Aurelia High Gorge",
+        "category": "major-river-gorge",
+        "status": "proposed-mapped",
+        "fictional": true,
+        "note": "Proposed 8–15-mile incised upper-valley gorge; watershed and elevation unverified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.59,
+          45.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "blackwood-ravines",
+      "properties": {
+        "name": "Blackwood Ravines",
+        "category": "gorge-cluster",
+        "status": "proposed-mapped",
+        "fictional": true,
+        "note": "Narrow, shaded tributary canyons outside sensitive forest interior"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.655,
+          45.918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "moor-ridges",
+      "properties": {
+        "name": "Open Moor Ridges",
+        "category": "upland-heath",
+        "status": "proposed-mapped",
+        "fictional": true,
+        "note": "Patchy windswept native grass/heath and bog landscape, not all of Blackwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.704,
+          45.91
         ]
       }
     }
