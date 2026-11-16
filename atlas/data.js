@@ -545,6 +545,105 @@ window.SANTA_AURELIA_SEED={
         "fairy-stones",
         "valle"
       ]
+    },
+    {
+      "id": "mateo-villacorta",
+      "title": "Mateo de Villacorta (working name)",
+      "category": "Person",
+      "status": "working",
+      "era": "c.1580–after 1635, proposed",
+      "summary": "A famous Spanish painter and Alonso's personal friend, who accompanied the 1608 founding colony and painted its founding family.",
+      "body": "The founding colony included a Spanish artist who was **a personal friend of [[alonso|Don Alonso]]** and traveled with the expedition in **1608**. He became a celebrated artist and created four surviving colonial-era portraits: [[portrait-arrival|Alonso's arrival]], [[portrait-ines|the later Inés portrait]], [[portrait-wedding|their wedding]], and [[portrait-family|their family portrait]] with nine children.\n\n**Mateo de Villacorta is a provisional invented artist name**, not yet formally established. His fame, studio and complete biographical chronology will be developed later. These paintings are in-world historical artifacts, not real surviving works.",
+      "tags": [
+        "artist",
+        "colonial",
+        "1608",
+        "portraits"
+      ],
+      "links": [
+        "alonso",
+        "ines",
+        "portrait-arrival",
+        "portrait-ines",
+        "portrait-wedding",
+        "portrait-family"
+      ]
+    },
+    {
+      "id": "portrait-arrival",
+      "title": "The Arrival of Don Alonso de Valcárcel y Austria",
+      "category": "Artifact",
+      "status": "working",
+      "era": "1608 event; painting c.1608–1610 proposed",
+      "summary": "A surviving colonial painting of the captain and his flagship reaching the future Santa Aurelia.",
+      "body": "[[mateo-villacorta|The founding artist]], Alonso's close friend and fellow member of the 1608 expedition, painted this commemorative portrait close to the arrival. The exact production date and present collection are undecided.\n\nPrincipal subject: [[alonso|Don Alonso]]. The painting is considered an original colonial work, subject to later restoration.",
+      "tags": [
+        "historical painting",
+        "colonial portrait",
+        "surviving original"
+      ],
+      "links": [
+        "alonso",
+        "flagship",
+        "mateo-villacorta"
+      ]
+    },
+    {
+      "id": "portrait-ines",
+      "title": "Portrait of Doña Inés of Santa Aurelia",
+      "category": "Artifact",
+      "status": "working",
+      "era": "Later 1610s–1620s proposed",
+      "summary": "A surviving formal colonial portrait of Inés commissioned or made after the founding and marriage.",
+      "body": "Painted from life by [[mateo-villacorta|the Spanish founding artist]] who knew [[ines|Inés]] and [[alonso|Alonso]] personally. Its precise date, artistic details, and custodianship are not yet fixed. The portrait belongs to the family’s preserved seventeenth-century heritage.",
+      "tags": [
+        "historical painting",
+        "colonial portrait",
+        "surviving original"
+      ],
+      "links": [
+        "ines",
+        "mateo-villacorta"
+      ]
+    },
+    {
+      "id": "portrait-wedding",
+      "title": "The Marriage of Alonso and Inés",
+      "category": "Artifact",
+      "status": "working",
+      "era": "Wedding c.1611; painting c.1611–1613 proposed",
+      "summary": "A surviving original colonial-era painting commemorating the loving marriage of Alonso and Inés.",
+      "body": "This painting is linked to the marriage/union of [[alonso|Alonso]] and [[ines|Inés]]. It was created by [[mateo-villacorta|their friend and the colony's founding artist]]. The wedding date circa 1611 and painting date are still working chronology.\n\nThe union was driven by genuine mutual love, not solely diplomacy.",
+      "tags": [
+        "historical painting",
+        "colonial portrait",
+        "surviving original"
+      ],
+      "links": [
+        "alonso",
+        "ines",
+        "mateo-villacorta",
+        "festival"
+      ]
+    },
+    {
+      "id": "portrait-family",
+      "title": "The Valcárcel Family at Santa Aurelia",
+      "category": "Artifact",
+      "status": "working",
+      "era": "Early–mid 1630s proposed",
+      "summary": "Surviving dynastic portrait of Alonso and Inés together with their nine children: eleven figures in total.",
+      "body": "Painted much later by the same founding Spanish artist and family friend, [[mateo-villacorta|Mateo de Villacorta (working name)]], after the couple had **nine children**.\n\nThe **nine-child count is established** by the user; children's individual names and vital dates are not yet fixed. **Do not invent nine genealogy records until those identities are developed**. The painter, creators, family and individual descendants should be cross-linked to the [[alonso|Alonso]] and [[ines|Inés]] profiles.",
+      "tags": [
+        "historical painting",
+        "colonial portrait",
+        "surviving original"
+      ],
+      "links": [
+        "alonso",
+        "ines",
+        "mateo-villacorta"
+      ]
     }
   ],
   "timeline": [
