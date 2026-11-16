@@ -74,3 +74,6 @@ The quotation above is an **original in-world historical text** created for this
 - The main Valcárcel branch has **nine children**, not an undefined number.
 - The marriage is loving and mutual; Inés is an independent cofounder, not a passive symbol.
 - Indigenous kinship identity, political office, hereditary property rules and later tribal citizenship must not be inferred solely from European patronymics.
+
+## The family archive survives within the main lineage
+**Established:** the founding portraits, original voyage books and original settler rolls have remained in the **private estate library of the main Valcárcel descent line** for more than four centuries. Later Valcárcel descendants, public scholars and institutions may hold copies, but not the originals by default. For details and open questions about the building, archival custody and modern access, see [The Valcárcel Estate Library](17-valcarcel-estate-library-and-archive.md).
