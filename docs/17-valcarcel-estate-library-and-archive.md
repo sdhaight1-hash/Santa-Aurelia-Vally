@@ -48,3 +48,6 @@ The detailed, numbered scholarly inventory—correspondence, her retrospective d
 
 ## The Sáweli Historical Corpus
 The estate holds an exceptional body of original texts authored or compiled by **Sáweli/Inés**, including extensive **first-person later-life recollections of pre-1608 Ashalewan life**, travel notes, family registers and **interviews with other Indigenous peoples**. She compiled especially influential early written testimony on the Blackwood stoneways, prehistoric circle, White Ones, woodland lights, wolves and local legends. These original early-seventeenth-century witness accounts—not only later folklore and oral traditions—form a foundation for historical inquiry. The family's private custody of the folios does not entitle it to speak for the descendant communities. See [Sáweli/Inés as Historian](19-saweli-ines-historian-and-oral-histories.md).
+
+## The Iberian journals
+The family also preserves **Sáweli's original journals written on her journeys to Spain with Alonso**. These are a distinct series from her remembered pre-1608 childhood and Blackwood oral-history interviews, but deepen her stature as a comparative historian. The notebooks and letters home are catalogued provisionally as VA-SAW-009–014; see [her journeys in Spain](20-saweli-journals-of-spain.md).
