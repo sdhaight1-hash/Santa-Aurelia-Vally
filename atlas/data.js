@@ -9,7 +9,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Present day",
       "summary": "A layered lower Columbia region of maritime cities, inland forests, ancient monuments, and communities shaped by more than four centuries of colonial history.",
-      "body": "The region encompasses [[santa-aurelia|Santa Aurelia]], [[willowwick|Willowwick Grove]], [[blackwood|Blackwood Ridge]], and surrounding watersheds, rural hamlets, lakes and tribal lands.\n\nIts Spanish regional name derives from the old port, but its Indigenous histories reach back millennia. The region is not one municipality, one valley basin, or one uniform culture.\n\nSanta Aurelia and Willowwick Grove are near-peer cities. The northwest portion of Witches' Wood includes reservation land, while southwest Blackwood transitions into Fernhollow Country.\n\nThe coast and inland communities sustain a substantial [[wedding-coast|wedding industry]] built around Santa Aurelia's palaces, gardens, historic inns, [[harbor-boardwalks|waterfront promenades]] and distinctive regional architecture.\n\nThe tourism economy also includes [[paddlewheel-riverboats|heritage paddlewheel cruises]] and Santa Aurelia's [[cruise-homeport|ocean cruise homeport]].\n\nA major [[coast-guard-base|U.S. Coast Guard maritime installation]] is situated outside Santa Aurelia.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\nBoth [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]] are broadly affluent. Some smaller, separate [[outlying-townships|townships]] in the surrounding mining, timber and floodplain valleys face greater economic hardship; they are not districts within either city.\n\n[[southbank|Southbank]] is an independent lower-income former river-mill township in the wider valley, separate from both prosperous cities.\n\nSchool athletics and the rivalries among the [[wisps|Willowwick Wisps]], [[santa-aurelia-captains|Santa Aurelia Captains]] and [[southbank-wolves|Southbank Wolves]] are defining regional traditions.\n\n**Geography master-plan v1:** Approx. 1,800 sq mi (4,660 km²) target; irregular roughly 70-mile east–west and 45-mile north–south cultural region; multiple watersheds, not a single valley. Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\n**Natural-history design:** the region retains Oregon Coast Range rainforest, multiple river basins and estuary but also has local [[moor-ridges|Highland-like exposed ridges]], [[black-steps|basalt-column coast]], [[high-gorge|a major upper gorge]], and [[blackwood-ravines|smaller forest ravines]]. See [[natural-history|natural history]].\n\nLocal natural history includes self-sustaining [[sika-deer|sika deer]] populations and rare [[red-necked-wallabies|wallabies]], both introduced animals with debated ecological effects.\n\nThe native [[blackwood-echojay|Blackwood Echojay]] is celebrated for extraordinary imitative calls and a silvery-on-indigo appearance in Witches' Wood.",
+      "body": "The region encompasses [[santa-aurelia|Santa Aurelia]], [[willowwick|Willowwick Grove]], [[blackwood|Blackwood Ridge]], and surrounding watersheds, rural hamlets, lakes and tribal lands.\n\nIts Spanish regional name derives from the old port, but its Indigenous histories reach back millennia. The region is not one municipality, one valley basin, or one uniform culture.\n\nSanta Aurelia and Willowwick Grove are near-peer cities. The northwest portion of Witches' Wood includes reservation land, while southwest Blackwood transitions into Fernhollow Country.\n\nThe coast and inland communities sustain a substantial [[wedding-coast|wedding industry]] built around Santa Aurelia's palaces, gardens, historic inns, [[harbor-boardwalks|waterfront promenades]] and distinctive regional architecture.\n\nThe tourism economy also includes [[paddlewheel-riverboats|heritage paddlewheel cruises]] and Santa Aurelia's [[cruise-homeport|ocean cruise homeport]].\n\nA major [[coast-guard-base|U.S. Coast Guard maritime installation]] is situated outside Santa Aurelia.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\nBoth [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]] are broadly affluent. Some smaller, separate [[outlying-townships|townships]] in the surrounding mining, timber and floodplain valleys face greater economic hardship; they are not districts within either city.\n\n[[southbank|Southbank]] is an independent lower-income former river-mill township in the wider valley, separate from both prosperous cities.\n\nSchool athletics and the rivalries among the [[wisps|Willowwick Wisps]], [[santa-aurelia-captains|Santa Aurelia Captains]] and [[southbank-wolves|Southbank Wolves]] are defining regional traditions.\n\n**Geography master-plan v1:** Approx. 1,800 sq mi (4,660 km²) target; irregular roughly 70-mile east–west and 45-mile north–south cultural region; multiple watersheds, not a single valley. Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\n**Natural-history design:** the region retains Oregon Coast Range rainforest, multiple river basins and estuary but also has local [[moor-ridges|Highland-like exposed ridges]], [[black-steps|basalt-column coast]], [[high-gorge|a major upper gorge]], and [[blackwood-ravines|smaller forest ravines]]. See [[natural-history|natural history]].\n\nLocal natural history includes self-sustaining [[sika-deer|sika deer]] populations and rare [[red-necked-wallabies|wallabies]], both introduced animals with debated ecological effects.\n\nThe native [[blackwood-echojay|Blackwood Echojay]] is celebrated for extraordinary imitative calls and a silvery-on-indigo appearance in Witches' Wood.\n\nThe valley's ancient [[witchwood|Witches' Wood]] has a dual reputation: devastating to repeated commercial logging ventures, yet rich in permitted wild foods and an inspiration for [[fernhollow-ecology-research|Fernhollow's food-forest research]].",
       "tags": [
         "geography",
         "overview",
@@ -36,7 +36,8 @@ window.SANTA_AURELIA_SEED={
         "sika-deer",
         "red-necked-wallabies",
         "naturalized-exotics",
-        "blackwood-echojay"
+        "blackwood-echojay",
+        "fernhollow-ecology-research"
       ]
     },
     {
@@ -113,7 +114,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Ancient to present",
       "summary": "A rugged, forested district of ancient stoneways, immigrant mountain communities, Indigenous lands, unusual flora, and rural self-reliance.",
-      "body": "The district contains [[witchwood|Witches' Wood]] and its prehistoric monumental landscape. The tribal [[reservation|reservation]] includes some of the northwestern forest; [[fernhollow|Fernhollow Country]] lies southwest.\n\nIrish, Scottish, Romanian, Transylvanian and Slavic households built communities around the forest. Some describe an unexplained sense of kinship to its rugged, foggy landscape.\n\nThe rest of Blackwood Ridge includes working forests, old mines, agricultural valleys, village churches, preparedness homesteads, hiking trails and remote archaeological sanctuaries.\n\n**Geography master-plan v1:** 45.9050° N, 123.6650° W (proposed upland reference center south of Willowwick). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nBlackwood's uplands contain proposed [[blackwood-ravines|shaded tributary ravines]] and some exposed [[moor-ridges|moorlike native heath/meadow ridges]], while the inner [[witchwood|Witches' Wood]] remains a densely forested protected ancient district.\n\nOuter Blackwood woodland margins support some [[sika-deer|sika deer]] and occasional [[red-necked-wallabies|wallabies]]; these are introduced populations, not evidence for ancient White Ones lore.\n\nThe native [[blackwood-echojay|Blackwood Echojay]] is celebrated for extraordinary imitative calls and a silvery-on-indigo appearance in Witches' Wood.",
+      "body": "The district contains [[witchwood|Witches' Wood]] and its prehistoric monumental landscape. The tribal [[reservation|reservation]] includes some of the northwestern forest; [[fernhollow|Fernhollow Country]] lies southwest.\n\nIrish, Scottish, Romanian, Transylvanian and Slavic households built communities around the forest. Some describe an unexplained sense of kinship to its rugged, foggy landscape.\n\nThe rest of Blackwood Ridge includes working forests, old mines, agricultural valleys, village churches, preparedness homesteads, hiking trails and remote archaeological sanctuaries.\n\n**Geography master-plan v1:** 45.9050° N, 123.6650° W (proposed upland reference center south of Willowwick). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nBlackwood's uplands contain proposed [[blackwood-ravines|shaded tributary ravines]] and some exposed [[moor-ridges|moorlike native heath/meadow ridges]], while the inner [[witchwood|Witches' Wood]] remains a densely forested protected ancient district.\n\nOuter Blackwood woodland margins support some [[sika-deer|sika deer]] and occasional [[red-necked-wallabies|wallabies]]; these are introduced populations, not evidence for ancient White Ones lore.\n\nThe native [[blackwood-echojay|Blackwood Echojay]] is celebrated for extraordinary imitative calls and a silvery-on-indigo appearance in Witches' Wood.\n\nThe region's old-growth [[witchwood|Witches' Wood]] is difficult for industrial logging yet provides permitted traditional gathering and decades of ecological insight for [[fernhollow-ecology-research|Fernhollow's food-forest program]].",
       "tags": [
         "forest",
         "mountains",
@@ -129,7 +130,8 @@ window.SANTA_AURELIA_SEED={
         "natural-history",
         "sika-deer",
         "red-necked-wallabies",
-        "blackwood-echojay"
+        "blackwood-echojay",
+        "fernhollow-ecology-research"
       ]
     },
     {
@@ -139,7 +141,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Ancient to present",
       "summary": "A woodland famous for the Fairy Stones, luminous groves, ancient legends, cryptid sightings, and wilderness disappearance lore.",
-      "body": "Its heart is [[fairy-stones|the Fairy Stones]] within [[silverveil|Silverveil Grove]], where giant Blacksilver Willows shelter ancient monuments and faintly glowing fungi.\n\nCenturies of stories include [[white-ones|the White Ones]], [[lantern-children|Lantern Children]], [[howler|the Blackwood Howler]], Bigfoot sightings, and modern Missing 411-style speculation. Those stories are cultural history, **not objective supernatural fact**.\n\nThe northwest portion extends into sovereign [[reservation|reservation lands]], while its southwest approaches connect to [[fernhollow|Fernhollow Country]].\n\nThe legends are preserved in early written form by [[saweli-historical-corpus|Sáweli/Inés]], an Indigenous historian who interviewed Blackwood-area people in the seventeenth century; the forest's folklore did not survive solely through later migrant legends.\n\n**Geography master-plan v1:** 45.8980° N, 123.6420° W (proposed center; protected forest, no automatic public access). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nThe native [[blackwood-echojay|Blackwood Echojay]] is celebrated for extraordinary imitative calls and a silvery-on-indigo appearance in Witches' Wood.",
+      "body": "Its heart is [[fairy-stones|the Fairy Stones]] within [[silverveil|Silverveil Grove]], where giant Blacksilver Willows shelter ancient monuments and faintly glowing fungi.\n\nCenturies of stories include [[white-ones|the White Ones]], [[lantern-children|Lantern Children]], [[howler|the Blackwood Howler]], Bigfoot sightings, and modern Missing 411-style speculation. Those stories are cultural history, **not objective supernatural fact**.\n\nThe northwest portion extends into sovereign [[reservation|reservation lands]], while its southwest approaches connect to [[fernhollow|Fernhollow Country]].\n\nThe legends are preserved in early written form by [[saweli-historical-corpus|Sáweli/Inés]], an Indigenous historian who interviewed Blackwood-area people in the seventeenth century; the forest's folklore did not survive solely through later migrant legends.\n\n**Geography master-plan v1:** 45.8980° N, 123.6420° W (proposed center; protected forest, no automatic public access). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nThe native [[blackwood-echojay|Blackwood Echojay]] is celebrated for extraordinary imitative calls and a silvery-on-indigo appearance in Witches' Wood.\n\nMany ancient old-growth tracts survived because **industrial logging attempts repeatedly ended in disasters, failure or abandonment**. At the same time, permitted areas have a long tradition of successful **seasonal foraging** for mushrooms, berries and other foods. [[fernhollow-ecology-research|Fernhollow's ecovillage]] studies the forest's soil, canopy, fungal systems, water and plant communities to inform cultivated food forests. These contrasting uses are part of the woodland's identity.",
       "tags": [
         "forest",
         "folklore",
@@ -154,7 +156,8 @@ window.SANTA_AURELIA_SEED={
         "reservation",
         "saweli-historical-corpus",
         "geographic-master-plan",
-        "blackwood-echojay"
+        "blackwood-echojay",
+        "fernhollow-ecology-research"
       ]
     },
     {
@@ -334,7 +337,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Older farms; 1970s ecovillage",
       "summary": "The rural southwest approaches to Witches' Wood, home to historic immigrant villages, independent homesteads, and the Fernhollow ecovillage.",
-      "body": "The larger district southwest of [[witchwood|Witches' Wood]] contains farms, old Irish/Scottish/Romanian/Slavic settlements, private woodlots and preparedness households.\n\nThe ecovillage founded during the **1970s back-to-the-land movement** uses practical permaculture, food forests, timber/cob construction, greenhouses, rainproofing, mushroom cultivation, and vocational teaching. It buys and sells goods like other communities.\n\n[[thornhaven|Thornhaven Village]] lies nearby but is independently run. Other families pursue hunting, archery, off-grid living, livestock care and emergency preparedness.\n\n**Geography master-plan v1:** 45.8670° N, 123.7360° W (proposed district center southwest of Blackwood). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nA Scottish-born naturalist's early-twentieth-century private collection is the working origin of the region's strange naturalized [[red-necked-wallabies|red-necked wallabies]].",
+      "body": "The larger district southwest of [[witchwood|Witches' Wood]] contains farms, old Irish/Scottish/Romanian/Slavic settlements, private woodlots and preparedness households.\n\nThe ecovillage founded during the **1970s back-to-the-land movement** uses practical permaculture, food forests, timber/cob construction, greenhouses, rainproofing, mushroom cultivation, and vocational teaching. It buys and sells goods like other communities.\n\n[[thornhaven|Thornhaven Village]] lies nearby but is independently run. Other families pursue hunting, archery, off-grid living, livestock care and emergency preparedness.\n\n**Geography master-plan v1:** 45.8670° N, 123.7360° W (proposed district center southwest of Blackwood). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nA Scottish-born naturalist's early-twentieth-century private collection is the working origin of the region's strange naturalized [[red-necked-wallabies|red-necked wallabies]].\n\nThe ecovillage's decades-long study of [[witchwood|Witches' Wood]] is central to its living [[fernhollow-ecology-research|food-forest research program]], applying ecological lessons from ancient forest without appropriating sensitive habitats or tribal lands.",
       "tags": [
         "ecovillage",
         "homesteading",
@@ -346,7 +349,8 @@ window.SANTA_AURELIA_SEED={
         "witchwood",
         "geographic-master-plan",
         "red-necked-wallabies",
-        "naturalized-exotics"
+        "naturalized-exotics",
+        "fernhollow-ecology-research"
       ]
     },
     {
@@ -1325,7 +1329,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Geologic time to present",
       "summary": "North-coastal Oregon landscape enriched by patchy Highland-like ridges, a polygonal basalt shore, a major inland gorge and shaded ravines.",
-      "body": "The [[valle|Valle de Santa Aurelia]] combines Oregon Coast Range temperate rainforest, estuary, rivers, wetlands and volcanic headlands with **localized windswept highland-like glens and grassy/heath-covered ridges**. The region also includes a dramatic [[black-steps|columnar basalt Pacific shore]], a great [[high-gorge|upper-valley river gorge]] and smaller [[blackwood-ravines|Blackwood ravines]]. The shape resembles elements of the Scottish Highlands, Giant’s Causeway and Columbia Gorge but stays geologically and ecologically Oregonian.\n\nThe [[alderwood|Alderwood Lake]] basin, [[craton|fictional ancient basement fragment]], upper river gradients and protected [[witchwood|Witches' Wood]] require careful science-based mapping. See `docs/30-natural-history-geology-climate-ecology.md` and `atlas/geography.geojson`. Exact landscape names and coordinates are proposed, not final surveyed topography.\n\nThe valley's recognized exotic mammals include naturalized [[sika-deer|sika deer]] descended from ornamental estates and localized [[red-necked-wallabies|red-necked wallabies]] descended from escaped Fernhollow collection animals. Both are discussed in [[naturalized-exotics|the naturalized-wildlife history]].\n\nThe native [[blackwood-echojay|Blackwood Echojay]] is celebrated for extraordinary imitative calls and a silvery-on-indigo appearance in Witches' Wood.",
+      "body": "The [[valle|Valle de Santa Aurelia]] combines Oregon Coast Range temperate rainforest, estuary, rivers, wetlands and volcanic headlands with **localized windswept highland-like glens and grassy/heath-covered ridges**. The region also includes a dramatic [[black-steps|columnar basalt Pacific shore]], a great [[high-gorge|upper-valley river gorge]] and smaller [[blackwood-ravines|Blackwood ravines]]. The shape resembles elements of the Scottish Highlands, Giant’s Causeway and Columbia Gorge but stays geologically and ecologically Oregonian.\n\nThe [[alderwood|Alderwood Lake]] basin, [[craton|fictional ancient basement fragment]], upper river gradients and protected [[witchwood|Witches' Wood]] require careful science-based mapping. See `docs/30-natural-history-geology-climate-ecology.md` and `atlas/geography.geojson`. Exact landscape names and coordinates are proposed, not final surveyed topography.\n\nThe valley's recognized exotic mammals include naturalized [[sika-deer|sika deer]] descended from ornamental estates and localized [[red-necked-wallabies|red-necked wallabies]] descended from escaped Fernhollow collection animals. Both are discussed in [[naturalized-exotics|the naturalized-wildlife history]].\n\nThe native [[blackwood-echojay|Blackwood Echojay]] is celebrated for extraordinary imitative calls and a silvery-on-indigo appearance in Witches' Wood.\n\nDeep Witches' Wood preserves extensive old growth amid a history of disastrous timber ventures. Its abundant but habitat-specific wild foods support responsible gathering and [[fernhollow-ecology-research|Fernhollow's applied research]] into productive planted food forests.",
       "tags": [
         "geology",
         "ecology",
@@ -1346,7 +1350,8 @@ window.SANTA_AURELIA_SEED={
         "sika-deer",
         "red-necked-wallabies",
         "naturalized-exotics",
-        "blackwood-echojay"
+        "blackwood-echojay",
+        "fernhollow-ecology-research"
       ]
     },
     {
@@ -1527,6 +1532,31 @@ window.SANTA_AURELIA_SEED={
         "natural-history",
         "sika-deer",
         "red-necked-wallabies"
+      ]
+    },
+    {
+      "id": "fernhollow-ecology-research",
+      "title": "Fernhollow Food-Forest Ecology Research",
+      "category": "Institution",
+      "status": "established",
+      "era": "1970s–present",
+      "summary": "Decades of Witches' Wood ecological study have guided Fernhollow ecovillage's layered food forests, fungal cultivation, soil stewardship and perennial crops.",
+      "body": "The [[fernhollow|Fernhollow ecovillage]] has spent **decades researching the ecosystems of [[witchwood|Witches' Wood]]** and adapting its own cultivated [[natural-history|food forests]] from what the forest teaches. This is an established, ongoing practical research tradition, beginning with the 1970s community's foraging and seasonal habitat observations and later developing canopy, soil, fungal, water, plant and habitat studies.\n\nThe old forest itself contains **abundant but localized wild edible resources**—mushrooms in forest stands, berries in gaps and margins, and various seasonal edible plants in suitable habitats—and has a long history of careful foraging in permitted places. **Large-scale logging ventures repeatedly failed** in its deepest tracts, contributing to the survival of extensive ancient old growth. Local stories describe the forest resisting exploitation, although the causes are not established as supernatural.\n\nFernhollow's food forests are **cultivated ecological mosaics**, with appropriately sited orchards, native edible shrub edges, perennial plantings, mushrooms, pollinators and greenhouses; they are not copies of virgin old-growth forest. Ecological research never grants ownership, unrestricted gathering, or access to sensitive [[reservation|tribal lands]] or [[fairy-stones|sacred archaeological sites]]. See `docs/33-fernhollow-food-forest-ecology.md`.",
+      "tags": [
+        "permaculture",
+        "ecology",
+        "food forest",
+        "research",
+        "foraging",
+        "old growth"
+      ],
+      "links": [
+        "fernhollow",
+        "witchwood",
+        "natural-history",
+        "reservation",
+        "fairy-stones",
+        "blackwood"
       ]
     }
   ],
