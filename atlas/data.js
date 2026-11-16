@@ -9,7 +9,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Present day",
       "summary": "A layered lower Columbia region of maritime cities, inland forests, ancient monuments, and communities shaped by more than four centuries of colonial history.",
-      "body": "The region encompasses [[santa-aurelia|Santa Aurelia]], [[willowwick|Willowwick Grove]], [[blackwood|Blackwood Ridge]], and surrounding watersheds, rural hamlets, lakes and tribal lands.\n\nIts Spanish regional name derives from the old port, but its Indigenous histories reach back millennia. The region is not one municipality, one valley basin, or one uniform culture.\n\nSanta Aurelia and Willowwick Grove are near-peer cities. The northwest portion of Witches' Wood includes reservation land, while southwest Blackwood transitions into Fernhollow Country.\n\nThe coast and inland communities sustain a substantial [[wedding-coast|wedding industry]] built around Santa Aurelia's palaces, gardens, historic inns, [[harbor-boardwalks|waterfront promenades]] and distinctive regional architecture.",
+      "body": "The region encompasses [[santa-aurelia|Santa Aurelia]], [[willowwick|Willowwick Grove]], [[blackwood|Blackwood Ridge]], and surrounding watersheds, rural hamlets, lakes and tribal lands.\n\nIts Spanish regional name derives from the old port, but its Indigenous histories reach back millennia. The region is not one municipality, one valley basin, or one uniform culture.\n\nSanta Aurelia and Willowwick Grove are near-peer cities. The northwest portion of Witches' Wood includes reservation land, while southwest Blackwood transitions into Fernhollow Country.\n\nThe coast and inland communities sustain a substantial [[wedding-coast|wedding industry]] built around Santa Aurelia's palaces, gardens, historic inns, [[harbor-boardwalks|waterfront promenades]] and distinctive regional architecture.\n\nThe tourism economy also includes [[paddlewheel-riverboats|heritage paddlewheel cruises]] and Santa Aurelia's [[cruise-homeport|ocean cruise homeport]].",
       "tags": [
         "geography",
         "overview",
@@ -20,7 +20,9 @@ window.SANTA_AURELIA_SEED={
         "willowwick",
         "blackwood",
         "wedding-coast",
-        "harbor-boardwalks"
+        "harbor-boardwalks",
+        "paddlewheel-riverboats",
+        "cruise-homeport"
       ]
     },
     {
@@ -30,7 +32,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Founded 1608",
       "summary": "The Jewel of the Pacific: a Spanish–Indigenous and Venetian-influenced port city at the site of present-day Astoria, Oregon.",
-      "body": "The first permanent European-founded settlement in the region was established here in **1608** by [[alonso|Don Alonso de Valcárcel y Austria]]. The harbor already supported Indigenous communities, trade, and maritime knowledge.\n\nThe city occupies the present-day Astoria site on the Columbia estuary. It rebuilt after the 1700 earthquake and remains a living commercial port rather than a museum district.\n\nNineteenth-century Venetian migration added merchant wealth, decorated stone arcades, glasswork, and waterfront palazzi to a much older Spanish–Indigenous building tradition.\n\nIts famous [[festival|Festival of the Two Hearts]], [[palacio|Palacio de la Bahía]], and [[flagship|preserved flagship]] attract regional visitors. Working population is approximately 19,000.\n\nThe city's monumental [[season-of-halls|ballroom circuit]] and breathtaking [[harbor-boardwalks|timber-and-stone harbor promenades]] make it the heart of the [[wedding-coast|valley's destination wedding economy]], attracting ceremonies and celebrations throughout the year.",
+      "body": "The first permanent European-founded settlement in the region was established here in **1608** by [[alonso|Don Alonso de Valcárcel y Austria]]. The harbor already supported Indigenous communities, trade, and maritime knowledge.\n\nThe city occupies the present-day Astoria site on the Columbia estuary. It rebuilt after the 1700 earthquake and remains a living commercial port rather than a museum district.\n\nNineteenth-century Venetian migration added merchant wealth, decorated stone arcades, glasswork, and waterfront palazzi to a much older Spanish–Indigenous building tradition.\n\nIts famous [[festival|Festival of the Two Hearts]], [[palacio|Palacio de la Bahía]], and [[flagship|preserved flagship]] attract regional visitors. Working population is approximately 19,000.\n\nThe city's monumental [[season-of-halls|ballroom circuit]] and breathtaking [[harbor-boardwalks|timber-and-stone harbor promenades]] make it the heart of the [[wedding-coast|valley's destination wedding economy]], attracting ceremonies and celebrations throughout the year.\n\nSanta Aurelia is also an **ocean-going [[cruise-homeport|cruise departure homeport]]**, with a dedicated [[ocean-passenger-terminal|passenger terminal]], and hosts a thriving [[paddlewheel-riverboats|heritage paddlewheel excursion industry]]. These complement its wedding venues and magnificent waterfront.",
       "tags": [
         "city",
         "coast",
@@ -46,7 +48,10 @@ window.SANTA_AURELIA_SEED={
         "valle",
         "season-of-halls",
         "harbor-boardwalks",
-        "wedding-coast"
+        "wedding-coast",
+        "cruise-homeport",
+        "ocean-passenger-terminal",
+        "paddlewheel-riverboats"
       ]
     },
     {
@@ -372,7 +377,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Annual; anniversary c.1611",
       "summary": "A huge Santa Aurelia boardwalk festival celebrating Alonso and Inés, crowned by a prestigious historic debutante ball.",
-      "body": "The waterfront glows with lanterns, boats, food vendors, artisan markets, music, heritage performance and public festivities.\n\nThe celebration commemorates the passionate love of [[alonso|Alonso]] and [[ines|Inés]]. Its prestigious finale, the **Grand Ball of the Two Shores**, is held at [[palacio|the Palacio de la Bahía]].\n\nCritically, the underlying **formal colonial assembly dates to the 1600s** and originally existed independently of the couple's commemorative festival. Its modern debutante ceremony evolved in subsequent centuries, amplified by later Venetian patronage.\n\nThe original [[palacio|Casa de las Asambleas]] was built as Alonso's gift to Sáweli/Inés in 1638; it housed the already existing annual formal assembly, later evolving into today's Grand Ball.\n\nThe formal debutante and ball season is now a [[season-of-halls|multi-venue social circuit]] spanning rival Spanish and Venetian palaces, culminating at the historic [[palacio|Palacio]]. The city's [[harbor-boardwalks|stone-and-timber waterfront]] and grand architecture also sustain a thriving [[wedding-coast|wedding destination economy]] beyond the festival itself.",
+      "body": "The waterfront glows with lanterns, boats, food vendors, artisan markets, music, heritage performance and public festivities.\n\nThe celebration commemorates the passionate love of [[alonso|Alonso]] and [[ines|Inés]]. Its prestigious finale, the **Grand Ball of the Two Shores**, is held at [[palacio|the Palacio de la Bahía]].\n\nCritically, the underlying **formal colonial assembly dates to the 1600s** and originally existed independently of the couple's commemorative festival. Its modern debutante ceremony evolved in subsequent centuries, amplified by later Venetian patronage.\n\nThe original [[palacio|Casa de las Asambleas]] was built as Alonso's gift to Sáweli/Inés in 1638; it housed the already existing annual formal assembly, later evolving into today's Grand Ball.\n\nThe formal debutante and ball season is now a [[season-of-halls|multi-venue social circuit]] spanning rival Spanish and Venetian palaces, culminating at the historic [[palacio|Palacio]]. The city's [[harbor-boardwalks|stone-and-timber waterfront]] and grand architecture also sustain a thriving [[wedding-coast|wedding destination economy]] beyond the festival itself.\n\nThe festival offers supervised [[paddlewheel-riverboats|paddleboat cruises]] and may attract themed departures from the [[cruise-homeport|ocean cruise terminal]] without restricting ordinary river navigation.",
       "tags": [
         "festival",
         "ball",
@@ -385,7 +390,9 @@ window.SANTA_AURELIA_SEED={
         "ines",
         "season-of-halls",
         "wedding-coast",
-        "harbor-boardwalks"
+        "harbor-boardwalks",
+        "paddlewheel-riverboats",
+        "cruise-homeport"
       ]
     },
     {
@@ -952,7 +959,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Present day",
       "summary": "A major wedding destination built around historic ballrooms, timber-and-stone waterfront boardwalks, gardens and a valleywide coastal celebration economy.",
-      "body": "Santa Aurelia's extraordinary Spanish and Venetian hall architecture, flowered courtyards, and breathtaking [[harbor-boardwalks|timber-and-stone waterfront promenades]] have made it a major wedding destination. The [[palacio|Palacio de la Bahía]], [[palazzo-bellafonte|Bellafonte]], [[ca-marovelli|Marovelli]] and [[villa-serenissima|Villa Serenissima]] offer different historical settings, while smaller inns, gardens, beaches, countryside venues and historic buildings serve many budgets.\n\nThe surrounding [[valle|valley]] and coast support a substantial network of florists, growers, tailors, jewellers, planners, photographers, musicians, caterers, hotels, lodgings, conservators and transport. Wedding weekends often involve multiple venues. The wedding industry is **year-round** and separate from—but strongly reinforced by—the [[festival|Festival of the Two Hearts]] and its [[season-of-halls|formal ballroom circuit]]. These venues operate in a rainy Pacific climate with conservation and shoreline limits. See `docs/23-wedding-coast-economy-and-waterfront.md`.",
+      "body": "Santa Aurelia's extraordinary Spanish and Venetian hall architecture, flowered courtyards, and breathtaking [[harbor-boardwalks|timber-and-stone waterfront promenades]] have made it a major wedding destination. The [[palacio|Palacio de la Bahía]], [[palazzo-bellafonte|Bellafonte]], [[ca-marovelli|Marovelli]] and [[villa-serenissima|Villa Serenissima]] offer different historical settings, while smaller inns, gardens, beaches, countryside venues and historic buildings serve many budgets.\n\nThe surrounding [[valle|valley]] and coast support a substantial network of florists, growers, tailors, jewellers, planners, photographers, musicians, caterers, hotels, lodgings, conservators and transport. Wedding weekends often involve multiple venues. The wedding industry is **year-round** and separate from—but strongly reinforced by—the [[festival|Festival of the Two Hearts]] and its [[season-of-halls|formal ballroom circuit]]. These venues operate in a rainy Pacific climate with conservation and shoreline limits. See `docs/23-wedding-coast-economy-and-waterfront.md`.\n\nWedding visitors may enjoy private [[paddlewheel-riverboats|riverboat dinner charters]] or depart on a honeymoon voyage from the [[cruise-homeport|ocean cruise homeport]].",
       "tags": [
         "weddings",
         "tourism",
@@ -969,7 +976,9 @@ window.SANTA_AURELIA_SEED={
         "season-of-halls",
         "festival",
         "valle",
-        "santa-aurelia"
+        "santa-aurelia",
+        "paddlewheel-riverboats",
+        "cruise-homeport"
       ]
     },
     {
@@ -979,7 +988,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Colonial origins, many later rebuildings",
       "summary": "The city's striking timber-and-dressed-stone promenades, arcaded walks and terraces around the harbor are beloved for festivals, daily life and weddings.",
-      "body": "Santa Aurelia's waterfront is lined with a breathtaking network of **timber-decked and stone-built boardwalks**, covered walks, masonry quays, lanterns, railings, gardens, small plazas, stairways and overlooks across the Columbia estuary. Structures developed over centuries, with repairs after storms and the 1700 Cascadia earthquake; the entire promenade is not unchanged from 1608.\n\nThe layered Spanish and Venetian architecture provides dramatic backdrops for the [[festival|Festival of the Two Hearts]] and the city's [[wedding-coast|wedding economy]]. The harbor remains a **working public waterfront**, so visitors and private ceremonies share access with residents, traders, vessels and the maritime economy. Winter wind, rain and tides shape safe operations and design.",
+      "body": "Santa Aurelia's waterfront is lined with a breathtaking network of **timber-decked and stone-built boardwalks**, covered walks, masonry quays, lanterns, railings, gardens, small plazas, stairways and overlooks across the Columbia estuary. Structures developed over centuries, with repairs after storms and the 1700 Cascadia earthquake; the entire promenade is not unchanged from 1608.\n\nThe layered Spanish and Venetian architecture provides dramatic backdrops for the [[festival|Festival of the Two Hearts]] and the city's [[wedding-coast|wedding economy]]. The harbor remains a **working public waterfront**, so visitors and private ceremonies share access with residents, traders, vessels and the maritime economy. Winter wind, rain and tides shape safe operations and design.\n\nThe promenade includes overlooks and approved excursion-pier connections for [[paddlewheel-riverboats|riverboats]]; a separate modern [[ocean-passenger-terminal|deep-water passenger terminal]] handles embarkation of sea-going cruise ships.",
       "tags": [
         "boardwalk",
         "waterfront",
@@ -991,7 +1000,95 @@ window.SANTA_AURELIA_SEED={
         "santa-aurelia",
         "festival",
         "wedding-coast",
-        "palacio"
+        "palacio",
+        "paddlewheel-riverboats",
+        "ocean-passenger-terminal",
+        "cruise-homeport"
+      ]
+    },
+    {
+      "id": "paddlewheel-riverboats",
+      "title": "Santa Aurelia Paddlewheel Riverboats",
+      "category": "Tradition",
+      "status": "established",
+      "era": "Nineteenth century–present",
+      "summary": "Thriving lower-Columbia sternwheeler and paddleboat sightseeing, heritage, dinner-cruise and charter industry.",
+      "body": "Santa Aurelia's historic riverboat tradition grew from nineteenth-century steam passenger and freight operations into today's **thriving paddlewheel tourism industry**. Working excursion vessels include the proposed [[reina-dos-orillas|PS Reina de las Dos Orillas]], smaller heritage demonstrations, sightseeing tours, evening dining, historical cruises, winter lantern outings and private celebrations.\n\nThe fleet operates in professionally approved, navigable river and estuary channels, not the open Pacific or every small tributary. The lower Columbia's currents, tides, wind and commercial traffic demand skilled pilots and careful planning. Direct paddlewheel service to Willowwick is **not established** until its waterway geography can support it.\n\nThis is distinct from the [[cruise-homeport|sea-going cruise homeport]], although tourists can enjoy riverboat sailings before or after ocean voyages. Links with [[harbor-boardwalks|the waterfront]], [[festival|the Festival of the Two Hearts]] and [[wedding-coast|weddings]] support local businesses. Full chapter: `docs/24-paddlewheel-riverboats.md`.",
+      "tags": [
+        "paddlewheel",
+        "sternwheeler",
+        "river tourism",
+        "maritime"
+      ],
+      "links": [
+        "reina-dos-orillas",
+        "cruise-homeport",
+        "harbor-boardwalks",
+        "festival",
+        "wedding-coast",
+        "santa-aurelia"
+      ]
+    },
+    {
+      "id": "reina-dos-orillas",
+      "title": "PS Reina de las Dos Orillas",
+      "category": "Landmark",
+      "status": "working",
+      "era": "Modern heritage-style passenger vessel",
+      "summary": "Proposed elegant large lower-Columbia sternwheeler offering narrated cruises, music, meals and waterfront charters.",
+      "body": "A proposed flagship of the [[paddlewheel-riverboats|Santa Aurelia paddleboat fleet]], the *Reina de las Dos Orillas* is an elegant modern historic-style sternwheeler. Her enclosed dining saloon, open observation decks, pilot house and music room serve tours, heritage programs, dinner cruises, wedding receptions and festival specials. Whether the paddlewheel itself provides primary propulsion must be recorded explicitly during vessel specification. She sails only on approved river and estuary routes, **not routinely across the Columbia Bar**. Full proposed fleet in `docs/24-paddlewheel-riverboats.md`.",
+      "tags": [
+        "sternwheeler",
+        "river cruise",
+        "heritage"
+      ],
+      "links": [
+        "paddlewheel-riverboats",
+        "harbor-boardwalks",
+        "wedding-coast"
+      ]
+    },
+    {
+      "id": "cruise-homeport",
+      "title": "Santa Aurelia Ocean Cruise Homeport",
+      "category": "Institution",
+      "status": "established",
+      "era": "Modern port era",
+      "summary": "Deep-water ocean cruise departure, return and port-of-call operations with a dedicated passenger terminal in the lower Columbia estuary.",
+      "body": "Unlike real-world Astoria's predominantly visiting cruise traffic, Santa Aurelia is an alternate-history **cruise homeport**: passengers **begin and end ocean voyages here**, as well as visiting on port-of-call sailings. The port has invested in [[ocean-passenger-terminal|deep-water passenger terminal]] infrastructure, baggage and check-in, secure embarkation, provisioning, ground transport, hotels and customs/border operations.\n\nWorking itineraries include Pacific coastal journeys, seasonal Alaska voyages and repositioning sailings, subject to international and domestic passenger-vessel rules. The dangerous Columbia Bar, tides, currents, weather and commercial traffic determine safe departures; not all ships can operate on all days.\n\nPre- and post-cruise travelers visit the [[harbor-boardwalks|historic boardwalks]], enjoy [[paddlewheel-riverboats|paddleboat excursions]], explore the [[season-of-halls|great halls]] and take part in [[wedding-coast|the regional wedding economy]]. The deep-water terminal and shallow historic excursion docks are distinct facilities. See `docs/25-santa-aurelia-cruise-homeport.md`.",
+      "tags": [
+        "cruise",
+        "homeport",
+        "port",
+        "tourism",
+        "economy"
+      ],
+      "links": [
+        "ocean-passenger-terminal",
+        "paddlewheel-riverboats",
+        "harbor-boardwalks",
+        "season-of-halls",
+        "wedding-coast",
+        "santa-aurelia"
+      ]
+    },
+    {
+      "id": "ocean-passenger-terminal",
+      "title": "Santa Aurelia Ocean Passenger Terminal",
+      "category": "Landmark",
+      "status": "working",
+      "era": "Modern expansion",
+      "summary": "Proposed deep-water embarkation terminal with passenger processing, baggage, transport and vessel provisioning.",
+      "body": "A dedicated ocean-going terminal serving the [[cruise-homeport|Santa Aurelia cruise departure homeport]] and visiting cruise ships. Needs deep-water berths, modern accessible gangways, check-in/security, baggage sorting and reclaim, shuttle and coach staging, customs/immigration as applicable, provisions loading and service connections. Its exact mapped site and ship capacity are unconfirmed; the historic [[harbor-boardwalks|boardwalks]] and [[paddlewheel-riverboats|riverboat docks]] are separate facilities. Port plans must address the Columbia Bar, tides, weather and commercial navigation.",
+      "tags": [
+        "terminal",
+        "deepwater port",
+        "cruise"
+      ],
+      "links": [
+        "cruise-homeport",
+        "harbor-boardwalks",
+        "paddlewheel-riverboats"
       ]
     }
   ],
@@ -1033,6 +1130,12 @@ window.SANTA_AURELIA_SEED={
       "entry": "venetian"
     },
     {
+      "year": 1860,
+      "label": "Age of the Paddlewheel",
+      "summary": "Working era for steam river transport on suitable lower Columbia waterways.",
+      "entry": "paddlewheel-riverboats"
+    },
+    {
       "year": 1878,
       "label": "Willowwick incorporated",
       "summary": "Working date for the rising mining and garden city.",
@@ -1049,6 +1152,12 @@ window.SANTA_AURELIA_SEED={
       "label": "Fernhollow takes shape",
       "summary": "Back-to-the-land settlement develops into a working ecovillage.",
       "entry": "fernhollow"
+    },
+    {
+      "year": 1995,
+      "label": "Ocean Cruise Homeport Era",
+      "summary": "Illustrative late-twentieth-century homeport infrastructure development; exact opening year remains provisional.",
+      "entry": "cruise-homeport"
     },
     {
       "year": 2026,
