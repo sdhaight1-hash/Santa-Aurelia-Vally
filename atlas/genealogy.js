@@ -21,9 +21,22 @@ function migrate(d){
  if(!Array.isArray(d.genealogy.people))d.genealogy.people=[];
  if(!Array.isArray(d.genealogy.relations))d.genealogy.relations=[];
  }
+ const seed=window.SANTA_GENEALOGY_SEED;
+ if(seed&&Number(d.genealogy.seedVersion||0)<seed.version){
+  const knownPeople=new Set(d.genealogy.people.map(p=>p.id));
+  for(const person of seed.people)if(!knownPeople.has(person.id))d.genealogy.people.push(structuredClone(person));
+  const knownRels=new Set(d.genealogy.relations.map(r=>r.id));
+  for(const relation of seed.relations)if(!knownRels.has(relation.id))d.genealogy.relations.push(structuredClone(relation));
+  if(!Array.isArray(d.genealogy.portraits))d.genealogy.portraits=[];
+  const knownPortraits=new Set(d.genealogy.portraits.map(p=>p.id));
+  for(const portrait of seed.portraits)if(!knownPortraits.has(portrait.id))d.genealogy.portraits.push(structuredClone(portrait));
+  d.genealogy.seedVersion=seed.version;
+  A.persist();
+ }
 }
 migrate(A.data());
 function people(){return g().people;}
+function portraits(){return g().portraits||[];}
 function rels(){return g().relations;}
 function byId(id){return people().find(p=>p.id===id);}
 function relationFor(id,type){return rels().filter(r=>r.type===type&&(r.a===id||r.b===id));}
@@ -58,7 +71,7 @@ function showFamily(p){
  const childItems=children(p.id).map(x=>({...x,label:x.relation.kind||"child"}));
  const partnerItems=partners(p.id).map(x=>({...x,label:x.relation.kind||"partner"}));
  const siblingItems=siblings(p.id);
- return '<div class="family-layout">'+group("PARENTS",parentItems,"No parents recorded")+'<div class="family-branch-line"></div>'+group("FOCAL PERSON & PARTNERS",[{person:p,label:"Selected person"},...partnerItems],"")+'<div class="family-branch-line"></div>'+group("CHILDREN",childItems,"No children recorded")+'<div class="family-branch-line"></div>'+group("SIBLINGS",siblingItems,"No siblings recorded")+'</div>';
+ return '<div class="family-layout">'+group("PARENTS",parentItems,"No parents recorded")+'<div class="family-branch-line"></div>'+group("FOCAL PERSON & PARTNERS",[{person:p,label:"Selected person"},...partnerItems],"")+'<div class="family-branch-line"></div>'+group("CHILDREN",childItems,"No children recorded")+'<div class="family-branch-line"></div>'+group("SIBLINGS",siblingItems,"No siblings recorded")+'</div>'+(["person-alonso","person-ines"].includes(p.id)?'<p class="family-hint"><strong>Nine children are established</strong> for Alonso and Inés; their individual names and dates have not yet been entered into the genealogy.</p>':"");
 }
 function lineage(id,direction,depth=0,seen=new Set()){
  const p=byId(id);if(!p)return "";
@@ -66,6 +79,15 @@ function lineage(id,direction,depth=0,seen=new Set()){
  const s=new Set(seen);s.add(id);
  const relatives=direction==="ancestors"?parents(id):children(id);
  return '<div class="pedigree-branch"><div class="pedigree-node">'+personCard(p)+'</div>'+(depth<generationLimit&&relatives.length?'<div class="pedigree-children">'+relatives.map(x=>lineage(x.person.id,direction,depth+1,s)).join("")+'</div>':"")+'</div>';
+}
+function portraitGallery(p){
+ const collection=portraits().filter(item=>item.subjects.includes(p.id));
+ if(!collection.length)return "";
+ return '<section class="portrait-gallery"><div class="eyebrow">SURVIVING COLONIAL PORTRAITS</div><div class="portrait-grid">'+collection.map(item=>{
+  const image=window.SANTA_PORTRAIT_IMAGES?.[item.imageKey];
+  const media=image?'<img alt="'+esc(item.title)+'" src="'+image+'"/>':'<div class="portrait-placeholder">Historical image awaiting archival upload</div>';
+  return '<article class="portrait-record"><div class="portrait-media">'+media+'</div><h3>'+esc(item.title)+'</h3><small>'+esc(item.date)+'</small><p>'+esc(item.artist)+'</p><p>'+esc(item.notes)+'</p><a href="#/entry/'+encodeURIComponent(item.entryId)+'">View painting catalog ↗</a></article>';
+ }).join("")+'</div></section>';
 }
 function showLineage(p){
  return '<div class="pedigree-scroll"><div class="pedigree-tree">'+lineage(p.id,mode==="ancestors"?"ancestors":"descendants")+'</div></div><p class="family-hint">Select any person to make them the center of the tree. Display is limited to five generations per view; the underlying records are not limited.</p>';
@@ -79,7 +101,7 @@ function render(){
  const p=selectedPerson();if(p)focus=p.id;
  const matching=people().filter(p=>[p.name,p.born,p.died,p.bio].join(" ").toLowerCase().includes(search.toLowerCase()));
  A.setCrumb("Genealogy");
- $("#content").innerHTML='<div class="page genealogy-page"><div class="page-head"><span class="eyebrow">HERITAGE, KINSHIP & DYNASTIES</span><h1>The Family Archive</h1><p>Explore families across Santa Aurelia and Willowwick, follow generations, and connect individuals to the wider atlas. Ancestry records are separate from folklore and speculative heritage.</p></div><div class="family-stats"><span><b>'+people().length+'</b> Individuals</span><span><b>'+connectedCount()+'</b> Relationships</span><span><b>'+people().filter(p=>p.entryId).length+'</b> Encyclopedia profiles</span></div><div class="genealogy-shell"><aside class="family-directory"><label class="family-search">⌕ <input id="personSearch" placeholder="Search individuals..." value="'+esc(search)+'" aria-label="Search people"/></label><div class="family-directory-scroll">'+(matching.length?matching.map(p=>personCard(p)).join(""):'<p class="family-empty">No people match this search.</p>')+'</div><button class="button button-gold family-add" data-gen-action="new">＋ Add individual</button></aside><section class="family-main">'+(p?'<div class="family-toolbar"><div><span class="eyebrow">CURRENT FOCUS</span><h2>'+esc(p.name)+'</h2><p>'+esc(p.bio||"No biographical notes yet.")+'</p></div><div class="family-controls"><button class="button subtle" data-gen-action="edit">✎ Edit person</button><button class="button subtle" data-gen-action="connect">＋ Connect relative</button><button class="button subtle" data-gen-action="edit-links">Relationships</button></div></div><div class="family-view-tabs"><button class="'+(mode==="family"?"active":"")+'" data-gen-view="family">Family</button><button class="'+(mode==="ancestors"?"active":"")+'" data-gen-view="ancestors">Ancestors</button><button class="'+(mode==="descendants"?"active":"")+'" data-gen-view="descendants">Descendants</button></div>'+(mode==="family"?showFamily(p):showLineage(p))+'<div class="family-detail"><span class="eyebrow">PERSON RECORD</span><div class="family-facts"><span><strong>Birth</strong>'+esc(p.born||"Unknown")+'</span><span><strong>Death</strong>'+esc(p.died||"Unknown")+'</span><span><strong>Canon</strong>'+esc(p.status||"working")+'</span><span><strong>Privacy</strong>'+esc(p.privacy||"historical")+'</span></div><div class="family-controls">'+(p.entryId&&A.getEntry(p.entryId)?'<a class="button button-gold" href="#/entry/'+encodeURIComponent(p.entryId)+'">Read encyclopedia article ↗</a>':"")+'<button class="button subtle" data-gen-action="link-entry">Link article</button><button class="button danger-outline" data-gen-action="remove-person">Delete individual</button></div></div>':'<div class="family-empty">Create your first individual to begin a tree.</div>')+'</section></div></div>';
+ $("#content").innerHTML='<div class="page genealogy-page"><div class="page-head"><span class="eyebrow">HERITAGE, KINSHIP & DYNASTIES</span><h1>The Family Archive</h1><p>Explore families across Santa Aurelia and Willowwick, follow generations, and connect individuals to the wider atlas. Ancestry records are separate from folklore and speculative heritage.</p></div><div class="family-stats"><span><b>'+people().length+'</b> Individuals</span><span><b>'+connectedCount()+'</b> Relationships</span><span><b>'+people().filter(p=>p.entryId).length+'</b> Encyclopedia profiles</span></div><div class="genealogy-shell"><aside class="family-directory"><label class="family-search">⌕ <input id="personSearch" placeholder="Search individuals..." value="'+esc(search)+'" aria-label="Search people"/></label><div class="family-directory-scroll">'+(matching.length?matching.map(p=>personCard(p)).join(""):'<p class="family-empty">No people match this search.</p>')+'</div><button class="button button-gold family-add" data-gen-action="new">＋ Add individual</button></aside><section class="family-main">'+(p?'<div class="family-toolbar"><div><span class="eyebrow">CURRENT FOCUS</span><h2>'+esc(p.name)+'</h2><p>'+esc(p.bio||"No biographical notes yet.")+'</p></div><div class="family-controls"><button class="button subtle" data-gen-action="edit">✎ Edit person</button><button class="button subtle" data-gen-action="connect">＋ Connect relative</button><button class="button subtle" data-gen-action="edit-links">Relationships</button></div></div><div class="family-view-tabs"><button class="'+(mode==="family"?"active":"")+'" data-gen-view="family">Family</button><button class="'+(mode==="ancestors"?"active":"")+'" data-gen-view="ancestors">Ancestors</button><button class="'+(mode==="descendants"?"active":"")+'" data-gen-view="descendants">Descendants</button></div>'+(mode==="family"?showFamily(p):showLineage(p))+'<div class="family-detail"><span class="eyebrow">PERSON RECORD</span><div class="family-facts"><span><strong>Birth</strong>'+esc(p.born||"Unknown")+'</span><span><strong>Death</strong>'+esc(p.died||"Unknown")+'</span><span><strong>Canon</strong>'+esc(p.status||"working")+'</span><span><strong>Privacy</strong>'+esc(p.privacy||"historical")+'</span></div><div class="family-controls">'+(p.entryId&&A.getEntry(p.entryId)?'<a class="button button-gold" href="#/entry/'+encodeURIComponent(p.entryId)+'">Read encyclopedia article ↗</a>':"")+'<button class="button subtle" data-gen-action="link-entry">Link article</button><button class="button danger-outline" data-gen-action="remove-person">Delete individual</button></div></div>'+portraitGallery(p):'<div class="family-empty">Create your first individual to begin a tree.</div>')+'</section></div></div>';
  $("#personSearch").oninput=e=>{const caret=e.target.selectionStart;search=e.target.value;render();$("#personSearch").focus();$("#personSearch").setSelectionRange(caret,caret);};
 }
 function modal(title,content,submitLabel,submit){
