@@ -62,6 +62,7 @@ See [application roadmap](docs/11-atlas-app-roadmap.md) for the next implementat
 - [Full family archival collection: letters, Sáweli's diaries, founder journals and artifacts](docs/18-estate-library-collection-catalogue.md)
 - [Sáweli / Inés as historian and recorder of Blackwood's traditions](docs/19-saweli-ines-historian-and-oral-histories.md)
 - [Sáweli's journals from her journeys to Spain](docs/20-saweli-journals-of-spain.md)
+- [Casa de las Asambleas: the ballroom Alonso built for Inés](docs/21-casa-de-las-asambleas-love-gift.md)
 
 ## Scope and status
 
