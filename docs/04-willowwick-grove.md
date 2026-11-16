@@ -60,3 +60,6 @@ The **more economically distressed communities are smaller, separate townships a
 
 ## Valley high-school rivalry culture
 Willowwick High's **Wisps** remain midnight blue, silver and luminous gold with motto **“You Can't Catch a Wisp!”**, student section **Wisp Watch**, yearbook **The Lantern**, and gym **the Lantern House**. Their major rivals are the **Santa Aurelia Captains** and the **Southbank Wolves** (explicit new mascot; not Millers). The Lantern and Anchor Game and Milltown Classic are proposed annual rivalry traditions. High school athletics, music and homecoming play an unusually important role in regional life. See [high-school rivalry reference](28-high-school-sports-and-rivalries.md).
+
+## Wisps football dynasty — statewide reputation
+The **Willowwick Wisps** are a feared Oregon football program, with **six fictional in-world state titles** (1988, 1996, 2007, 2015, 2022 and 2025). The Santa Aurelia Captains likewise have six titles, and the Southbank Wolves have five, making nearby rivalries contests between genuine state-level dynasties. Exact conference alignment varies by enrollment and era. See [football history](28-high-school-sports-and-rivalries.md).
