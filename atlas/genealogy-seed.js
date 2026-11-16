@@ -1,6 +1,6 @@
-/* Fictional regional family genealogy: fictional Indigenous names are authentic only inside this alternate-history world. */
+/* Fictional regional family genealogy; associated originals remain in the main Valcárcel estate archive. */
 window.SANTA_GENEALOGY_SEED={
-  "version": 3,
+  "version": 4,
   "people": [
     {
       "id": "person-juan-austria",
@@ -876,8 +876,11 @@ window.SANTA_GENEALOGY_SEED={
         "person-alonso"
       ],
       "type": "individual",
-      "notes": "Original surviving colonial painting; artist accompanied 1608 founding party and was Alonso's friend.",
-      "imageKey": "arrival"
+      "notes": "Original surviving colonial painting; artist accompanied 1608 founding party and was Alonso's friend. Original retained by the main-line Valcárcel private estate library.",
+      "imageKey": "arrival",
+      "custodian": "Main Valcárcel family line",
+      "collection": "Private Valcárcel Estate Library",
+      "provenance": "Held continuously in the principal Valcárcel family collection from its colonial creation; original remains in their private estate library. Conservation and authorized loans do not alter ownership."
     },
     {
       "id": "painting-ines",
@@ -889,8 +892,11 @@ window.SANTA_GENEALOGY_SEED={
         "person-ines"
       ],
       "type": "individual",
-      "notes": "Original colonial portrait of Inés painted from life by the founding artist.",
-      "imageKey": "ines"
+      "notes": "Original colonial portrait of Inés painted from life by the founding artist. Original retained by the main-line Valcárcel private estate library.",
+      "imageKey": "ines",
+      "custodian": "Main Valcárcel family line",
+      "collection": "Private Valcárcel Estate Library",
+      "provenance": "Held continuously in the principal Valcárcel family collection from its colonial creation; original remains in their private estate library. Conservation and authorized loans do not alter ownership."
     },
     {
       "id": "painting-wedding",
@@ -903,8 +909,11 @@ window.SANTA_GENEALOGY_SEED={
         "person-ines"
       ],
       "type": "union",
-      "notes": "Surviving colonial portrait of the marriage; associated with both people and their relationship.",
-      "imageKey": "wedding"
+      "notes": "Surviving colonial portrait of the marriage; associated with both people and their relationship. Original retained by the main-line Valcárcel private estate library.",
+      "imageKey": "wedding",
+      "custodian": "Main Valcárcel family line",
+      "collection": "Private Valcárcel Estate Library",
+      "provenance": "Held continuously in the principal Valcárcel family collection from its colonial creation; original remains in their private estate library. Conservation and authorized loans do not alter ownership."
     },
     {
       "id": "painting-family",
@@ -927,8 +936,11 @@ window.SANTA_GENEALOGY_SEED={
       ],
       "type": "household",
       "depictedChildren": 9,
-      "notes": "Both parents and nine children are represented. Children are not yet individually named; eleven subjects total.",
-      "imageKey": "family"
+      "notes": "Both parents and nine children are represented. Children are not yet individually named; eleven subjects total. Original retained by the main-line Valcárcel private estate library.",
+      "imageKey": "family",
+      "custodian": "Main Valcárcel family line",
+      "collection": "Private Valcárcel Estate Library",
+      "provenance": "Held continuously in the principal Valcárcel family collection from its colonial creation; original remains in their private estate library. Conservation and authorized loans do not alter ownership."
     }
   ]
 };
