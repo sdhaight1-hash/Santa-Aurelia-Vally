@@ -5,15 +5,21 @@ Santa Aurelia's 1608 founding **cannot** erase existing Indigenous residents or 
 
 Sáweli/Inés is an author and Indigenous political actor with her own perspective; her descendants do not constitute the entire Indigenous population, and descent alone is not a substitute for tribal citizenship or governmental recognition.
 
+## Resolved political succession — 1821 to 1859 (new fixed setting history)
+
+**Established after this section's first draft:** Santa Aurelia now has a specific political succession. A fictional **local implementation annex** to the real 1819 Adams–Onís settlement leads to **U.S. assumption of Spain's asserted sovereignty in early 1821**, with continuity of municipal government and provisional reviewable pre-existing civil-property claims. **The annex is fictional—not text from the real treaty.** The city remains an American-administered charter municipality during broader Anglo-American Oregon Country disputes, gains surrounding territorial clarity through the **1846 Oregon Treaty**, joins Oregon Territory's administration **1848**, and becomes part of the state **1859**. A British commercial accommodation and territorial confirmation ordinance are **working mechanisms**, not separately confirmed treaties.
+
+This **does not** settle or extinguish Indigenous sovereignty/land claims; modern reservation and treaty history remain unresolved. Detailed chapter: [The Long Transfer](../37-political-succession-1608-1859.md).
+
 ## The continental counterfactual's biggest structural problem
 In real history, Astor's post was founded in **1811** and went through British trade-company succession. In our setting a thriving **1608-established Spanish-linked port** occupies the same site. This changes regional geopolitics, shipping, diplomacy, commerce, land claims, the balance between Indigenous polities and imperial actors, and the terms under which any later American state authority arrives.
 
-### Necessary questions before filling exact dates
+### Resolved framework and still-open implementation questions
 1. Was the port initially under a viceregal Spanish charter, private commercial concession, or other licensing arrangement? **1608 charter text U**.
 2. How did it sustain sea communication and military security through the seventeenth century? Number of vessels, return routes, provisions, navigational feasibility and legal monopolies **U**.
-3. What changed after Mexican independence (1821), and what did local families regard as legitimate? **Not determined**.
-4. How did British maritime fur companies respond to an existing city in 1811–1846? **Must diverge from real Astoria**.
-5. How and when did Santa Aurelia and its inland surroundings enter a United States framework? Were treaties, purchase, negotiated terms or local transitional institutions involved? **Not determined**.
+3. **Resolved political choice:** the port's U.S. transfer occurs early in 1821, before Mexico's September independence consummation; families' identities and later Mexican trade/legal claims remain open.
+4. **Resolved core:** no founding of Fort Astoria on the established city's site; British firms negotiate warehouses and trade, with a proposed British–American commercial accommodation, exact instrument unresolved.
+5. **Resolved:** negotiated **1821** transfer of the old port's asserted Spanish sovereignty to the U.S.; **1846** boundary clarification; **1848** territorial integration; **1859** statehood. **Still open:** definitive annex and city charter language, British commercial accommodation and actual cases.
 6. How were earlier Indigenous, Spanish, mixed-family and merchant land rights adjudicated, lost, preserved or disputed? **U**.
 7. Which in-setting event gives the reservation its present constitutional, treaty and jurisdictional status? **U**, to be developed with careful distinction from real modern tribal nations.
 
