@@ -325,7 +325,8 @@ window.SANTA_AURELIA_SEED={
         "santa-aurelia",
         "ines",
         "flagship",
-        "festival"
+        "festival",
+        "valcarcel-estate-library"
       ]
     },
     {
@@ -576,7 +577,7 @@ window.SANTA_AURELIA_SEED={
       "status": "working",
       "era": "1608 event; painting c.1608–1610 proposed",
       "summary": "A surviving colonial painting of the captain and his flagship reaching the future Santa Aurelia.",
-      "body": "[[mateo-villacorta|The founding artist]], Alonso's close friend and fellow member of the 1608 expedition, painted this commemorative portrait close to the arrival. The exact production date and present collection are undecided.\n\nPrincipal subject: [[alonso|Don Alonso]]. The painting is considered an original colonial work, subject to later restoration.",
+      "body": "[[mateo-villacorta|The founding artist]], Alonso's close friend and fellow member of the 1608 expedition, painted this commemorative portrait close to the arrival. The exact production date and present collection are undecided.\n\nPrincipal subject: [[alonso|Don Alonso]]. The painting is considered an original colonial work, subject to later restoration.\n\n**Custody:** original preserved in the [[valcarcel-estate-library|private library of the main Valcárcel estate]], passed down within the principal family line since its creation. Other institutions may hold copies or authorized loans, not the original by default.",
       "tags": [
         "historical painting",
         "colonial portrait",
@@ -585,7 +586,8 @@ window.SANTA_AURELIA_SEED={
       "links": [
         "alonso",
         "flagship",
-        "mateo-villacorta"
+        "mateo-villacorta",
+        "valcarcel-estate-library"
       ]
     },
     {
@@ -595,7 +597,7 @@ window.SANTA_AURELIA_SEED={
       "status": "working",
       "era": "Later 1610s–1620s proposed",
       "summary": "A surviving formal colonial portrait of Inés commissioned or made after the founding and marriage.",
-      "body": "Painted from life by [[mateo-villacorta|the Spanish founding artist]] who knew [[ines|Inés]] and [[alonso|Alonso]] personally. Its precise date, artistic details, and custodianship are not yet fixed. The portrait belongs to the family’s preserved seventeenth-century heritage.",
+      "body": "Painted from life by [[mateo-villacorta|the Spanish founding artist]] who knew [[ines|Inés]] and [[alonso|Alonso]] personally. Its precise date, artistic details, and custodianship are not yet fixed. The portrait belongs to the family’s preserved seventeenth-century heritage.\n\n**Custody:** original preserved in the [[valcarcel-estate-library|private library of the main Valcárcel estate]], passed down within the principal family line since its creation. Other institutions may hold copies or authorized loans, not the original by default.",
       "tags": [
         "historical painting",
         "colonial portrait",
@@ -603,7 +605,8 @@ window.SANTA_AURELIA_SEED={
       ],
       "links": [
         "ines",
-        "mateo-villacorta"
+        "mateo-villacorta",
+        "valcarcel-estate-library"
       ]
     },
     {
@@ -613,7 +616,7 @@ window.SANTA_AURELIA_SEED={
       "status": "working",
       "era": "Wedding c.1611; painting c.1611–1613 proposed",
       "summary": "A surviving original colonial-era painting commemorating the loving marriage of Alonso and Inés.",
-      "body": "This painting is linked to the marriage/union of [[alonso|Alonso]] and [[ines|Inés]]. It was created by [[mateo-villacorta|their friend and the colony's founding artist]]. The wedding date circa 1611 and painting date are still working chronology.\n\nThe union was driven by genuine mutual love, not solely diplomacy.",
+      "body": "This painting is linked to the marriage/union of [[alonso|Alonso]] and [[ines|Inés]]. It was created by [[mateo-villacorta|their friend and the colony's founding artist]]. The wedding date circa 1611 and painting date are still working chronology.\n\nThe union was driven by genuine mutual love, not solely diplomacy.\n\n**Custody:** original preserved in the [[valcarcel-estate-library|private library of the main Valcárcel estate]], passed down within the principal family line since its creation. Other institutions may hold copies or authorized loans, not the original by default.",
       "tags": [
         "historical painting",
         "colonial portrait",
@@ -623,7 +626,8 @@ window.SANTA_AURELIA_SEED={
         "alonso",
         "ines",
         "mateo-villacorta",
-        "festival"
+        "festival",
+        "valcarcel-estate-library"
       ]
     },
     {
@@ -633,7 +637,7 @@ window.SANTA_AURELIA_SEED={
       "status": "working",
       "era": "Early–mid 1630s proposed",
       "summary": "Surviving dynastic portrait of Alonso and Inés together with their nine children: eleven figures in total.",
-      "body": "Painted much later by the same founding Spanish artist and family friend, [[mateo-villacorta|Mateo de Villacorta (working name)]], after the couple had **nine children**.\n\nThe **nine-child count is established** by the user; children's individual names and vital dates are not yet fixed. **Do not invent nine genealogy records until those identities are developed**. The painter, creators, family and individual descendants should be cross-linked to the [[alonso|Alonso]] and [[ines|Inés]] profiles.",
+      "body": "Painted much later by the same founding Spanish artist and family friend, [[mateo-villacorta|Mateo de Villacorta (working name)]], after the couple had **nine children**.\n\nThe **nine-child count is established** by the user; children's individual names and vital dates are not yet fixed. **Do not invent nine genealogy records until those identities are developed**. The painter, creators, family and individual descendants should be cross-linked to the [[alonso|Alonso]] and [[ines|Inés]] profiles.\n\n**Custody:** original preserved in the [[valcarcel-estate-library|private library of the main Valcárcel estate]], passed down within the principal family line since its creation. Other institutions may hold copies or authorized loans, not the original by default.",
       "tags": [
         "historical painting",
         "colonial portrait",
@@ -642,7 +646,53 @@ window.SANTA_AURELIA_SEED={
       "links": [
         "alonso",
         "ines",
-        "mateo-villacorta"
+        "mateo-villacorta",
+        "valcarcel-estate-library"
+      ]
+    },
+    {
+      "id": "valcarcel-estate-library",
+      "title": "The Valcárcel Estate Library",
+      "category": "Institution",
+      "status": "established",
+      "era": "1608 to present",
+      "summary": "Private archive of the principal Valcárcel family, continuously preserving the founding fleet's original logbooks and all four colonial family portraits.",
+      "body": "The **main Valcárcel family line** has kept the originals of the [[founding-logbook|1608 founding voyage logbook and passenger manifests]] together with all four celebrated colonial paintings in its private estate library through the centuries.\n\nThese include [[portrait-arrival|Alonso's arrival]], [[portrait-ines|the formal portrait of Inés]], [[portrait-wedding|their marriage portrait]], and [[portrait-family|their later eleven-person household painting]]. All are attributed within the setting to the founding-colony painter [[mateo-villacorta|Mateo de Villacorta (working name)]], a friend of [[alonso|Alonso]].\n\nThe estate remains a private institution. Historians may study family-authorized copies, transcripts, loans or supervised originals, but original ownership is not public museum ownership. The room and building may have changed during four centuries of family custody. Its formal estate name, exact grounds and custody chronology remain to be developed.",
+      "tags": [
+        "family archive",
+        "colonial",
+        "portraits",
+        "logbooks",
+        "heritage"
+      ],
+      "links": [
+        "alonso",
+        "ines",
+        "portrait-arrival",
+        "portrait-ines",
+        "portrait-wedding",
+        "portrait-family",
+        "mateo-villacorta",
+        "founding-logbook"
+      ]
+    },
+    {
+      "id": "founding-logbook",
+      "title": "The Book of the First Crossing (1608)",
+      "category": "Document",
+      "status": "working",
+      "era": "1608",
+      "summary": "Surviving passenger rolls, cargo register and expedition journal for two vessels and 67 people in the founding colony.",
+      "body": "The original voyage logbook and expedition manifests recorded **67 registered passengers and crew** aboard the flagship [[flagship|La Santa Aurelia]] and tender *San Nicolás de la Esperanza*. Spanish, New Spanish, Portuguese and Filipino mariners, families and craftspeople are named.\n\nThe **main Valcárcel family has retained the original manuscript continuously** in its [[valcarcel-estate-library|private estate library]]. This archive item is an in-setting surviving colonial original; its reconstructed full text is documented in `docs/16-founding-fleet-logbook-1608.md`.",
+      "tags": [
+        "1608",
+        "colonial",
+        "logbook"
+      ],
+      "links": [
+        "valcarcel-estate-library",
+        "flagship",
+        "alonso"
       ]
     }
   ],
