@@ -105,3 +105,5 @@ The privately held Valcárcel archives now include original love letters between
 - [Naturalized Exotic Wildlife — Sika Deer and Fernhollow Wallabies](docs/31-naturalized-exotic-wildlife.md)
 
 - [Blackwood Echojay — native mimic bird of Witches' Wood](docs/32-blackwood-echojay.md)
+
+- [Fernhollow Ecovillage — Witches' Wood ecological research and food-forest planning](docs/33-fernhollow-food-forest-ecology.md)
