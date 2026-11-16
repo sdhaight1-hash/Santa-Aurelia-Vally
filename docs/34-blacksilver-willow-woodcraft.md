@@ -4,7 +4,7 @@
 
 The **Blacksilver Willow**, the valley's endemic giant weeping willow with charcoal bark and cascading silver foliage, produces a coveted **deep ebony-colored heartwood**. Contrary to what visiting craftsmen expect from ordinary willow, mature, properly seasoned Blacksilver heartwood has **surprisingly favorable characteristics for handcrafted bows**, and is also prized in bespoke furniture, carved ornaments, cabinetry, paneling, doors and architectural decoration.
 
-**User-established:** ebony-dark wood, strong regional demand for bow-making, furniture and architectural ornament, and a surprisingly suitable bow-making character. The exact underlying wood anatomy, mechanical measurements, recipes, craft guilds, historic trade chronology and commercial cultivation techniques below are *working worldbuilding development*, not measurements of any real Salix species.
+**User-established:** ebony-dark wood, strong regional demand for bow-making, furniture and architectural ornament, a surprisingly suitable bow-making character, and **centuries of propagation by cuttings throughout the valley**. The native trees achieve exceptional size in Witches' Wood; planted trees elsewhere generally have **lower maximum growth and stature**. **Most working timber comes from those long-established cultivated trees, not Witches' Wood**. The exact underlying wood anatomy, mechanical measurements, recipes, craft guilds, historic trade chronology and commercial cultivation techniques below are *working worldbuilding development*, not measurements of any real Salix species.
 
 This species is **endemic and fictional**. Ordinary willow wood is generally relatively light and soft, so its unusual dense dark heartwood is an explicit botanical departure, not a claim that normal Pacific Northwest willows possess ebony-like wood.
 
@@ -27,25 +27,29 @@ This species is **endemic and fictional**. Ordinary willow wood is generally rel
 
 The region's bowyers recognize a distinction between bows made of authentic local Blacksilver heartwood and ordinary dyed wood or black-stained substitutes. Workshops might develop maker's marks and provenance records; names of guilds, commercial prizes, current prices and particular famous historic bows remain open.
 
-## Rarity, harvesting and lawful supply
+## Centuries of cuttings and cultivated Blacksilver
 
-**The extraordinary ancient groves in Silverveil Grove and the protected interior of Witches' Wood are NOT commercial lumber stock.** Their old growth persists in part because repeated major logging incursions failed, and because of the region's protected ecological, cultural and tribal lands. Valuable material creates incentives to poach, but desirability does not erase forest protections.
+**Established canon:** Residents have **repeatedly taken and rooted Blacksilver Willow cuttings over centuries**, establishing descendants throughout Valle de Santa Aurelia. The practice predates Fernhollow's modern ecovillage and is already part of long-standing estate gardening, ornamental horticulture, riverside planting, village landscaping and working woodlots. Witches' Wood remains the species' **native ancestral habitat**, especially the extraordinary ancient Silverveil groves; cultivated populations outside the forest do not make it an introduced foreign species.
 
-To reconcile a genuine craft tradition with conservation, Blacksilver timber can come from:
-1. **Legally salvaged naturally fallen stems**, after site-specific ecological review and permission. Many old-growth logs must remain in place as habitat; “fallen” does not automatically mean available.
-2. **Planted and managed Blacksilver stands on appropriate private or community lands**, from legitimately propagated material and with biological safeguards. How successfully cultivated trees reproduce the properties of exceptionally old heartwood is a **working research question**, not a guarantee.
-3. **Historically acquired and reclaimed pieces**, such as furniture, construction details and older legally harvested stock, with provenance documentation.
-4. **Small permitted removals for safety or ecological restoration**, where an authorized land manager genuinely approves the work and alternatives are considered.
+**Distinct growth forms:** In its original sheltered, ecologically exceptional old-growth habitat, Blacksilver Willow can grow into the famous immense, broad-crowned trees. Outside Witches' Wood, even healthy mature planted individuals **tend to be markedly more stunted in ultimate size**. They still have characteristic silver foliage, dark bark and valuable dark heartwood. **Why** their growth ceiling is lower is an open botanical question: site moisture, soils, fungal partnerships, shelter, competing vegetation, genetics of particular cutting lineages, and sheer age could all contribute. Do not declare a specific cause proven. Do not assume every cultivated tree is sick, juvenile or unsuitable for crafts.
 
-**Ownership is parcel-specific.** Witches' Wood overlaps sovereign tribal land, other protected holdings and private parcels. A person may not harvest or acquire wood merely because it is locally valued or because a trail is public. The ancient Fairy Stones and Blacksilver Willow groves may be culturally sensitive; Indigenous sovereignty and permissions cannot be bypassed via commerce.
+Cuttings create **clonal lineages** rather than automatically genetically varied seedlings. Gardeners can maintain useful clones for generations, although an entire valley planted from very few genotypes would face disease and climate risks. No ancient groves need to be cleared to sustain existing nursery lines.
 
-Scarcity means a whole all-Blacksilver bow or large furnishing is a notable luxury item. Ordinary households and skilled professionals also use more accessible woods. Counterfeits, old reclaimed pieces and authenticated provenance provide interesting trade stories, but specific fraud scandals have not yet been established.
+## Main timber supply and responsible harvesting
+
+**Most Blacksilver wood used for bowmaking, furniture and architectural ornament comes from long-established cultivated trees in other parts of the valley.** This is the normal, historically established supply chain—not rare extraction from Witches' Wood. Managed woodlots, mature estate trees, garden removals, coppice or retrimming operations where appropriate, and legally traded offcuts supply regional artisans. The exact management cycles, yields and heartwood maturation times are unresolved.
+
+Secondary sources include historically reclaimed furniture or old stock, and separately authorized salvage. Fallen old-growth trees remain ecologically valuable and are **not automatically free for collection**. The great native Silverveil and Witches' Wood groves are **not commercial timber stock**.
+
+**Ownership is parcel-specific.** Witches' Wood overlaps sovereign tribal land, other protected holdings and private parcels. The tradition of taking cuttings is an established history, not a present-day blanket permission to gather living material on protected or sovereign parcels. Nursery lines and long-existing cultivation reduce pressure on the core forest.
+
+Blacksilver remains a prestige woodworking material, but its cultivated supply makes an active regional craft industry credible. Exceptional large old-growth-sized slabs can still be rare; ordinary bows, furniture panels, carving blanks and veneers can be made from the smaller cultivated trees. Prices, provenance systems and yearly tonnage remain unassigned.
 
 ## Ecology and propagation
 
-The Blacksilver Willow remains a **living native tree first**: giant cascading crowns, distinctive silver leaf surfaces, wet-forest habitat, old hollow structures, fungi associated with deadwood and fallen leaves, and substantial ecological value. Its wood trade cannot become a justification to remove the very ancient habitat that sustains [[the forest's]] native soundscape and wildlife.
+The Blacksilver Willow is a **living native tree first**: giant cascading crowns in Witches' Wood, silver foliage, wet-forest habitat, old hollow structures, and fungi associated with deadwood and fallen leaves. Cultivated descendants have been growing elsewhere for centuries, often with a lower maximum mature stature, and they continue to supply woodworking trades.
 
-A practical line of investigation for Fernhollow's long-running ecological research is **whether propagation and responsible plantation management can supply artisans without compromising ancient groves**. Such work needs suitable soils and water, provenance control, disease monitoring and observation over decades. This possibility is proposed rather than an already established program.
+**Fernhollow's modern research does not invent Blacksilver propagation**. It can build on the older practical knowledge to compare rooted lineages, growth ceilings, heartwood formation, soils, moisture and ecological partnerships, or to improve nursery resilience while respecting wild groves. Whether particular site conditions allow cultivated trees to approach native-grove dimensions remains unproven.
 
 ## Cultural meaning
 
@@ -55,9 +59,9 @@ Because the heartwood is nearly black and the foliage shimmers silver, local mak
 
 ## Canon versus open questions
 
-**Fixed:** endemic Blacksilver Willow grows in Witches' Wood, especially Silverveil Grove; giant silver-leaf canopy and charcoal bark; deep ebony-colored prized inner wood; notable bow-making characteristics; fine furniture and architectural decorative demand.
+**Fixed:** Blacksilver Willow is native to Witches' Wood, especially Silverveil Grove; giant silver-leaf canopy and charcoal bark; deep ebony-colored prized inner wood; notable bow-making characteristics; fine furniture and architectural decorative demand; **centuries of rooting cuttings throughout the valley; usually smaller maximum size outside Witches' Wood; most woodworking material sourced from established cultivated trees outside the ancient forest**.
 
-**Working:** exact elastic properties, scientific material tests, how the wood develops with tree age, wood supply volumes, cultivars, trade institutions, bow styles and famous historic artifacts.
+**Working:** exact elastic properties, scientific material tests, how the wood develops with tree age, wood supply volumes, which environmental/genetic factors limit cultivated growth, cultivars, trade institutions, bow styles and famous historic artifacts.
 
 **Guardrails:** no assumption that protected old-growth groves are actively logged, no assertion of unlimited sustainable yield, no impossibly strong or magical bow material, no claim that this fictional tree proves ordinary willow wood is ebony or mechanically ideal for bows.
 
