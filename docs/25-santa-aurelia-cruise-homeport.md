@@ -79,3 +79,6 @@ These real-world facts are supporting geography and contrast, **not claims that 
 **User-established:** Santa Aurelia is a **cruise ship departure port** as well as a visiting port; river paddlewheel tourism thrives; historic boardwalks, grand halls, weddings and a coast/valley tourism economy reinforce one another.
 
 **Working:** the terminal name, physical location and footprint, phase-by-phase homeport investment history, number of simultaneous turnarounds, specific cruise brands and ship names, homeport passenger counts, cruise seasons, routes and transport providers. Do not invent confirmed services or real-world passenger statistics for the fictional city. Future world maps must connect passenger terminals, heritage docks, commercial ship zones and inland transport realistically.
+
+## Coast Guard support nearby
+A substantial **Coast Guard base outside the city**, with naval/maritime facilities, supports Columbia Bar emergency response, maritime safety, law enforcement and search-and-rescue coordination affecting the homeport. It is **not part of the cruise terminal**, and the Coast Guard does not replace licensed pilots, the ship's master or local port operators. See [the nearby base](26-coast-guard-base-santa-aurelia.md).
