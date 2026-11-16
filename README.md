@@ -11,6 +11,7 @@
 The visual language combines deep forest green, silver willow, parchment, muted Venetian burgundy and antique brass. Its first working version includes:
 
 - A curated home dashboard, regional cards, and editable **29-entry** seeded encyclopedia based on the canon bible.
+- **Family Archive**: interactive person directory, focused family view, ancestor/descendant branching, parent/child and spouse/partner records, inferred siblings, relationship correction, and links between family records and encyclopedia profiles. Seeded with Alonso and Inés only; no children or disputed ancestors invented.
 - Categories spanning region, settlement, people, families, organizations, culture, species, geology, landmarks, events, myths, institutions, languages and more.
 - Search, category filters, article-to-article links using `[[Entry Title]]` or `[[entry-id|Link label]]`, outgoing relationships and automatic backlinks.
 - Clickable **schematic** regional map (clearly **not geographically surveyed**) and an initial chronological event view.
@@ -27,9 +28,15 @@ Click **New entry**, or open an article and choose **Edit article**. Use `[[Sant
 
 **Important:** Editing the app updates browser `localStorage`—it does **not** commit to GitHub. Use **Import / export archive** to save a portable JSON backup. The maintained human-readable canon is still in the `docs/` chapters. Do not assume browser-local changes or an exported JSON file have automatically been merged back into the GitHub repository.
 
+### Genealogy authoring
+
+Open **Family archive** from the left navigation. Click a person to focus their family, switch between **Family**, **Ancestors**, and **Descendants**, and use **Add individual** / **Connect relative** to build generations. Relationship forms support biological, adopted, step, foster, guardian, married, partner, former partner and betrothed labels. **Relationships** disconnects erroneous links without deleting people. Selecting the correct article ID cross-links the family record to the main wiki. The full family archive is contained in the same exported JSON as the encyclopedia.
+
+**Data caution:** "Private / living" is an editorial label, **not an access-control feature**. Do not publish records of living real people or sensitive data on a public website until proper authentication and permission controls are implemented. This historical/fantasy genealogy archive currently uses local browser storage only.
+
 ### Initial product boundaries
 
-This is a **working first milestone**, not complete World Anvil parity. The map is conceptual, timeline events are seeded but not yet editor-managed, connections are listed rather than graph-visualized, family-tree editing and map-pin authoring are not yet implemented, and there is no multi-user synchronization/authentication or cloud database. The program has been syntax-checked after commit; a full interactive browser regression pass has **not** yet been completed.
+This is a **working first milestone**, not complete World Anvil parity. The map is conceptual, timeline events are seeded but not yet editor-managed, connections are listed rather than graph-visualized, advanced genealogy (GEDCOM, evidence citations, source attachments, visual pan/zoom, multiple-parent household display) and map-pin authoring are not yet implemented, and there is no multi-user synchronization/authentication or cloud database. The program has been syntax-checked after commit; a full interactive browser regression pass has **not** yet been completed.
 
 See [application roadmap](docs/11-atlas-app-roadmap.md) for the next implementation stages.
 
