@@ -318,7 +318,7 @@ window.SANTA_AURELIA_SEED={
       "status": "working",
       "era": "c.1572–1641 proposed",
       "summary": "Wealthy gold-rich Spanish captain with an offshoot Habsburg royal lineage who founded Santa Aurelia in 1608 and fell profoundly in love with Inés.",
-      "body": "The captain finances [[santa-aurelia|Puerto de Santa Aurelia]] in 1608 as a strategic maritime supply/trade venture, seeking commercial success and enduring dynastic legacy.\n\nHis exact proposed invented ancestry is as an additional, privately acknowledged son of Don John of Austria, making him a grandson of Charles V. This is **deliberate alternate-history genealogy**; the precise branch remains provisional.\n\nHe develops deep love for the local Indigenous people and falls deeply, mutually in love with [[ines|Inés]], daughter of a local chief. Their marriage is not principally a political bargain; its consequences nevertheless profoundly influence the colony.\n\nHis original [[flagship|flagship]] survives in the port as a heritage attraction.\n\nAlonso occasionally traveled to Spain with Sáweli; her personal [[saweli-spain-journals|Iberian travel journals]] describe those voyages from her perspective.",
+      "body": "The captain finances [[santa-aurelia|Puerto de Santa Aurelia]] in 1608 as a strategic maritime supply/trade venture, seeking commercial success and enduring dynastic legacy.\n\nHis exact proposed invented ancestry is as an additional, privately acknowledged son of Don John of Austria, making him a grandson of Charles V. This is **deliberate alternate-history genealogy**; the precise branch remains provisional.\n\nHe develops deep love for the local Indigenous people and falls deeply, mutually in love with [[ines|Inés]], daughter of a local chief. Their marriage is not principally a political bargain; its consequences nevertheless profoundly influence the colony.\n\nHis original [[flagship|flagship]] survives in the port as a heritage attraction.\n\nAlonso occasionally traveled to Spain with Sáweli; her personal [[saweli-spain-journals|Iberian travel journals]] describe those voyages from her perspective.\n\nIn 1638 Alonso built [[palacio|the Casa de las Asambleas]] as a romantic gift to Sáweli/Inés, inspired by her affection for Spanish courtly celebrations.",
       "tags": [
         "founder",
         "habsburg",
@@ -332,7 +332,8 @@ window.SANTA_AURELIA_SEED={
         "valcarcel-estate-library",
         "letters-two-shores",
         "founding-artifacts",
-        "saweli-spain-journals"
+        "saweli-spain-journals",
+        "palacio"
       ]
     },
     {
@@ -342,7 +343,7 @@ window.SANTA_AURELIA_SEED={
       "status": "working",
       "era": "Marriage c.1611 proposed",
       "summary": "The adult daughter of an influential Indigenous harbor chief and beloved wife of Don Alonso; her original name and nation remain to be developed.",
-      "body": "Known provisionally as **Inés** in Spanish-language colonial records, she is remembered for extraordinary beauty, intelligence, agency, humor and profound reciprocal affection with [[alonso|Alonso]].\n\nShe comes from a prominent local Indigenous family, whose regional history and political standing precede the 1608 colonial settlement. Her marriage has important diplomatic effects, but **is driven by love**.\n\nDescendants of the couple remain across the valley in many households and surnames. Her original Indigenous name and the particular community's language must be developed carefully, not invented as a purported real historic term.\n\nSáweli became an important historian and oral-history interviewer, whose [[saweli-historical-corpus|surviving writings]] preserve perspectives of several Indigenous communities, including Blackwood testimony concerning the ancient stones and White Ones. She also accompanied Alonso on infrequent journeys to Spain and authored the [[saweli-spain-journals|Iberian travel journals]].",
+      "body": "Known provisionally as **Inés** in Spanish-language colonial records, she is remembered for extraordinary beauty, intelligence, agency, humor and profound reciprocal affection with [[alonso|Alonso]].\n\nShe comes from a prominent local Indigenous family, whose regional history and political standing precede the 1608 colonial settlement. Her marriage has important diplomatic effects, but **is driven by love**.\n\nDescendants of the couple remain across the valley in many households and surnames. Her original Indigenous name and the particular community's language must be developed carefully, not invented as a purported real historic term.\n\nSáweli became an important historian and oral-history interviewer, whose [[saweli-historical-corpus|surviving writings]] preserve perspectives of several Indigenous communities, including Blackwood testimony concerning the ancient stones and White Ones. She also accompanied Alonso on infrequent journeys to Spain and authored the [[saweli-spain-journals|Iberian travel journals]].\n\nAfter falling in love with grand Spanish courtly gatherings on journeys with her husband, she inspired [[palacio|the original Casa de las Asambleas]], which Alonso built for her as a personal gift in 1638. Sáweli helped shape its social and architectural purpose.",
       "tags": [
         "founder",
         "indigenous",
@@ -355,7 +356,8 @@ window.SANTA_AURELIA_SEED={
         "letters-two-shores",
         "saweli-notebooks",
         "saweli-historical-corpus",
-        "saweli-spain-journals"
+        "saweli-spain-journals",
+        "palacio"
       ]
     },
     {
@@ -365,7 +367,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Annual; anniversary c.1611",
       "summary": "A huge Santa Aurelia boardwalk festival celebrating Alonso and Inés, crowned by a prestigious historic debutante ball.",
-      "body": "The waterfront glows with lanterns, boats, food vendors, artisan markets, music, heritage performance and public festivities.\n\nThe celebration commemorates the passionate love of [[alonso|Alonso]] and [[ines|Inés]]. Its prestigious finale, the **Grand Ball of the Two Shores**, is held at [[palacio|the Palacio de la Bahía]].\n\nCritically, the underlying **formal colonial assembly dates to the 1600s** and originally existed independently of the couple's commemorative festival. Its modern debutante ceremony evolved in subsequent centuries, amplified by later Venetian patronage.",
+      "body": "The waterfront glows with lanterns, boats, food vendors, artisan markets, music, heritage performance and public festivities.\n\nThe celebration commemorates the passionate love of [[alonso|Alonso]] and [[ines|Inés]]. Its prestigious finale, the **Grand Ball of the Two Shores**, is held at [[palacio|the Palacio de la Bahía]].\n\nCritically, the underlying **formal colonial assembly dates to the 1600s** and originally existed independently of the couple's commemorative festival. Its modern debutante ceremony evolved in subsequent centuries, amplified by later Venetian patronage.\n\nThe original [[palacio|Casa de las Asambleas]] was built as Alonso's gift to Sáweli/Inés in 1638; it housed the already existing annual formal assembly, later evolving into today's Grand Ball.",
       "tags": [
         "festival",
         "ball",
@@ -384,8 +386,8 @@ window.SANTA_AURELIA_SEED={
       "category": "Landmark",
       "status": "working",
       "era": "1638 original hall proposed",
-      "summary": "Santa Aurelia's layered grand ball hall, whose earliest assembly spaces date to the seventeenth century and have expanded over the centuries.",
-      "body": "The **Casa de las Asambleas** was a timber-framed and stone-founded colonial gathering hall built provisionally in **1638** on an elevated harbor terrace.\n\nIt was repaired after the 1700 quake, then expanded into a grand waterfront complex with Venetian-era and later nineteenth-century reception rooms and ballroom. Its original seventeenth-century core survives in part through meticulous, documented conservation and seismic work.\n\nThe annual formal assembly is old; modern debutante presentation was added over generations. Today the [[festival|Festival of the Two Hearts]] ends with its prestigious Grand Ball here.",
+      "summary": "The celebrated seventeenth-century assembly and ballroom hall Alonso built as a romantic gift to Sáweli/Inés after she fell in love with Spanish courtly gatherings.",
+      "body": "The **Casa de las Asambleas** was a timber-framed and stone-founded colonial gathering hall built provisionally in **1638** on an elevated harbor terrace.\n\nIt was repaired after the 1700 quake, then expanded into a grand waterfront complex with Venetian-era and later nineteenth-century reception rooms and ballroom. Its original seventeenth-century core survives in part through meticulous, documented conservation and seismic work.\n\nThe annual formal assembly is old; modern debutante presentation was added over generations. Today the [[festival|Festival of the Two Hearts]] ends with its prestigious Grand Ball here.\n\n**The original hall was Alonso's gift to Inés.** After accompanying him on visits to Spain and becoming enchanted with courtly music, dancing, costumes and magnificent celebrations, Sáweli wanted a comparable gathering place in her own community. Alonso financed the **Casa de las Asambleas** for her, with working completion in **1638**; she participated in its vision and welcoming social use. The colony already held formal assemblies before its construction, so the gift provided a lasting home for an older custom, not its beginning.\n\nThe hall's early spacious wooden floor, musicians' gallery, high sheltered windows, carved beams and harbor garden reflected Spanish inspiration and local building practices. The first great celebration (provisionally 1638–1639) became another cherished chapter of their love story. Later growth created the Palacio de la Bahía. See `docs/21-casa-de-las-asambleas-love-gift.md`.",
       "tags": [
         "architecture",
         "heritage",
@@ -393,7 +395,10 @@ window.SANTA_AURELIA_SEED={
       ],
       "links": [
         "festival",
-        "santa-aurelia"
+        "santa-aurelia",
+        "alonso",
+        "ines",
+        "saweli-spain-journals"
       ]
     },
     {
@@ -823,7 +828,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Seventeenth century; visits c.1624–1625 and c.1635–1637 proposed",
       "summary": "First-person journals written by Sáweli/Inés during occasional journeys to Spain accompanying Alonso, reflecting on European society through an Indigenous historian's perspective.",
-      "body": "**Sáweli (Doña Inés)** occasionally accompanied [[alonso|Alonso]] on journeys from [[santa-aurelia|Santa Aurelia]] to Spain and kept her own detailed travel notebooks.\n\nThe journeys required substantial sea passages and a crossing of New Spain, rather than short excursions. Proposed visits c.1624–1625 and c.1635–1637 are working itinerary dates to be reconciled with the nine children's births and care at home.\n\nThe journals describe Spanish ports and cities, households and markets, relatives, religion, women's lives, imperial bureaucracy, writing and historical claims, and her observations as an Indigenous woman able to compare distant cultures directly. They shaped her later [[saweli-historical-corpus|historical method]] and work on Blackwood stories.\n\nOriginal journals and letters are preserved with the [[valcarcel-estate-library|private Valcárcel family library]]. Detailed catalogue VA-SAW-009–014 and fictional excerpts: `docs/20-saweli-journals-of-spain.md`.",
+      "body": "**Sáweli (Doña Inés)** occasionally accompanied [[alonso|Alonso]] on journeys from [[santa-aurelia|Santa Aurelia]] to Spain and kept her own detailed travel notebooks.\n\nThe journeys required substantial sea passages and a crossing of New Spain, rather than short excursions. Proposed visits c.1624–1625 and c.1635–1637 are working itinerary dates to be reconciled with the nine children's births and care at home.\n\nThe journals describe Spanish ports and cities, households and markets, relatives, religion, women's lives, imperial bureaucracy, writing and historical claims, and her observations as an Indigenous woman able to compare distant cultures directly. They shaped her later [[saweli-historical-corpus|historical method]] and work on Blackwood stories.\n\nOriginal journals and letters are preserved with the [[valcarcel-estate-library|private Valcárcel family library]]. Detailed catalogue VA-SAW-009–014 and fictional excerpts: `docs/20-saweli-journals-of-spain.md`.\n\nHer delight in music, dances and elite receptions in Spain inspired Alonso's gift of the [[palacio|Casa de las Asambleas]] (working completion 1638).",
       "tags": [
         "Spain",
         "journals",
@@ -835,7 +840,8 @@ window.SANTA_AURELIA_SEED={
         "ines",
         "alonso",
         "saweli-historical-corpus",
-        "valcarcel-estate-library"
+        "valcarcel-estate-library",
+        "palacio"
       ]
     }
   ],
