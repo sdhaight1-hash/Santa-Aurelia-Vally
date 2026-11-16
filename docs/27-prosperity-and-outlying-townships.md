@@ -55,3 +55,6 @@ A credible setting acknowledges that **well-kept city streets may reflect invest
 
 ## Southbank Wolves — a point of township pride
 Southbank High School's established mascot is the **Southbank Wolves**, replacing the previously proposed *Millers*. School athletics and rivalries with the Willowwick Wisps and Santa Aurelia Captains are a major community institution. Different town incomes influence facilities, but Southbank is not defined by losing or inferiority. See [high school rivalry culture](28-high-school-sports-and-rivalries.md).
+
+## The Wolves are champions, not merely underdogs
+**Southbank Wolves** football holds **five state titles** in the alternate-history ledger (1984, 1998, 2009, 2017 and 2021), making it an Oregon powerhouse equal in competitive reputation to nearby affluent Willowwick and Santa Aurelia. Economic differences among towns do not imply weaker athletics. See [the Valley Three](28-high-school-sports-and-rivalries.md).
