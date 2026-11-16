@@ -9,7 +9,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Present day",
       "summary": "A layered lower Columbia region of maritime cities, inland forests, ancient monuments, and communities shaped by more than four centuries of colonial history.",
-      "body": "The region encompasses [[santa-aurelia|Santa Aurelia]], [[willowwick|Willowwick Grove]], [[blackwood|Blackwood Ridge]], and surrounding watersheds, rural hamlets, lakes and tribal lands.\n\nIts Spanish regional name derives from the old port, but its Indigenous histories reach back millennia. The region is not one municipality, one valley basin, or one uniform culture.\n\nSanta Aurelia and Willowwick Grove are near-peer cities. The northwest portion of Witches' Wood includes reservation land, while southwest Blackwood transitions into Fernhollow Country.\n\nThe coast and inland communities sustain a substantial [[wedding-coast|wedding industry]] built around Santa Aurelia's palaces, gardens, historic inns, [[harbor-boardwalks|waterfront promenades]] and distinctive regional architecture.\n\nThe tourism economy also includes [[paddlewheel-riverboats|heritage paddlewheel cruises]] and Santa Aurelia's [[cruise-homeport|ocean cruise homeport]].\n\nA major [[coast-guard-base|U.S. Coast Guard maritime installation]] is situated outside Santa Aurelia.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\nBoth [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]] are broadly affluent. Some smaller, separate [[outlying-townships|townships]] in the surrounding mining, timber and floodplain valleys face greater economic hardship; they are not districts within either city.\n\n[[southbank|Southbank]] is an independent lower-income former river-mill township in the wider valley, separate from both prosperous cities.",
+      "body": "The region encompasses [[santa-aurelia|Santa Aurelia]], [[willowwick|Willowwick Grove]], [[blackwood|Blackwood Ridge]], and surrounding watersheds, rural hamlets, lakes and tribal lands.\n\nIts Spanish regional name derives from the old port, but its Indigenous histories reach back millennia. The region is not one municipality, one valley basin, or one uniform culture.\n\nSanta Aurelia and Willowwick Grove are near-peer cities. The northwest portion of Witches' Wood includes reservation land, while southwest Blackwood transitions into Fernhollow Country.\n\nThe coast and inland communities sustain a substantial [[wedding-coast|wedding industry]] built around Santa Aurelia's palaces, gardens, historic inns, [[harbor-boardwalks|waterfront promenades]] and distinctive regional architecture.\n\nThe tourism economy also includes [[paddlewheel-riverboats|heritage paddlewheel cruises]] and Santa Aurelia's [[cruise-homeport|ocean cruise homeport]].\n\nA major [[coast-guard-base|U.S. Coast Guard maritime installation]] is situated outside Santa Aurelia.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\nBoth [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]] are broadly affluent. Some smaller, separate [[outlying-townships|townships]] in the surrounding mining, timber and floodplain valleys face greater economic hardship; they are not districts within either city.\n\n[[southbank|Southbank]] is an independent lower-income former river-mill township in the wider valley, separate from both prosperous cities.\n\nSchool athletics and the rivalries among the [[wisps|Willowwick Wisps]], [[santa-aurelia-captains|Santa Aurelia Captains]] and [[southbank-wolves|Southbank Wolves]] are defining regional traditions.",
       "tags": [
         "geography",
         "overview",
@@ -25,7 +25,8 @@ window.SANTA_AURELIA_SEED={
         "cruise-homeport",
         "coast-guard-base",
         "outlying-townships",
-        "southbank"
+        "southbank",
+        "valley-highschool-rivalries"
       ]
     },
     {
@@ -35,7 +36,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Founded 1608",
       "summary": "The Jewel of the Pacific: a Spanish–Indigenous and Venetian-influenced port city at the site of present-day Astoria, Oregon.",
-      "body": "The first permanent European-founded settlement in the region was established here in **1608** by [[alonso|Don Alonso de Valcárcel y Austria]]. The harbor already supported Indigenous communities, trade, and maritime knowledge.\n\nThe city occupies the present-day Astoria site on the Columbia estuary. It rebuilt after the 1700 earthquake and remains a living commercial port rather than a museum district.\n\nNineteenth-century Venetian migration added merchant wealth, decorated stone arcades, glasswork, and waterfront palazzi to a much older Spanish–Indigenous building tradition.\n\nIts famous [[festival|Festival of the Two Hearts]], [[palacio|Palacio de la Bahía]], and [[flagship|preserved flagship]] attract regional visitors. Working population is approximately 19,000.\n\nThe city's monumental [[season-of-halls|ballroom circuit]] and breathtaking [[harbor-boardwalks|timber-and-stone harbor promenades]] make it the heart of the [[wedding-coast|valley's destination wedding economy]], attracting ceremonies and celebrations throughout the year.\n\nSanta Aurelia is also an **ocean-going [[cruise-homeport|cruise departure homeport]]**, with a dedicated [[ocean-passenger-terminal|passenger terminal]], and hosts a thriving [[paddlewheel-riverboats|heritage paddlewheel excursion industry]]. These complement its wedding venues and magnificent waterfront.\n\nA substantial [[coast-guard-base|Coast Guard base]] sits near, but outside, the city, supporting rescue aviation, boats and maritime safety around the Columbia Bar.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\n**Updated socioeconomic canon:** Santa Aurelia is generally affluent and well-kept, like Willowwick. Ordinary wage-earners, renters and households facing high costs remain part of the city, but it does not have a large named impoverished quarter. More economically challenged former industry communities are [[outlying-townships|separate valley townships]].",
+      "body": "The first permanent European-founded settlement in the region was established here in **1608** by [[alonso|Don Alonso de Valcárcel y Austria]]. The harbor already supported Indigenous communities, trade, and maritime knowledge.\n\nThe city occupies the present-day Astoria site on the Columbia estuary. It rebuilt after the 1700 earthquake and remains a living commercial port rather than a museum district.\n\nNineteenth-century Venetian migration added merchant wealth, decorated stone arcades, glasswork, and waterfront palazzi to a much older Spanish–Indigenous building tradition.\n\nIts famous [[festival|Festival of the Two Hearts]], [[palacio|Palacio de la Bahía]], and [[flagship|preserved flagship]] attract regional visitors. Working population is approximately 19,000.\n\nThe city's monumental [[season-of-halls|ballroom circuit]] and breathtaking [[harbor-boardwalks|timber-and-stone harbor promenades]] make it the heart of the [[wedding-coast|valley's destination wedding economy]], attracting ceremonies and celebrations throughout the year.\n\nSanta Aurelia is also an **ocean-going [[cruise-homeport|cruise departure homeport]]**, with a dedicated [[ocean-passenger-terminal|passenger terminal]], and hosts a thriving [[paddlewheel-riverboats|heritage paddlewheel excursion industry]]. These complement its wedding venues and magnificent waterfront.\n\nA substantial [[coast-guard-base|Coast Guard base]] sits near, but outside, the city, supporting rescue aviation, boats and maritime safety around the Columbia Bar.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\n**Updated socioeconomic canon:** Santa Aurelia is generally affluent and well-kept, like Willowwick. Ordinary wage-earners, renters and households facing high costs remain part of the city, but it does not have a large named impoverished quarter. More economically challenged former industry communities are [[outlying-townships|separate valley townships]].\n\nThe [[santa-aurelia-captains|Santa Aurelia High School Captains]] are rivals of the [[wisps|Willowwick Wisps]] and [[southbank-wolves|Southbank Wolves]].",
       "tags": [
         "city",
         "coast",
@@ -56,7 +57,10 @@ window.SANTA_AURELIA_SEED={
         "ocean-passenger-terminal",
         "paddlewheel-riverboats",
         "coast-guard-base",
-        "outlying-townships"
+        "outlying-townships",
+        "santa-aurelia-captains",
+        "southbank-wolves",
+        "valley-highschool-rivalries"
       ]
     },
     {
@@ -66,7 +70,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Incorporated 1878 (working)",
       "summary": "The Garden City of the Lower Columbia, an inland gold-mining settlement transformed by timber, Victorian architecture, and exceptional horticulture.",
-      "body": "Willowwick began with gold mining in a mineralized portion of the [[craton|Aurelia cratonic fragment]]. Copper and building-stone quarrying added to the district's economy, while timber later became dominant.\n\nConnecticut and Virginia families introduced industrial finance, civic patronage and old-money rivalries here, **rather than in Santa Aurelia**.\n\nThe city is celebrated for [[commons|Willowwick Commons]], the Cherry Blossom Promenade, Gothic Revival institutions, the Grand Willowwick Library and Theatre, Lantern Quay, and the [[wisps|Willowwick Wisps]].\n\nIts proposed population is about 21,000. The precise location of the city within the watershed is still to be surveyed.\n\n**Updated socioeconomic canon:** Willowwick Grove is a generally affluent, beautiful and well-maintained garden city, with no defined poor district. The historic **Millwright Quarter**, once associated with millworkers, has become a restored and desirable but more modest residential neighborhood, not an impoverished trailer district. Economically struggling former industrial settlements exist as [[outlying-townships|separate valley townships]] outside the city's limits. Workers and renters of varied incomes nevertheless live within Willowwick.\n\nThe distinct former mill township of [[southbank|Southbank]] lies outside Willowwick's city boundaries and is generally less affluent; it is not part of Willowwick proper.",
+      "body": "Willowwick began with gold mining in a mineralized portion of the [[craton|Aurelia cratonic fragment]]. Copper and building-stone quarrying added to the district's economy, while timber later became dominant.\n\nConnecticut and Virginia families introduced industrial finance, civic patronage and old-money rivalries here, **rather than in Santa Aurelia**.\n\nThe city is celebrated for [[commons|Willowwick Commons]], the Cherry Blossom Promenade, Gothic Revival institutions, the Grand Willowwick Library and Theatre, Lantern Quay, and the [[wisps|Willowwick Wisps]].\n\nIts proposed population is about 21,000. The precise location of the city within the watershed is still to be surveyed.\n\n**Updated socioeconomic canon:** Willowwick Grove is a generally affluent, beautiful and well-maintained garden city, with no defined poor district. The historic **Millwright Quarter**, once associated with millworkers, has become a restored and desirable but more modest residential neighborhood, not an impoverished trailer district. Economically struggling former industrial settlements exist as [[outlying-townships|separate valley townships]] outside the city's limits. Workers and renters of varied incomes nevertheless live within Willowwick.\n\nThe distinct former mill township of [[southbank|Southbank]] lies outside Willowwick's city boundaries and is generally less affluent; it is not part of Willowwick proper.\n\nHigh school sports are important local culture; the [[wisps|Willowwick Wisps]] maintain rivalries with the [[santa-aurelia-captains|Captains]] and [[southbank-wolves|Wolves]].",
       "tags": [
         "city",
         "mining",
@@ -79,7 +83,10 @@ window.SANTA_AURELIA_SEED={
         "commons",
         "wisps",
         "outlying-townships",
-        "southbank"
+        "southbank",
+        "santa-aurelia-captains",
+        "southbank-wolves",
+        "valley-highschool-rivalries"
       ]
     },
     {
@@ -486,7 +493,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Modern school tradition",
       "summary": "Willowwick High School's teams use a will-o'-the-wisp mascot, midnight blue, silver and luminous gold.",
-      "body": "The high school athletic identity is **the Wisps**. School colors are **midnight blue, silver and luminous gold**; motto **You Can't Catch a Wisp!**; yearbook *The Lantern*; supporters *Wisp Watch*; gym *the Lantern House*.\n\nA friendly rivalry with Santa Aurelia's own high school fits the two-city identity; the rival mascot and school name are not yet designed.",
+      "body": "The high school athletic identity is **the Wisps**. School colors are **midnight blue, silver and luminous gold**; motto **You Can't Catch a Wisp!**; yearbook *The Lantern*; supporters *Wisp Watch*; gym *the Lantern House*.\n\nA friendly rivalry with Santa Aurelia's own high school fits the two-city identity; the rival mascot and school name are not yet designed.\n\nThe Wisps' major rival teams are the [[santa-aurelia-captains|Santa Aurelia Captains]] and the [[southbank-wolves|Southbank Wolves]]. Their games are central to [[valley-highschool-rivalries|valley sports culture]].",
       "tags": [
         "school",
         "athletics",
@@ -494,7 +501,10 @@ window.SANTA_AURELIA_SEED={
       ],
       "links": [
         "willowwick",
-        "lantern-children"
+        "lantern-children",
+        "santa-aurelia-captains",
+        "southbank-wolves",
+        "valley-highschool-rivalries"
       ]
     },
     {
@@ -1152,7 +1162,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Industrial origins to present",
       "summary": "An independent, less-affluent former riverside mill township in the valley, outside the city limits of Willowwick Grove and Santa Aurelia.",
-      "body": "**Southbank** is a separate working-class township outside [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]], in the [[valle|Valle de Santa Aurelia]]. A riverside mill and loading wharf shaped its early economy (working historical detail), while industrial decline contributed to more modest household incomes, aging buildings and service challenges.\n\nSouthbank is not a slum, not part of either city's municipal boundaries and not shorthand for crime or deprivation. It retains residents, craftspeople, local businesses, community relationships and civic pride. Its exact location, incorporation status, population and contemporary institutions await further development.\n\n**Continuity:** the former in-city 'Southbank Flats' idea has been retired and replaced with Willowwick's relatively prosperous **Millwright Quarter**. See `docs/27-prosperity-and-outlying-townships.md`.",
+      "body": "**Southbank** is a separate working-class township outside [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]], in the [[valle|Valle de Santa Aurelia]]. A riverside mill and loading wharf shaped its early economy (working historical detail), while industrial decline contributed to more modest household incomes, aging buildings and service challenges.\n\nSouthbank is not a slum, not part of either city's municipal boundaries and not shorthand for crime or deprivation. It retains residents, craftspeople, local businesses, community relationships and civic pride. Its exact location, incorporation status, population and contemporary institutions await further development.\n\n**Continuity:** the former in-city 'Southbank Flats' idea has been retired and replaced with Willowwick's relatively prosperous **Millwright Quarter**. See `docs/27-prosperity-and-outlying-townships.md`.\n\n**Southbank High School's mascot is the [[southbank-wolves|Wolves]]**, a defining point of township identity and pride. They face the Wisps and Captains in major regional rivalries.",
       "tags": [
         "township",
         "mill",
@@ -1163,7 +1173,74 @@ window.SANTA_AURELIA_SEED={
         "outlying-townships",
         "willowwick",
         "santa-aurelia",
-        "valle"
+        "valle",
+        "southbank-wolves",
+        "valley-highschool-rivalries"
+      ]
+    },
+    {
+      "id": "santa-aurelia-captains",
+      "title": "Santa Aurelia High School Captains",
+      "category": "Institution",
+      "status": "established",
+      "era": "Modern era",
+      "summary": "The Captains are Santa Aurelia High School's maritime-themed athletic teams and rivals of Willowwick Wisps and Southbank Wolves.",
+      "body": "**Santa Aurelia High School's athletic identity is the Captains**, reflecting the city's longstanding maritime culture. Proposed colors are burgundy, antique gold and cream. Its working student section is the **Quarterdeck**, field **Harbor Field** and marching band **Harbor Brass**. Athletics, clubs, music and community support play a major part in city life.\n\nThe Captains face the [[wisps|Willowwick Wisps]] in the proposed **Lantern and Anchor Game** and the [[southbank-wolves|Southbank Wolves]] in the **Harbor–Howl**. These fixture names and sports specialties are working lore; see [[valley-highschool-rivalries|Valley High School Rivalries]].",
+      "tags": [
+        "high school",
+        "athletics",
+        "captains",
+        "rivalry"
+      ],
+      "links": [
+        "santa-aurelia",
+        "wisps",
+        "southbank-wolves",
+        "valley-highschool-rivalries"
+      ]
+    },
+    {
+      "id": "southbank-wolves",
+      "title": "Southbank High School Wolves",
+      "category": "Institution",
+      "status": "established",
+      "era": "Modern era",
+      "summary": "The Wolves represent Southbank's independent high school; their working-class township supports fiercely loyal sports rivalries.",
+      "body": "**Southbank High School's mascot is the Wolves**—an explicit correction to the discarded 'Millers' proposal. Their proposed colors are forest green, steel gray and white, with a proposed home field called the **Wolves' Den** and student cheering section **the Pack**.\n\nAthletics and school spirit are a major part of independent [[southbank|Southbank]]'s identity. The Wolves meet the [[wisps|Willowwick Wisps]] in the proposed **Milltown Classic** and the [[santa-aurelia-captains|Captains]] in the proposed **Harbor–Howl**. Differences in resources do not imply consistent losses, and some rivalry games may be nonleague due to enrollment. See [[valley-highschool-rivalries|Valley High School Rivalries]].",
+      "tags": [
+        "high school",
+        "wolves",
+        "township",
+        "rivalry"
+      ],
+      "links": [
+        "southbank",
+        "wisps",
+        "santa-aurelia-captains",
+        "valley-highschool-rivalries"
+      ]
+    },
+    {
+      "id": "valley-highschool-rivalries",
+      "title": "Valley High School Sports Rivalries",
+      "category": "Tradition",
+      "status": "established",
+      "era": "Modern era",
+      "summary": "High school sports form a defining regional identity; Willowwick Wisps, Santa Aurelia Captains and Southbank Wolves maintain passionate annual rivalries.",
+      "body": "High school athletics—football, basketball, wrestling, soccer, volleyball, track, baseball/softball, and student bands—are major forces in Valle de Santa Aurelia's daily community identity.\n\nThe **[[wisps|Willowwick Wisps]]** and **[[santa-aurelia-captains|Santa Aurelia Captains]]** meet in the proposed **Lantern and Anchor Game**. The Wisps and **[[southbank-wolves|Southbank Wolves]]** meet in the proposed **Milltown Classic**. The Wolves and Captains meet in the proposed **Harbor–Howl**. Rivalry names and trophies remain working details; **Southbank Wolves is established**, not the old Millers nickname.\n\nAdditional coastal and mining township schools are to be created as those places are developed. Schools can compete in different Oregon classifications and meet in nonleague events. See `docs/28-high-school-sports-and-rivalries.md`.",
+      "tags": [
+        "sports",
+        "school",
+        "rivalry",
+        "community"
+      ],
+      "links": [
+        "wisps",
+        "santa-aurelia-captains",
+        "southbank-wolves",
+        "willowwick",
+        "santa-aurelia",
+        "southbank"
       ]
     }
   ],
