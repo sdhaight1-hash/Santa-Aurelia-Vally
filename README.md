@@ -83,3 +83,8 @@ The Family Archive now seeds two generations before both founding spouses. Alons
 
 ### New family archival holdings
 The privately held Valcárcel archives now include original love letters between Alonso and Sáweli/Inés, **her own adult-written diaries retrospectively documenting pre-1608 Ashalewan life**, surviving original journals by founding Filipino/Spanish/New Spanish sailors and other settlers, inventories, charts, marriage tokens, navigation equipment, textiles and household artifacts. All have provisional in-setting catalogue numbers and explicit authorship/copy distinctions in [the catalogue](docs/18-estate-library-collection-catalogue.md). The Living Atlas contains linked encyclopedia entries for major collections; the physical manuscript files are an **invented alternate-history archive**, not real document scans.
+
+- [The Season of Halls: Venetian ballroom rivalry and the multi-hall Two Hearts season](docs/22-season-of-halls-venetian-ballrooms.md)
+- [The Wedding Coast: historic boardwalks and the valleywide wedding economy](docs/23-wedding-coast-economy-and-waterfront.md)
+
+**Architectural and cultural development:** Santa Aurelia's nineteenth-century Venetian-descended merchant dynasties built rival grand estate halls, creating a multi-venue festival and debutante social circuit anchored by the original Palacio de la Bahía. Its timber-and-dressed-stone waterfront promenades, palatial halls and gardens now support an extensive **destination wedding economy across the city, coast and valley**. This economy is active beyond festival season, and includes smaller and more affordable venues as well as grand estates. Hall and patron names remain working worldbuilding details; the social/architectural phenomena are established canon.
