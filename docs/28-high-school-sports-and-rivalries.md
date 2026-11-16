@@ -47,15 +47,15 @@ In this **alternate Oregon chronology**, the football trophy displays are establ
 
 | School | In-world Oregon state football title seasons | Total |
 |---|---|---:|
-| **Willowwick Wisps** | **1988, 1996, 2007, 2015, 2022, 2025** | **6** |
+| **Willowwick Wisps** | **1988, 1996, 2007, 2015, 2021, 2022, 2023, 2024, 2025** | **9** |
 | **Santa Aurelia Captains** | **1979, 1991, 2003, 2012, 2019, 2024** | **6** |
 | **Southbank Wolves** | **1984, 1998, 2009, 2017, 2021** | **5** |
 
-**The three programs have 17 combined state titles in this fictional timeline.** Titles span different historical enrollment/football classifications, which have changed in Oregon over the years. The schools are not required to be in the same championship bracket: **statewide reputation is established across classifications**, not proof that a smaller school beats 6A teams every autumn. No 2026 championship is assigned—the 2026 season is still underway in the present in-world date.
+**The three programs have 20 combined state titles in this fictional timeline.** Titles span different historical enrollment/football classifications, which have changed in Oregon over the years. The schools are not required to be in the same championship bracket: **statewide reputation is established across classifications**, not proof that a smaller school beats 6A teams every autumn. No 2026 championship is assigned—the 2026 season is still underway in the present in-world date.
 
 ### Three dynasty identities
 
-**The Wisps — the precision dynasty.** Willowwick's sustained alumni investment, coaching continuity, developed youth pathways and tactical tradition give the school formidable football depth. Their **2022 and 2025** titles restore a more recent championship run; the Lantern House and Wisp Watch keep the past close.
+**The Wisps — the reigning five-peat dynasty.** Willowwick's sustained alumni investment, coaching continuity, developed youth pathways and tactical tradition have yielded a remarkable **five straight Oregon state football championships in 2021, 2022, 2023, 2024, and 2025**. They enter the 2026 season as the state's defining contemporary powerhouse, with the entire valley measuring itself against their streak. The Lantern House and Wisp Watch keep the past close.
 
 **The Captains — the harbor dynasty.** Santa Aurelia's long maritime family and civic culture translates into disciplined line play, hard-nosed defensive football and a storied program spanning five decades. The **2019 and 2024** championships make recent classes proud; old championship photographs hang beside nautical-themed trophies.
 
@@ -63,7 +63,7 @@ In this **alternate Oregon chronology**, the football trophy displays are establ
 
 ### Rivalry weekends now mean more
 
-- **Lantern and Anchor:** A rivalry of two *six-title* dynasties. The losing city may have to watch its neighbor advance deep into the playoffs, sometimes while its own season ends.
+- **Lantern and Anchor:** A rivalry of the *nine-title reigning five-peat Wisps* against the *six-title Captains*. The losing city may have to watch its neighbor advance deep into the playoffs, sometimes while its own season ends.
 - **Milltown Classic:** A showdown of major championship traditions, not a wealthy powerhouse against a poor outsider. The Wolves are entirely capable of entering ranked above the Wisps.
 - **Harbor–Howl:** The Captains and Wolves have enough championship history that their match is an important **statewide scouting and media event**, not simply a small-town novelty.
 
@@ -85,6 +85,9 @@ The schools participate within Oregon's realistic enrollment- and geography-base
 
 ## Canon boundaries
 
-**Fixed:** the Wisps and their already established colors and traditions; the Captains; **Southbank Wolves**; high school athletics as a major identity of the valley; rivalries among the three communities; **all three are perennial statewide football powers and independently hold multiple state championship titles** (working in-world year ledger: six Wisps, six Captains, five Wolves).
+**Fixed:** the Wisps and their already established colors and traditions; the Captains; **Southbank Wolves**; high school athletics as a major identity of the valley; rivalries among the three communities; **all three are perennial statewide football powers and independently hold multiple state championship titles** (working in-world year ledger: **nine Wisps, six Captains, five Wolves**); the **Wisps have won five straight state football championships (2021–2025)**.
 
 **Working:** Captains and Wolves palette, trophies, stadium and student-section names, some athletic specialties, historic and current league classifications, individual game opponents and scores. Championship years are invented **alternate-history** working records. Do not return to Southbank Millers.
+
+## The reigning Willowwick five-peat — later canon supersedes earlier championship count
+**Latest established fact:** Willowwick has won the state championship in **each of the five completed seasons 2021–2025**. This is a **five-peat**, not merely two recent championships. Its working all-time ledger is therefore **nine titles**, compared with six for Santa Aurelia and five for Southbank (**20 combined**). The Wisps' current statewide dominance does not erase the Captains' and Wolves' historical championship credentials, and no 2026 champion is yet established. The 2021 Wolves title can coexist because the schools can compete in **different OSAA classifications**; the year-specific divisions still need to be documented.
