@@ -53,3 +53,6 @@ This register protects **latest user-stated choices** from drifting back into di
 
 ## Provenance policy
 This archive distills the collaborative worldbuilding dialogue up to November 16, 2026; it is not a verbatim export. If a user gives a later explicit correction, revise relevant chapters and this register. If a detail was only an assistant suggestion, either label it *working* or ask before treating it as final. External real-world research should be footnoted in future expansion, with alternate-history inventions identified explicitly.
+
+## Latest addition — the founding portraits
+Four surviving **seventeenth-century original** portraits of Alonso, Inés, their wedding, and the eventual family of **eleven (parents plus nine children)** were produced by one **famous Spanish artist**, an old **friend of Alonso who traveled with the 1608 founding colony**. This creator relationship, survival and nine-child count are **explicit user canon**. **Mateo de Villacorta** and exact painting dates are assistant **working proposals**, not user-approved names. The nine children are canonical but as-yet unnamed; do not manufacture a definitive genealogy. See [colonial portrait catalog](13-colonial-portraits-and-artist.md).
