@@ -39,6 +39,7 @@ function migrate(d){
   for(const portrait of seed.portraits){
    if(!knownPortraits.has(portrait.id)){d.genealogy.portraits.push(structuredClone(portrait));continue;}
    const existing=d.genealogy.portraits.find(p=>p.id===portrait.id);
+   if(existing){existing.custodian=portrait.custodian;existing.collection=portrait.collection;existing.provenance=portrait.provenance;}
    if(existing?.id==="painting-family"){
     existing.subjects=[...new Set([...(existing.subjects||[]),...portrait.subjects])];
     existing.depictedChildren=9;
