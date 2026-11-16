@@ -6,7 +6,7 @@
 
 **Elsewhere in the valley are separate economically challenged small townships and unincorporated communities**, especially in former mill, mine, timber and floodplain industrial corridors. These are genuine communities with complex identities and civic agency, **not poor neighborhoods annexed into either city**. Their economic difficulties may include a closed employer, lower wages, limited transport and services, property risk, and the high cost of reaching metropolitan jobs. Some small settlements prosper; not all rural places are poor.
 
-The revision supersedes the earlier description of a large impoverished **Southbank Flats** in Willowwick.
+The revision supersedes the earlier description of a large impoverished **Southbank Flats** inside Willowwick; **Southbank** is instead established as an independent township outside its limits.
 
 ## Willowwick Grove's neighborhoods
 
@@ -14,7 +14,7 @@ The revision supersedes the earlier description of a large impoverished **Southb
 
 **The Heights:** large Victorian houses, older estates and a conspicuously affluent hilltop enclave.
 
-**Southbank Quarter:** formerly the working mills' district, now a restored and attractive historic neighborhood of original cottages, apartments, small family houses and workshops. It is somewhat more modest than The Heights but still part of Willowwick's prosperous overall civic fabric. Heritage restoration and property-price increases create pressure on longstanding residents, but **Southbank is not a slum or trailer-camp district**.
+**Millwright Quarter:** formerly the working mills' district, now a restored and attractive historic neighborhood of original cottages, apartments, small family houses and workshops. It is somewhat more modest than The Heights but still part of Willowwick's prosperous overall civic fabric. Heritage restoration and property-price increases create pressure on longstanding residents, but **Southbank is not a slum or trailer-camp district**.
 
 **Willowwick Commons / Promenade / Lantern Quay:** exceptionally landscaped civic park, riverfront and commercial amenities, maintained through public resources, nonprofits and private benefactors.
 
@@ -26,11 +26,15 @@ The old waterfront, Spanish-founded civic districts, Venetian grand-hall and mer
 
 Its great wedding and cruise industries create income and jobs alongside **housing-cost pressure, seasonal work, and economic inequality**. These challenges can exist even without a geographically segregated impoverished quarter.
 
+## Southbank — independent former mill township
+
+**Southbank** is now the established name of a **separate, less-affluent working-class township in the valley**, outside the municipal limits of both Willowwick Grove and Santa Aurelia. It grew around a riverbank mill and associated loading facilities (working history), and its economy suffered as the older timber-processing and freight industries contracted. Aging cottages, small shops, workshops, an old mill site and community gathering places define its built environment. It is a living town with families, craftspeople, local businesses and a distinct identity, not a Willowwick neighborhood or a generic slum. Precise population, river location, incorporation status and current employers remain open for development.
+
 ## Outlying township economy
 
 **Candidate location types—not yet fixed place names or mapped jurisdictions:**
 
-1. A **former timber-mill township** outside Willowwick, with older worker housing, an aging plant site, independent shops and residents commuting into the garden city.
+1. **Southbank**, the established former timber-mill township outside Willowwick, with older worker housing, an aging plant site, independent shops and residents commuting into the garden city.
 2. A **former mining settlement** in the upper valley, affected by mine closure, land remediation and reduced public services, but with craftspeople, history and distinctive local families.
 3. A **floodplain industrial hamlet** downstream from the inland city, with aging infrastructure and contested relocation or flood-control investments.
 4. A **remote Coast Range logging community** where seasonal work, transport access and the decline of older industrial employers affect household prospects.
