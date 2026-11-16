@@ -7,6 +7,7 @@ const STORAGE_KEY="santa-aurelia-living-atlas-v1";
 const CATEGORIES=["Region","Settlement","Location","Landmark","Person","Family","Organization","Community","Culture","Species","Geology","Event","Myth","Artifact","Institution","Document","Religion","Language","Other"];
 const ICONS={Region:"◇",Settlement:"♜",Location:"♧",Landmark:"◈",Person:"♙",Family:"♧",Organization:"⌘",Community:"♜",Culture:"❖",Species:"❧",Geology:"◆",Event:"◷",Myth:"✧",Artifact:"⚒",Institution:"▦",Document:"▤",Religion:"✥",Language:"⌁",Other:"•"};
 let data=loadData(),view="home",activeFilter="All",searchText="",activeEntry=null;
+const extraViews={};
 const $=(s)=>document.querySelector(s);
 const $$=(s)=>Array.from(document.querySelectorAll(s));
 const esc=(value)=>String(value??"").replace(/[&<>"']/g,ch=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[ch]));
@@ -94,10 +95,10 @@ function showConnections(){
 }
 function render(){
  const path=decodeURIComponent(location.hash.replace(/^#\/?/,"")).split("/").filter(Boolean);
- view=path[0]==="entry"?"entry":(["library","map","timeline","connections"].includes(path[0])?path[0]:"home");
+ view=path[0]==="entry"?"entry":(["library","map","timeline","connections",...Object.keys(extraViews)].includes(path[0])?path[0]:"home");
  activeEntry=view==="entry"?path.slice(1).join("/"):null;
  updateSide();
- if(view==="home")showHome();else if(view==="library")showLibrary();else if(view==="map")showMap();else if(view==="timeline")showTimeline();else if(view==="connections")showConnections();else showEntry(getEntry(activeEntry));
+ if(view==="home")showHome();else if(view==="library")showLibrary();else if(view==="map")showMap();else if(view==="timeline")showTimeline();else if(view==="connections")showConnections();else if(extraViews[view])extraViews[view]();else showEntry(getEntry(activeEntry));
  window.scrollTo({top:0,behavior:"instant"});
  $(".sidebar").classList.remove("open");
 }
@@ -169,5 +170,6 @@ function bind(){
  });
  window.addEventListener("hashchange",render);
 }
+window.SantaAtlas={data:()=>data,entries,getEntry,esc,setCrumb,persist,toast,currentView:()=>view,registerView:(name,fn)=>{extraViews[name]=fn;if(location.hash.replace(/^#\\/?/,"").split("/")[0]===name)render();}};
 bind();render();
 })();
