@@ -148,3 +148,6 @@ The **joint Navy–Coast Guard base**, ocean cruise homeport and historic palace
 - [Clatsop County watershed study and hazard maps](https://www.clatsopcounty.gov/DocumentCenter/View/1734/Clatsop-County-Watersheds-Map) — to validate rivers and floodplains before exact physical mapping.
 
 *The referenced Giant’s Causeway image is a **visual inspiration**, not a photo of Valle de Santa Aurelia.*
+
+## Introduced wildlife now established — sika and wallabies
+**Explicit new wildlife canon:** the region has self-sustaining **Japanese sika deer (*Cervus nippon*)**, introduced to a Willowwick-area ornamental estate during the working **1880s**, and **red-necked wallabies (*Notamacropus rufogriseus*)**, descended from a working **c.1905 Fernhollow private-collection escape**. Sika are more broadly recognizable in the South Hills, outer Blackwood edges and Alderwood wooded/wetland margins. Wallabies form smaller, rarer colonies around Fernhollow and sheltered outer highland/lakeside glens. Both are nonnative and subject to ecological monitoring; their establishment does **not** prove harmlessness or explain pre-1900 Indigenous stories. Scientific precedent and the detailed fictional migration/management chronology are in [Naturalized Exotic Wildlife](31-naturalized-exotic-wildlife.md).
