@@ -35,3 +35,7 @@ Older **Irish, Scottish, Romanian/Transylvanian, and Slavic** communities concen
 
 ## Tone and epistemic discipline
 Write the region as a functioning society with ordinary neighborhoods, infrastructure, class differences, industry, governance, schools, and cultural disagreements—not a theme park or secretly magical world. Distinguish *invented in-setting primary sources*, *in-setting folkloric claims*, *in-setting science*, and *actual external historical background*. Do not assert there is real pre-Columbian Celtic/Pictish settlement in actual Oregon. Do not portray giant humanoids or portals as objective reality. Never confuse tribal descent with tribal citizenship.
+
+
+## Founding dynasty revision — explicit lore and reconstruction
+The user has established that **Alonso and Inés had nine children** and that four surviving original colonial paintings (arrival, Inés, wedding, full eleven-person family) were painted by a **famous Spanish painter who was Alonso's friend and accompanied the 1608 expedition**. Two generations of family ancestry have now been added to the genealogy. **Alonso’s imperial descent through Don John is counterfactual**, even though Charles V, Barbara Blomberg and Don John were real. **Inés's unnamed maternal and paternal ancestors are editorial placeholders** until her Indigenous nation and naming conventions are developed. See [founding family genealogy](14-founding-family-genealogy.md) and [portrait provenance](13-colonial-portraits-and-artist.md).
