@@ -9,7 +9,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Present day",
       "summary": "A layered lower Columbia region of maritime cities, inland forests, ancient monuments, and communities shaped by more than four centuries of colonial history.",
-      "body": "The region encompasses [[santa-aurelia|Santa Aurelia]], [[willowwick|Willowwick Grove]], [[blackwood|Blackwood Ridge]], and surrounding watersheds, rural hamlets, lakes and tribal lands.\n\nIts Spanish regional name derives from the old port, but its Indigenous histories reach back millennia. The region is not one municipality, one valley basin, or one uniform culture.\n\nSanta Aurelia and Willowwick Grove are near-peer cities. The northwest portion of Witches' Wood includes reservation land, while southwest Blackwood transitions into Fernhollow Country.\n\nThe coast and inland communities sustain a substantial [[wedding-coast|wedding industry]] built around Santa Aurelia's palaces, gardens, historic inns, [[harbor-boardwalks|waterfront promenades]] and distinctive regional architecture.\n\nThe tourism economy also includes [[paddlewheel-riverboats|heritage paddlewheel cruises]] and Santa Aurelia's [[cruise-homeport|ocean cruise homeport]].\n\nA major [[coast-guard-base|U.S. Coast Guard maritime installation]] is situated outside Santa Aurelia.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\nBoth [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]] are broadly affluent. Some smaller, separate [[outlying-townships|townships]] in the surrounding mining, timber and floodplain valleys face greater economic hardship; they are not districts within either city.\n\n[[southbank|Southbank]] is an independent lower-income former river-mill township in the wider valley, separate from both prosperous cities.\n\nSchool athletics and the rivalries among the [[wisps|Willowwick Wisps]], [[santa-aurelia-captains|Santa Aurelia Captains]] and [[southbank-wolves|Southbank Wolves]] are defining regional traditions.\n\n**Geography master-plan v1:** Approx. 1,800 sq mi (4,660 km²) target; irregular roughly 70-mile east–west and 45-mile north–south cultural region; multiple watersheds, not a single valley. Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\n**Natural-history design:** the region retains Oregon Coast Range rainforest, multiple river basins and estuary but also has local [[moor-ridges|Highland-like exposed ridges]], [[black-steps|basalt-column coast]], [[high-gorge|a major upper gorge]], and [[blackwood-ravines|smaller forest ravines]]. See [[natural-history|natural history]].",
+      "body": "The region encompasses [[santa-aurelia|Santa Aurelia]], [[willowwick|Willowwick Grove]], [[blackwood|Blackwood Ridge]], and surrounding watersheds, rural hamlets, lakes and tribal lands.\n\nIts Spanish regional name derives from the old port, but its Indigenous histories reach back millennia. The region is not one municipality, one valley basin, or one uniform culture.\n\nSanta Aurelia and Willowwick Grove are near-peer cities. The northwest portion of Witches' Wood includes reservation land, while southwest Blackwood transitions into Fernhollow Country.\n\nThe coast and inland communities sustain a substantial [[wedding-coast|wedding industry]] built around Santa Aurelia's palaces, gardens, historic inns, [[harbor-boardwalks|waterfront promenades]] and distinctive regional architecture.\n\nThe tourism economy also includes [[paddlewheel-riverboats|heritage paddlewheel cruises]] and Santa Aurelia's [[cruise-homeport|ocean cruise homeport]].\n\nA major [[coast-guard-base|U.S. Coast Guard maritime installation]] is situated outside Santa Aurelia.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\nBoth [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]] are broadly affluent. Some smaller, separate [[outlying-townships|townships]] in the surrounding mining, timber and floodplain valleys face greater economic hardship; they are not districts within either city.\n\n[[southbank|Southbank]] is an independent lower-income former river-mill township in the wider valley, separate from both prosperous cities.\n\nSchool athletics and the rivalries among the [[wisps|Willowwick Wisps]], [[santa-aurelia-captains|Santa Aurelia Captains]] and [[southbank-wolves|Southbank Wolves]] are defining regional traditions.\n\n**Geography master-plan v1:** Approx. 1,800 sq mi (4,660 km²) target; irregular roughly 70-mile east–west and 45-mile north–south cultural region; multiple watersheds, not a single valley. Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\n**Natural-history design:** the region retains Oregon Coast Range rainforest, multiple river basins and estuary but also has local [[moor-ridges|Highland-like exposed ridges]], [[black-steps|basalt-column coast]], [[high-gorge|a major upper gorge]], and [[blackwood-ravines|smaller forest ravines]]. See [[natural-history|natural history]].\n\nLocal natural history includes self-sustaining [[sika-deer|sika deer]] populations and rare [[red-necked-wallabies|wallabies]], both introduced animals with debated ecological effects.",
       "tags": [
         "geography",
         "overview",
@@ -32,7 +32,10 @@ window.SANTA_AURELIA_SEED={
         "black-steps",
         "high-gorge",
         "blackwood-ravines",
-        "moor-ridges"
+        "moor-ridges",
+        "sika-deer",
+        "red-necked-wallabies",
+        "naturalized-exotics"
       ]
     },
     {
@@ -79,7 +82,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Incorporated 1878 (working)",
       "summary": "The Garden City of the Lower Columbia, an inland gold-mining settlement transformed by timber, Victorian architecture, and exceptional horticulture.",
-      "body": "Willowwick began with gold mining in a mineralized portion of the [[craton|Aurelia cratonic fragment]]. Copper and building-stone quarrying added to the district's economy, while timber later became dominant.\n\nConnecticut and Virginia families introduced industrial finance, civic patronage and old-money rivalries here, **rather than in Santa Aurelia**.\n\nThe city is celebrated for [[commons|Willowwick Commons]], the Cherry Blossom Promenade, Gothic Revival institutions, the Grand Willowwick Library and Theatre, Lantern Quay, and the [[wisps|Willowwick Wisps]].\n\nIts proposed population is about 21,000. The precise location of the city within the watershed is still to be surveyed.\n\n**Updated socioeconomic canon:** Willowwick Grove is a generally affluent, beautiful and well-maintained garden city, with no defined poor district. The historic **Millwright Quarter**, once associated with millworkers, has become a restored and desirable but more modest residential neighborhood, not an impoverished trailer district. Economically struggling former industrial settlements exist as [[outlying-townships|separate valley townships]] outside the city's limits. Workers and renters of varied incomes nevertheless live within Willowwick.\n\nThe distinct former mill township of [[southbank|Southbank]] lies outside Willowwick's city boundaries and is generally less affluent; it is not part of Willowwick proper.\n\nHigh school sports are important local culture; the [[wisps|Willowwick Wisps]] maintain rivalries with the [[santa-aurelia-captains|Captains]] and [[southbank-wolves|Wolves]].\n\nThe city's or township's six-time champion [[wisps|Wisps]] are part of the [[valley-highschool-rivalries|Valley Three]], a trio of Oregon high school football dynasties renowned far beyond the valley.\n\n**Geography master-plan v1:** 46.0100° N, 123.6650° W (proposed mapped upper Youngs River corridor; distance targets to Santa Aurelia 22–30 road miles). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nThe proposed upper [[high-gorge|Aurelia High Gorge]] lies farther inland than the city, with roads and waterways requiring elevation-based planning. See [[natural-history|the regional natural history]].",
+      "body": "Willowwick began with gold mining in a mineralized portion of the [[craton|Aurelia cratonic fragment]]. Copper and building-stone quarrying added to the district's economy, while timber later became dominant.\n\nConnecticut and Virginia families introduced industrial finance, civic patronage and old-money rivalries here, **rather than in Santa Aurelia**.\n\nThe city is celebrated for [[commons|Willowwick Commons]], the Cherry Blossom Promenade, Gothic Revival institutions, the Grand Willowwick Library and Theatre, Lantern Quay, and the [[wisps|Willowwick Wisps]].\n\nIts proposed population is about 21,000. The precise location of the city within the watershed is still to be surveyed.\n\n**Updated socioeconomic canon:** Willowwick Grove is a generally affluent, beautiful and well-maintained garden city, with no defined poor district. The historic **Millwright Quarter**, once associated with millworkers, has become a restored and desirable but more modest residential neighborhood, not an impoverished trailer district. Economically struggling former industrial settlements exist as [[outlying-townships|separate valley townships]] outside the city's limits. Workers and renters of varied incomes nevertheless live within Willowwick.\n\nThe distinct former mill township of [[southbank|Southbank]] lies outside Willowwick's city boundaries and is generally less affluent; it is not part of Willowwick proper.\n\nHigh school sports are important local culture; the [[wisps|Willowwick Wisps]] maintain rivalries with the [[santa-aurelia-captains|Captains]] and [[southbank-wolves|Wolves]].\n\nThe city's or township's six-time champion [[wisps|Wisps]] are part of the [[valley-highschool-rivalries|Valley Three]], a trio of Oregon high school football dynasties renowned far beyond the valley.\n\n**Geography master-plan v1:** 46.0100° N, 123.6650° W (proposed mapped upper Youngs River corridor; distance targets to Santa Aurelia 22–30 road miles). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nThe proposed upper [[high-gorge|Aurelia High Gorge]] lies farther inland than the city, with roads and waterways requiring elevation-based planning. See [[natural-history|the regional natural history]].\n\nA wealthy nineteenth-century family estate in the surrounding district introduced the [[sika-deer|sika deer]] now established in the broader valley (working origin decade: 1880s).",
       "tags": [
         "city",
         "mining",
@@ -98,7 +101,8 @@ window.SANTA_AURELIA_SEED={
         "valley-highschool-rivalries",
         "geographic-master-plan",
         "high-gorge",
-        "natural-history"
+        "natural-history",
+        "sika-deer"
       ]
     },
     {
@@ -108,7 +112,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Ancient to present",
       "summary": "A rugged, forested district of ancient stoneways, immigrant mountain communities, Indigenous lands, unusual flora, and rural self-reliance.",
-      "body": "The district contains [[witchwood|Witches' Wood]] and its prehistoric monumental landscape. The tribal [[reservation|reservation]] includes some of the northwestern forest; [[fernhollow|Fernhollow Country]] lies southwest.\n\nIrish, Scottish, Romanian, Transylvanian and Slavic households built communities around the forest. Some describe an unexplained sense of kinship to its rugged, foggy landscape.\n\nThe rest of Blackwood Ridge includes working forests, old mines, agricultural valleys, village churches, preparedness homesteads, hiking trails and remote archaeological sanctuaries.\n\n**Geography master-plan v1:** 45.9050° N, 123.6650° W (proposed upland reference center south of Willowwick). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nBlackwood's uplands contain proposed [[blackwood-ravines|shaded tributary ravines]] and some exposed [[moor-ridges|moorlike native heath/meadow ridges]], while the inner [[witchwood|Witches' Wood]] remains a densely forested protected ancient district.",
+      "body": "The district contains [[witchwood|Witches' Wood]] and its prehistoric monumental landscape. The tribal [[reservation|reservation]] includes some of the northwestern forest; [[fernhollow|Fernhollow Country]] lies southwest.\n\nIrish, Scottish, Romanian, Transylvanian and Slavic households built communities around the forest. Some describe an unexplained sense of kinship to its rugged, foggy landscape.\n\nThe rest of Blackwood Ridge includes working forests, old mines, agricultural valleys, village churches, preparedness homesteads, hiking trails and remote archaeological sanctuaries.\n\n**Geography master-plan v1:** 45.9050° N, 123.6650° W (proposed upland reference center south of Willowwick). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nBlackwood's uplands contain proposed [[blackwood-ravines|shaded tributary ravines]] and some exposed [[moor-ridges|moorlike native heath/meadow ridges]], while the inner [[witchwood|Witches' Wood]] remains a densely forested protected ancient district.\n\nOuter Blackwood woodland margins support some [[sika-deer|sika deer]] and occasional [[red-necked-wallabies|wallabies]]; these are introduced populations, not evidence for ancient White Ones lore.",
       "tags": [
         "forest",
         "mountains",
@@ -121,7 +125,9 @@ window.SANTA_AURELIA_SEED={
         "geographic-master-plan",
         "blackwood-ravines",
         "moor-ridges",
-        "natural-history"
+        "natural-history",
+        "sika-deer",
+        "red-necked-wallabies"
       ]
     },
     {
@@ -325,7 +331,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Older farms; 1970s ecovillage",
       "summary": "The rural southwest approaches to Witches' Wood, home to historic immigrant villages, independent homesteads, and the Fernhollow ecovillage.",
-      "body": "The larger district southwest of [[witchwood|Witches' Wood]] contains farms, old Irish/Scottish/Romanian/Slavic settlements, private woodlots and preparedness households.\n\nThe ecovillage founded during the **1970s back-to-the-land movement** uses practical permaculture, food forests, timber/cob construction, greenhouses, rainproofing, mushroom cultivation, and vocational teaching. It buys and sells goods like other communities.\n\n[[thornhaven|Thornhaven Village]] lies nearby but is independently run. Other families pursue hunting, archery, off-grid living, livestock care and emergency preparedness.\n\n**Geography master-plan v1:** 45.8670° N, 123.7360° W (proposed district center southwest of Blackwood). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.",
+      "body": "The larger district southwest of [[witchwood|Witches' Wood]] contains farms, old Irish/Scottish/Romanian/Slavic settlements, private woodlots and preparedness households.\n\nThe ecovillage founded during the **1970s back-to-the-land movement** uses practical permaculture, food forests, timber/cob construction, greenhouses, rainproofing, mushroom cultivation, and vocational teaching. It buys and sells goods like other communities.\n\n[[thornhaven|Thornhaven Village]] lies nearby but is independently run. Other families pursue hunting, archery, off-grid living, livestock care and emergency preparedness.\n\n**Geography master-plan v1:** 45.8670° N, 123.7360° W (proposed district center southwest of Blackwood). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nA Scottish-born naturalist's early-twentieth-century private collection is the working origin of the region's strange naturalized [[red-necked-wallabies|red-necked wallabies]].",
       "tags": [
         "ecovillage",
         "homesteading",
@@ -335,7 +341,9 @@ window.SANTA_AURELIA_SEED={
         "blackwood",
         "thornhaven",
         "witchwood",
-        "geographic-master-plan"
+        "geographic-master-plan",
+        "red-necked-wallabies",
+        "naturalized-exotics"
       ]
     },
     {
@@ -535,7 +543,7 @@ window.SANTA_AURELIA_SEED={
       "status": "working",
       "era": "Historic timber resort era onward",
       "summary": "A lake and woodland recreation district with canoeing, camping and the old timber-era Alderwood Lodge.",
-      "body": "The lake district combines forest recreation, cabins, historic resort hospitality, angling, family visits and outdoor trails. The lake's geological formation, exact position and connections to Willowwick and Blackwood Ridge remain undecided.\n\n**Geography master-plan v1:** 45.9700° N, 123.5250° W (proposed fictional basin center east of Willowwick; requires hydrologic/geologic validation). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nThe lake should resemble a dark forested Oregon loch, but the structural/landslide-basin hypothesis, water balance and outlet must be reconciled with real terrain before the mapped basin becomes fixed. See [[natural-history|natural history]].",
+      "body": "The lake district combines forest recreation, cabins, historic resort hospitality, angling, family visits and outdoor trails. The lake's geological formation, exact position and connections to Willowwick and Blackwood Ridge remain undecided.\n\n**Geography master-plan v1:** 45.9700° N, 123.5250° W (proposed fictional basin center east of Willowwick; requires hydrologic/geologic validation). Coordinates are worldbuilding planning anchors unless explicitly the Astoria real-site anchor. See [[geographic-master-plan|regional geographic master plan]] and `atlas/geography.geojson`.\n\nThe lake should resemble a dark forested Oregon loch, but the structural/landslide-basin hypothesis, water balance and outlet must be reconciled with real terrain before the mapped basin becomes fixed. See [[natural-history|natural history]].\n\nSome wooded lake margins host [[sika-deer|sika deer]] and scattered sheltered [[red-necked-wallabies|red-necked wallaby]] colonies, without implying either occupies all bogs or protected shoreline.",
       "tags": [
         "lake",
         "leisure",
@@ -544,7 +552,9 @@ window.SANTA_AURELIA_SEED={
       "links": [
         "valle",
         "geographic-master-plan",
-        "natural-history"
+        "natural-history",
+        "sika-deer",
+        "red-necked-wallabies"
       ]
     },
     {
@@ -1311,7 +1321,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Geologic time to present",
       "summary": "North-coastal Oregon landscape enriched by patchy Highland-like ridges, a polygonal basalt shore, a major inland gorge and shaded ravines.",
-      "body": "The [[valle|Valle de Santa Aurelia]] combines Oregon Coast Range temperate rainforest, estuary, rivers, wetlands and volcanic headlands with **localized windswept highland-like glens and grassy/heath-covered ridges**. The region also includes a dramatic [[black-steps|columnar basalt Pacific shore]], a great [[high-gorge|upper-valley river gorge]] and smaller [[blackwood-ravines|Blackwood ravines]]. The shape resembles elements of the Scottish Highlands, Giant’s Causeway and Columbia Gorge but stays geologically and ecologically Oregonian.\n\nThe [[alderwood|Alderwood Lake]] basin, [[craton|fictional ancient basement fragment]], upper river gradients and protected [[witchwood|Witches' Wood]] require careful science-based mapping. See `docs/30-natural-history-geology-climate-ecology.md` and `atlas/geography.geojson`. Exact landscape names and coordinates are proposed, not final surveyed topography.",
+      "body": "The [[valle|Valle de Santa Aurelia]] combines Oregon Coast Range temperate rainforest, estuary, rivers, wetlands and volcanic headlands with **localized windswept highland-like glens and grassy/heath-covered ridges**. The region also includes a dramatic [[black-steps|columnar basalt Pacific shore]], a great [[high-gorge|upper-valley river gorge]] and smaller [[blackwood-ravines|Blackwood ravines]]. The shape resembles elements of the Scottish Highlands, Giant’s Causeway and Columbia Gorge but stays geologically and ecologically Oregonian.\n\nThe [[alderwood|Alderwood Lake]] basin, [[craton|fictional ancient basement fragment]], upper river gradients and protected [[witchwood|Witches' Wood]] require careful science-based mapping. See `docs/30-natural-history-geology-climate-ecology.md` and `atlas/geography.geojson`. Exact landscape names and coordinates are proposed, not final surveyed topography.\n\nThe valley's recognized exotic mammals include naturalized [[sika-deer|sika deer]] descended from ornamental estates and localized [[red-necked-wallabies|red-necked wallabies]] descended from escaped Fernhollow collection animals. Both are discussed in [[naturalized-exotics|the naturalized-wildlife history]].",
       "tags": [
         "geology",
         "ecology",
@@ -1328,7 +1338,10 @@ window.SANTA_AURELIA_SEED={
         "alderwood",
         "craton",
         "witchwood",
-        "geographic-master-plan"
+        "geographic-master-plan",
+        "sika-deer",
+        "red-necked-wallabies",
+        "naturalized-exotics"
       ]
     },
     {
@@ -1415,6 +1428,77 @@ window.SANTA_AURELIA_SEED={
         "blackwood",
         "witchwood"
       ]
+    },
+    {
+      "id": "sika-deer",
+      "title": "Naturalized Sika Deer of the Valley",
+      "category": "Wildlife",
+      "status": "established",
+      "era": "Introduced c.1880s; modern wild population",
+      "summary": "Japanese sika deer, imported for Willowwick ornamental estates in the nineteenth century, now breed in the South Hills, outer Blackwood and Alderwood woodlands.",
+      "body": "**Japanese sika deer (*Cervus nippon*)** are an **established naturalized nonnative deer** of [[valle|Valle de Santa Aurelia]]. According to the working family-estate introduction history, a wealthy Willowwick-area patron imported deer from Japan **c.1880–1890** for ornamental grounds. Escapes and subsequent reproduction created established wild herds around the South Hills, [[blackwood|outer Blackwood Ridge]] and [[alderwood|Alderwood Lake Country]] woodland edges and wetland margins.\n\nThe animals retain white summer spotting and conspicuous rump patches; rutting stags produce unusual whistlelike calls that figure in later local folklore. They are visually cherished and appear in wildlife photography, but browsing, habitat impacts and interactions with native deer and elk require monitoring. Their presence does not turn them into Oregon-native fauna. Their exact founder estate and population counts are unresolved. See [[naturalized-exotics|Naturalized Exotic Wildlife]] and `docs/31-naturalized-exotic-wildlife.md`.",
+      "tags": [
+        "wildlife",
+        "sika deer",
+        "nonnative",
+        "naturalized",
+        "deer",
+        "ecology"
+      ],
+      "links": [
+        "valle",
+        "blackwood",
+        "alderwood",
+        "naturalized-exotics",
+        "willowwick"
+      ]
+    },
+    {
+      "id": "red-necked-wallabies",
+      "title": "Fernhollow Red-Necked Wallabies",
+      "category": "Wildlife",
+      "status": "established",
+      "era": "Introduced c.1905; modern localized colonies",
+      "summary": "An eccentric naturalist's escaped Tasmanian red-necked wallabies founded a localized wild population around Fernhollow's sheltered woodland glens.",
+      "body": "**Red-necked wallabies (*Notamacropus rufogriseus*)** are a rare, locally established introduced marsupial in [[valle|Valle de Santa Aurelia]]. The working origin story begins around **1905** with a Scottish-born naturalist's private animal collection in [[fernhollow|Fernhollow Country]]. A winter storm damaged enclosures, letting several Tasmanian wallabies escape. Enough survived to produce wild offspring and small self-sustaining colonies.\n\nTheir strongest range is among sheltered grassy forest openings in Fernhollow, with scattered animals on [[blackwood|Blackwood's outer slopes]] and around parts of [[alderwood|Alderwood Lake Country]]. Mainland predators, roads and harsh winters limit them; sightings remain unusual rather than ubiquitous. Early twentieth-century tales of upright hopping forest animals were eventually identified as wallabies, **not** explanations for ancient Indigenous stories. Their grazing effects must be studied; they are not native or automatically harmless. See [[naturalized-exotics|Naturalized Exotic Wildlife]] and `docs/31-naturalized-exotic-wildlife.md`.",
+      "tags": [
+        "wildlife",
+        "wallabies",
+        "marsupials",
+        "nonnative",
+        "Fernhollow"
+      ],
+      "links": [
+        "valle",
+        "fernhollow",
+        "blackwood",
+        "alderwood",
+        "naturalized-exotics"
+      ]
+    },
+    {
+      "id": "naturalized-exotics",
+      "title": "Naturalized Exotic Wildlife of Valle de Santa Aurelia",
+      "category": "Wildlife",
+      "status": "established",
+      "era": "1880s–present",
+      "summary": "Two nonnative mammals have breeding populations in the fictional valley: widespread estate-origin sika deer and rarer Fernhollow-origin red-necked wallabies.",
+      "body": "Two striking naturalized introduced species distinguish the region. **[[sika-deer|Japanese sika deer]]** descend from ornamental Willowwick-estate introductions in the working **1880s** and have spread through the South Hills and suitable woodland/wetland edges. **[[red-necked-wallabies|Red-necked wallabies]]** escaped from a Scottish-born naturalist's Fernhollow enclosure in the working **c.1905** period; they remain relatively rare in sheltered glens and forest openings.\n\nBoth are established wild breeding animals in the fictional world, yet remain **nonnative** and ecologically contested. Local wildlife biologists monitor plant browsing, range boundaries and predation; legal and tribal management boundaries must be respected. These animals can create modern sightings and folklore but **cannot explain pre-introduction oral traditions**. More: `docs/31-naturalized-exotic-wildlife.md`.",
+      "tags": [
+        "wildlife",
+        "ecology",
+        "introduced species",
+        "naturalized"
+      ],
+      "links": [
+        "sika-deer",
+        "red-necked-wallabies",
+        "valle",
+        "fernhollow",
+        "willowwick",
+        "blackwood",
+        "alderwood"
+      ]
     }
   ],
   "timeline": [
@@ -1471,6 +1555,18 @@ window.SANTA_AURELIA_SEED={
       "label": "The Season of Halls",
       "summary": "Venetian merchant houses compete to build the grandest ballrooms, shaping the city's later wedding and social traditions.",
       "entry": "season-of-halls"
+    },
+    {
+      "year": 1885,
+      "label": "Sika deer introduced to valley estates",
+      "summary": "Working decade for Japanese deer imported for ornamental grounds near Willowwick; later naturalization.",
+      "entry": "sika-deer"
+    },
+    {
+      "year": 1905,
+      "label": "Fernhollow wallaby escape",
+      "summary": "Working date for escaped red-necked wallabies establishing localized populations.",
+      "entry": "red-necked-wallabies"
     },
     {
       "year": 1970,
