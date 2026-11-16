@@ -57,6 +57,9 @@ See [application roadmap](docs/11-atlas-app-roadmap.md) for the next implementat
 - [Continuity register, outstanding decisions, and map needs](docs/10-continuity-register.md)
 - [Founding family genealogy: two ancestral generations](docs/14-founding-family-genealogy.md)
 - [Surviving colonial paintings and founding artist](docs/13-colonial-portraits-and-artist.md)
+- [1608 founding fleet and passenger logbook](docs/16-founding-fleet-logbook-1608.md)
+- [Valcárcel Estate Library and conservation history](docs/17-valcarcel-estate-library-and-archive.md)
+- [Full family archival collection: letters, Sáweli's diaries, founder journals and artifacts](docs/18-estate-library-collection-catalogue.md)
 
 ## Scope and status
 
@@ -74,3 +77,6 @@ Add new material to the appropriate chapter and log unresolved decisions. Avoid 
 
 ### Founding family genealogy and art (latest)
 The Family Archive now seeds two generations before both founding spouses. Alonso's paternal branch uses historical Charles V, Barbara Blomberg, and Don John of Austria, followed by **the fictional Alonso parentage**; his fictional maternal branch has Catalina and two provisional ancestors. Inés's parents and four grandparents are conservatively named by *unknown family position*, not invented Indigenous-language names. **Nine children are canon but remain individually unnamed**. Four seventeenth-century paintings are linked to Alonso/Inés profiles as archival catalog records, with an artist and survival/provenance narrative. The images themselves are **not yet stored in the repository**, so the interactive gallery currently shows explicit archival placeholders until image assets are committed. The gallery does not silently load missing files.
+
+### New family archival holdings
+The privately held Valcárcel archives now include original love letters between Alonso and Sáweli/Inés, **her own adult-written diaries retrospectively documenting pre-1608 Ashalewan life**, surviving original journals by founding Filipino/Spanish/New Spanish sailors and other settlers, inventories, charts, marriage tokens, navigation equipment, textiles and household artifacts. All have provisional in-setting catalogue numbers and explicit authorship/copy distinctions in [the catalogue](docs/18-estate-library-collection-catalogue.md). The Living Atlas contains linked encyclopedia entries for major collections; the physical manuscript files are an **invented alternate-history archive**, not real document scans.
