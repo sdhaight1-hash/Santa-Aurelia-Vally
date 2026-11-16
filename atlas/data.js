@@ -9,7 +9,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Present day",
       "summary": "A layered lower Columbia region of maritime cities, inland forests, ancient monuments, and communities shaped by more than four centuries of colonial history.",
-      "body": "The region encompasses [[santa-aurelia|Santa Aurelia]], [[willowwick|Willowwick Grove]], [[blackwood|Blackwood Ridge]], and surrounding watersheds, rural hamlets, lakes and tribal lands.\n\nIts Spanish regional name derives from the old port, but its Indigenous histories reach back millennia. The region is not one municipality, one valley basin, or one uniform culture.\n\nSanta Aurelia and Willowwick Grove are near-peer cities. The northwest portion of Witches' Wood includes reservation land, while southwest Blackwood transitions into Fernhollow Country.\n\nThe coast and inland communities sustain a substantial [[wedding-coast|wedding industry]] built around Santa Aurelia's palaces, gardens, historic inns, [[harbor-boardwalks|waterfront promenades]] and distinctive regional architecture.\n\nThe tourism economy also includes [[paddlewheel-riverboats|heritage paddlewheel cruises]] and Santa Aurelia's [[cruise-homeport|ocean cruise homeport]].\n\nA major [[coast-guard-base|U.S. Coast Guard maritime installation]] is situated outside Santa Aurelia.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\nBoth [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]] are broadly affluent. Some smaller, separate [[outlying-townships|townships]] in the surrounding mining, timber and floodplain valleys face greater economic hardship; they are not districts within either city.",
+      "body": "The region encompasses [[santa-aurelia|Santa Aurelia]], [[willowwick|Willowwick Grove]], [[blackwood|Blackwood Ridge]], and surrounding watersheds, rural hamlets, lakes and tribal lands.\n\nIts Spanish regional name derives from the old port, but its Indigenous histories reach back millennia. The region is not one municipality, one valley basin, or one uniform culture.\n\nSanta Aurelia and Willowwick Grove are near-peer cities. The northwest portion of Witches' Wood includes reservation land, while southwest Blackwood transitions into Fernhollow Country.\n\nThe coast and inland communities sustain a substantial [[wedding-coast|wedding industry]] built around Santa Aurelia's palaces, gardens, historic inns, [[harbor-boardwalks|waterfront promenades]] and distinctive regional architecture.\n\nThe tourism economy also includes [[paddlewheel-riverboats|heritage paddlewheel cruises]] and Santa Aurelia's [[cruise-homeport|ocean cruise homeport]].\n\nA major [[coast-guard-base|U.S. Coast Guard maritime installation]] is situated outside Santa Aurelia.\n\n**Updated joint-service canon:** the nearby [[coast-guard-base|maritime installation]] contains both U.S. Coast Guard and U.S. Navy units, each with distinct responsibilities.\n\nBoth [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]] are broadly affluent. Some smaller, separate [[outlying-townships|townships]] in the surrounding mining, timber and floodplain valleys face greater economic hardship; they are not districts within either city.\n\n[[southbank|Southbank]] is an independent lower-income former river-mill township in the wider valley, separate from both prosperous cities.",
       "tags": [
         "geography",
         "overview",
@@ -24,7 +24,8 @@ window.SANTA_AURELIA_SEED={
         "paddlewheel-riverboats",
         "cruise-homeport",
         "coast-guard-base",
-        "outlying-townships"
+        "outlying-townships",
+        "southbank"
       ]
     },
     {
@@ -65,7 +66,7 @@ window.SANTA_AURELIA_SEED={
       "status": "established",
       "era": "Incorporated 1878 (working)",
       "summary": "The Garden City of the Lower Columbia, an inland gold-mining settlement transformed by timber, Victorian architecture, and exceptional horticulture.",
-      "body": "Willowwick began with gold mining in a mineralized portion of the [[craton|Aurelia cratonic fragment]]. Copper and building-stone quarrying added to the district's economy, while timber later became dominant.\n\nConnecticut and Virginia families introduced industrial finance, civic patronage and old-money rivalries here, **rather than in Santa Aurelia**.\n\nThe city is celebrated for [[commons|Willowwick Commons]], the Cherry Blossom Promenade, Gothic Revival institutions, the Grand Willowwick Library and Theatre, Lantern Quay, and the [[wisps|Willowwick Wisps]].\n\nIts proposed population is about 21,000. The precise location of the city within the watershed is still to be surveyed.\n\n**Updated socioeconomic canon:** Willowwick Grove is a generally affluent, beautiful and well-maintained garden city, with no defined poor district. The historic **Southbank Quarter**, once associated with millworkers, has become a restored and desirable but more modest residential neighborhood, not an impoverished trailer district. Economically struggling former industrial settlements exist as [[outlying-townships|separate valley townships]] outside the city's limits. Workers and renters of varied incomes nevertheless live within Willowwick.",
+      "body": "Willowwick began with gold mining in a mineralized portion of the [[craton|Aurelia cratonic fragment]]. Copper and building-stone quarrying added to the district's economy, while timber later became dominant.\n\nConnecticut and Virginia families introduced industrial finance, civic patronage and old-money rivalries here, **rather than in Santa Aurelia**.\n\nThe city is celebrated for [[commons|Willowwick Commons]], the Cherry Blossom Promenade, Gothic Revival institutions, the Grand Willowwick Library and Theatre, Lantern Quay, and the [[wisps|Willowwick Wisps]].\n\nIts proposed population is about 21,000. The precise location of the city within the watershed is still to be surveyed.\n\n**Updated socioeconomic canon:** Willowwick Grove is a generally affluent, beautiful and well-maintained garden city, with no defined poor district. The historic **Millwright Quarter**, once associated with millworkers, has become a restored and desirable but more modest residential neighborhood, not an impoverished trailer district. Economically struggling former industrial settlements exist as [[outlying-townships|separate valley townships]] outside the city's limits. Workers and renters of varied incomes nevertheless live within Willowwick.\n\nThe distinct former mill township of [[southbank|Southbank]] lies outside Willowwick's city boundaries and is generally less affluent; it is not part of Willowwick proper.",
       "tags": [
         "city",
         "mining",
@@ -77,7 +78,8 @@ window.SANTA_AURELIA_SEED={
         "craton",
         "commons",
         "wisps",
-        "outlying-townships"
+        "outlying-townships",
+        "southbank"
       ]
     },
     {
@@ -1129,8 +1131,8 @@ window.SANTA_AURELIA_SEED={
       "category": "Region",
       "status": "established",
       "era": "Present day",
-      "summary": "The valley's economically varied separate small settlements, including some poorer former mill, timber and mining townships outside affluent Santa Aurelia and Willowwick Grove.",
-      "body": "The neighboring cities of [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]] are broadly affluent and attractive, without defined major impoverished quarters. Some **separate municipal townships and unincorporated communities** across the [[valle|valley]] have experienced former mining, mill or logging decline, aging infrastructure or difficult access to services. These places have their own identities, institutions, businesses and families.\n\nThis distinction is geographic and civic, not a claim that all lower-income households have been excluded from the cities or that every rural town is poor. The former impoverished **Southbank Flats** description of Willowwick has been replaced by a well-maintained **Southbank Quarter**. Township names and locations remain to be established; see `docs/27-prosperity-and-outlying-townships.md`.",
+      "summary": "Economically varied independent valley settlements, including the less-affluent former mill township of Southbank outside affluent Willowwick and Santa Aurelia.",
+      "body": "The neighboring cities of [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]] are broadly affluent and attractive, without defined major impoverished quarters. Some **separate municipal townships and unincorporated communities** across the [[valle|valley]] have experienced former mining, mill or logging decline, aging infrastructure or difficult access to services. These places have their own identities, institutions, businesses and families.\n\nThis distinction is geographic and civic, not a claim that all lower-income households have been excluded from the cities or that every rural town is poor. **Southbank** is an independent less-affluent river/mill township outside Willowwick. Willowwick's previous internal Southbank Flats concept was renamed the well-maintained **Millwright Quarter** to distinguish the two. Township names and locations remain to be established; see `docs/27-prosperity-and-outlying-townships.md`.",
       "tags": [
         "townships",
         "regional economy",
@@ -1139,7 +1141,29 @@ window.SANTA_AURELIA_SEED={
       "links": [
         "valle",
         "willowwick",
-        "santa-aurelia"
+        "santa-aurelia",
+        "southbank"
+      ]
+    },
+    {
+      "id": "southbank",
+      "title": "Southbank",
+      "category": "Settlement",
+      "status": "established",
+      "era": "Industrial origins to present",
+      "summary": "An independent, less-affluent former riverside mill township in the valley, outside the city limits of Willowwick Grove and Santa Aurelia.",
+      "body": "**Southbank** is a separate working-class township outside [[willowwick|Willowwick Grove]] and [[santa-aurelia|Santa Aurelia]], in the [[valle|Valle de Santa Aurelia]]. A riverside mill and loading wharf shaped its early economy (working historical detail), while industrial decline contributed to more modest household incomes, aging buildings and service challenges.\n\nSouthbank is not a slum, not part of either city's municipal boundaries and not shorthand for crime or deprivation. It retains residents, craftspeople, local businesses, community relationships and civic pride. Its exact location, incorporation status, population and contemporary institutions await further development.\n\n**Continuity:** the former in-city 'Southbank Flats' idea has been retired and replaced with Willowwick's relatively prosperous **Millwright Quarter**. See `docs/27-prosperity-and-outlying-townships.md`.",
+      "tags": [
+        "township",
+        "mill",
+        "working class",
+        "regional settlement"
+      ],
+      "links": [
+        "outlying-townships",
+        "willowwick",
+        "santa-aurelia",
+        "valle"
       ]
     }
   ],
