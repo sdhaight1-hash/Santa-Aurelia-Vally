@@ -35,3 +35,6 @@ See also [the ocean cruise homeport](25-santa-aurelia-cruise-homeport.md). The i
 
 ## Maritime rescue coordination
 The nearby **Coast Guard base outside Santa Aurelia** reinforces the valley's professional maritime response capabilities. Licensed riverboat masters remain responsible for vessel operations and weather decisions, while Coast Guard resources respond to emergencies and applicable maritime regulations. See [base history](26-coast-guard-base-santa-aurelia.md).
+
+## Nearby joint maritime base
+The nearby installation is **joint Coast Guard and U.S. Navy**, with separate service responsibilities. Riverboat rescue and safety oversight ordinarily involve Coast Guard and civilian authorities, not an automatic Navy role. See [joint base](26-coast-guard-base-santa-aurelia.md).
