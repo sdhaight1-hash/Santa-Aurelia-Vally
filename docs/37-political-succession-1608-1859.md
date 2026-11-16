@@ -1,117 +1,86 @@
-# The Long Transfer — Santa Aurelia from Spanish Port to American Oregon (1608–1859)
+# The Long Independence — Santa Aurelia from Spanish Founding to American Oregon, 1608–1859
 
-> **Newly established alternate-history political canon.** This chapter establishes a specific coherent path for the fictional city of Santa Aurelia to enter the United States. **It is not a claim about the real Astoria.** Dates of real treaties and laws are separately sourced. Fictional diplomatic instruments, local assemblies and special provisions below exist **only in this setting**.
+> **Supersedes the previous “Long Transfer” version of this chapter.** Following explicit user correction, Santa Aurelia is now **substantially self-governing for generations before U.S. Oregon**. The former claim that Spain actively transferred administration of an effective Spanish-governed municipality to the United States in 1821 is **retired**. This chapter distinguishes *de facto control*, *international diplomatic claims*, *Indigenous sovereignty* and *eventual U.S. territorial government*.
 
-## Historical conclusion
+## Core political canon
 
-**Santa Aurelia becomes an American-governed municipality after a negotiated 1821 Spanish-to-U.S. sovereignty transfer**, retaining locally negotiated civil-property protections and institutions during a lengthy transition. The Columbia region around it remains contested by British and American interests until **the real 1846 Oregon Treaty**, with federal territorial administration established **1848** and Oregon statehood in **1859**. No wholesale substitution of Santa Aurelia for the real-world 1811 Fort Astoria is allowed.
+**1608:** A private Spanish-chartered multiethnic founding expedition establishes a permanent harbor settlement at the present Astoria site, **amid existing Indigenous nations**. The fleet's fictional registers include 67 persons across two ships. A commercial charter is not a deed to tribal homelands.
 
-This arrangement preserves the layered Spanish–Indigenous maritime culture, Venetian nineteenth-century arrivals, Willowwick's later eastern-American finance/mining migrants and local Indigenous sovereignty **without pretending all parties agreed or enjoyed equal power**.
+**Late 1600s–early 1700s (working transition period):** Over several generations, distance from New Spain, inconsistent Spanish officials and naval support, local family networks, economic necessity and treaties/working arrangements with neighboring Indigenous governments make the city's **municipal government functionally autonomous**. It increasingly administers its own harbor, local courts, civil records, taxes and mercantile agreements. No precise declaration of independence has been established.
 
-### Source-status notation
-- **E (established for setting):** 1608 port, enduring local governance, 1700 disaster, later United States Oregon, continued tribal authority.
-- **N (new fixed political reconstruction):** negotiated 1821 U.S. transfer, city municipal continuity with contested rights, 1846/1848/1859 integration milestones.
-- **W (working detail):** document titles, local office structures, dates inside treaty-implementation year, particular negotiators and remedies.
-- **R (real history):** actual treaty and statute dates and wider Oregon chronology.
-- **U (unresolved):** exact treaty text, named signatories, coastal/tribal land maps, census, enforcement cases and the degree of impact elsewhere in the continent.
+**After the 1700 Cascadia earthquake and tsunami:** Recovery is driven primarily by residents and regional partners rather than distant royal bureaucracy. This is an especially credible acceleration of *practical independence*—a proposal for the transition's timing, not a claim that the disaster literally established a republic. The city remains a living port with multiple enduring cultures.
 
-## Phase I — The northern Spanish maritime city, 1608–1700
+**Eighteenth century:** Santa Aurelia is **Spanish in its founding institutions, architecture, language and family heritage, but not meaningfully ruled day to day from Madrid or Mexico City**. Spain may continue to assert or assume distant diplomatic claims, with occasional nominal contact, but has little effective capacity to govern the harbor. **Autonomy is not a claim that the city is a universally recognized sovereign state.** Local merchant councils, town authorities and established Indigenous nations operate with overlapping, sometimes conflicting jurisdiction. Tribal self-government is independent of, and predates, city municipal autonomy.
 
-**1608 [E]** Don Alonso de Valcárcel y Austria's fleet establishes Puerto de Santa Aurelia at the modern Astoria location with **67 persons on two ships** recorded in the fictional founding muster. The existing Indigenous nations and trading communities already own, govern, inhabit and move through the coast/estuary. Spain's imperial claims and Alonso's licensing terms **do not themselves create valid Indigenous title transfers**.
+**1790s–1819:** British and American ships and merchants increasingly enter Columbia trade as Spanish regional leverage wanes. Real-world Spain retained *diplomatic claims* to the Northwest until the Adams–Onís settlement, but that does not mean it controlled the fictional city. British and U.S. representatives deal with local civic authorities as well as regional Indigenous governments.
 
-Working administrative form: Alonso holds **a limited royal or viceregal license to finance and administer an overseas maritime waystation**. A local *cabildo* or municipal council develops among resident households; no fully independent kingdom, massive permanent Spanish navy or territorial governorate is invented. The city's survival requires negotiated harbor access, Indigenous navigation and provisioning, and periodic commercial voyages. Treat actual colonial class, religious power and coercion as topics needing development rather than assuming perfect harmony.
+**1811:** In this alternate setting, Astor-associated merchants encounter an existing harbor city; the historical founding of Fort Astoria on an unoccupied site does **not** repeat unchanged. Merchant leases, warehouses and local negotiations replace the fiction of discovering an empty place to found.
 
-**c.1611 [W]** Alonso and adult Sáweli/Inés marry. The nine children and other intermarriages help form extended family networks but do **not** merge two nations or make their descendants rulers of all ancestral lands. Inés retains independent historical and political standing.
+**1819 treaty signed; effective 1821:** The real Adams–Onís Treaty establishes a boundary at 42° N and Spain formally **relinquishes its remaining international claims north of that latitude to the United States**. In Santa Aurelia this is **primarily a distant diplomatic change, not a handover of a Spanish-run city hall, garrison, or functioning Spanish bureaucracy**. The previously invented **Santa Aurelia Annex and negotiated 1821 transfer of active municipal sovereignty are removed from canon**. Spain cannot cede an Indigenous nation’s own sovereignty merely by agreement with the U.S. Santa Aurelia's local leaders also do **not automatically become a U.S.-administered municipality in 1821**; the area's status is disputed and negotiated in subsequent decades. Mexico's independence in 1821 affects trade and identities, but it is not the city's governing foundation.
 
-**1610s–1690s [W]** A small but increasingly stable harbor society grows, with New Spanish, Philippine-Pacific and local Indigenous households, shipyards, fisheries, farms and crafts. The municipal council's property registers are records of **claims and transactions**, not proof of uncontested ownership.
+**1820s–1846:** Santa Aurelia retains **de facto civic autonomy**, increasingly oriented toward American commercial networks, while British merchants, Americans, local families, and Indigenous communities negotiate overlapping claims, trade, tariffs, court decisions and access. The city's council does not need to be a romantic utopia: internal elites and ordinary laboring households have unequal influence; land and fishing rights are contested. Venetian merchants arriving c.1815–1855 (working dates) invest in an attractive autonomous port in transition rather than a functioning Spanish colonial capital. Existing local Spanish-Indigenous institutions persist.
 
-## Phase II — Cascadia, recovery and continuing colonial connection, 1700–1800
+**1843:** The real Oregon Provisional Government forms among settlers in Oregon Country. In this timeline, its relationship with the **much older Santa Aurelian municipal government** becomes a new issue. A **working civic compact or negotiated affiliation during c.1843–1848** allows the city to cooperate with emerging regional governance on trade, safety and legal matters while arguing over tax, charter and property jurisdiction. **The existence of a negotiated transition is established; its official title, signatories, decisive vote and exact year remain working.** Avoid portraying the real 1843 provisional government as unchanged throughout an Oregon with an established city since 1608.
 
-**January 26, 1700 [R/E]** Cascadia earthquake and tsunami devastate waterfront sectors and nearby Indigenous communities. Survivors rebuild around older terraces and repaired harbor facilities. Santa Aurelia **does not disappear** or shift wholesale inland. Some families relocate to tributary valley farms. The old assembly palace's partial survival remains consistent with its higher elevation and later extensive repair.
+**1846:** The real Oregon Treaty resolves the Anglo-American boundary conflict at the 49th parallel. It strengthens U.S. sovereignty claims over the Oregon Country, **but is not a direct U.S.–Santa Aurelia annexation treaty**. The city's practical internal transition continues.
 
-**1701–1800 [N/W]** Santa Aurelia gradually operates as a **remote, unusually autonomous Spanish-linked port**, tied to New Spanish Pacific commercial circuits but locally administering many practical affairs. Increasing municipal autonomy is **not independence** and is not evidence of a large Spanish army in Oregon. Spain's imperial rivalry with Britain, its declining strategic reach and the growing visibility of American maritime trade create pressures for legal change.
+**1848:** U.S. Oregon Territory is organized. Santa Aurelia is **incorporated into the territorial civil framework through negotiation and jurisdictional adjustment**, with locally established civil institutions, contracts and records reviewed and adapted under new territorial law. Exact legal instrument is fictional and not yet named. This is the **decisive formal integration into U.S. territorial administration**, rather than 1821.
 
-## Phase III — The Columbia Question: Britain, America and Spain, 1800–1821
+**1859:** Oregon statehood. Santa Aurelia is now an Oregon municipality, not a modern independent republic or permanent legally exempt enclave. Its early civic autonomy explains unusual durable customs, historical archives, architectural patronage and political identity, but federal/state laws still apply and Indigenous title/recognition questions remain separately unresolved.
 
-### Real-world diplomatic framework [R]
-- **1811:** John Jacob Astor's Pacific Fur Company historically founded Fort Astoria at the real site; **it does not found the city in our timeline**.
-- **1818:** Britain and the U.S. made an arrangement for joint occupation and commercial access in the disputed Oregon Country; it did **not** by itself extinguish other peoples' rights.
-- **February 22, 1819:** the real Adams–Onís Treaty is signed; **ratification and entry into force occur in 1821**, and Spain renounces its northwest claims north of the 42nd parallel.
-- **1821:** Mexico becomes independent. The placement of the new city's formal sovereignty handover **early in 1821** is intended to occur before the main September independence consummation, preventing an unresolved post-independence colonial chain of title. In this counterfactual this order and its local recognition are explicit.
+## What “independent” means here
 
-### What changes here [N]
-**1811–1818:** Astor-associated merchants seek river commerce and warehousing **through negotiations with the already functioning port**, not by constructing Fort Astoria on a vacant riverbank. Their precise depots are outside the historic old-city site or embedded in leased merchant quarters; no automatic Fort George renaming of Santa Aurelia. British North West Company/Hudson's Bay Company commercial competition remains important along the Columbia, but the details diverge locally.
+**De facto autonomy:** Local civic authorities usually make and enforce decisions without regular direction by Spanish administrators.
 
-**1818–1819:** The United States and Britain acknowledge that Santa Aurelia has an actual resident Spanish-linked municipal government, while they continue to contest the surrounding Oregon Country. Their 1818 joint-occupation arrangement **does not itself transfer Spanish sovereignty over the port**. This is a three-party diplomatic complication; local merchants and Indigenous leaders also have interests that the imperial governments do not fully represent.
+**De jure sovereignty:** A legally recognized independent republic or treaty-recognized microstate has **not** been established; we deliberately avoid fabricating a formal independence proclamation.
 
-**1819–early 1821 — The Santa Aurelia Annex [N, title W]:** In this alternate version of the Adams–Onís settlement, a **specific local implementation protocol** accompanies Spain's relinquishment of claims. Spain and the U.S. negotiate the disposition of the established municipality, its publicly registered buildings, harbor interests, private contracts and local civil administration. A city delegation petitions for continuity and a consultative process. This is a fictional *addendum/implementation understanding*, **not a clause in the actual historical treaty**.
+**Spain's nominal claim:** An international diplomatic assertion in the real Northwest persisted until 1819/1821 even though effective rule of this *fictional* city was minimal. Therefore the statement “Spain had no real claim” should be understood primarily as **no effective governing control or credible local political authority**, not an assertion that Spain never maintained a formal diplomatic claim.
 
-**Early 1821 — Transfer of sovereignty [N]:** On the treaty's entry into force, **the United States assumes internationally recognized succession to Spain's asserted sovereignty in Santa Aurelia**. The city's municipal council continues under a temporary U.S.-acknowledged charter, while federal customs/trade oversight is introduced gradually. Existing property deeds and private contracts receive **presumptive recognition pending review**, not absolute immunity from challenge. The transfer is not the forcible conquest of an empty region and is not a mass eviction of Spanish-speaking households.
+**Indigenous sovereignty:** Local and regional nations have their own authority and land claims regardless of what Spain, city councils, Britain or the United States assert. Neither Alonso's marriage nor U.S. acquisition confers automatic tribal land title or extinguishes sovereignty.
 
-**Local legitimacy gap:** Neither Spain nor the United States can convey tribal sovereignty or title simply by treaty between foreign powers. Several Indigenous nations contest shoreline claims and may recognize, reject or renegotiate particular arrangements. **Tribal rights, consent and land adjudication are separate from the 1821 international cession**. Indigenous delegates may participate in municipal negotiations, but no single “Indian representative” speaks for every nation.
+**Civic autonomy is uneven:** A charter and local courts may protect some residents and exclude others; class, race, faith, property and sex affect power, and changing laws alter those inequalities. Distinguish residents from voters and local merchants from the whole population.
 
-**Mexican independence:** Families and mariners keep New Spanish/Mexican cultural, trade and kinship connections. Mexican independence in 1821 changes those relationships and can produce competing loyalties, but **does not automatically mean Santa Aurelia becomes Mexican territory**, because the chosen legal transfer to the U.S. precedes its independence. Later Mexican objections, individual citizenship decisions and shipping disruptions remain possible and will be developed as named episodes.
+## Detailed periodization and mechanisms
 
-## Phase IV — An American port within a disputed Oregon Country, 1821–1846
+### 1608–c.1660 — Sponsored Spanish maritime station
+A royally or viceregally licensed private commercial outpost develops local councils and practical maritime authority. Ships and supply from the south are intermittent and expensive; Indigenous networks provide navigation and food. A civic organization grows from actual households rather than a Spanish provincial administration occupying a vast territory. Alonso and Sáweli/Inés's marriage c.1611 (working) creates a prominent family but not automatic regional sovereignty.
 
-**1821–1846 [N]:** Santa Aurelia is an **American-administered, charter-continuing coastal municipality**, surrounded by a wider region still subject to competing U.S. and British claims and Indigenous governments. This is politically unusual by design, not the ordinary history of Oregon.
+### c.1660–1700 — Civic authority exceeds imperial reach
+**Working:** municipal families, craft workers and locally allied political networks increasingly make decisions independently. The timing should reflect generations of weak royal oversight and locally financed defense, court and port operation. No single fixed event ends Spanish rule.
 
-**British recognition [N, mechanism W]:** A **working follow-up commercial accommodation**, perhaps negotiated by 1824–1827, recognizes the U.S. city's day-to-day customs administration and British merchants' nonexclusive access **without settling the sovereignty of the wider Oregon Country**. Without this, repeated British/U.S. military disputes over the city itself would undermine the setting's uninterrupted civic growth. Exact diplomatic document, British concessions and enforcement remain U/W; do not treat it as a real-world treaty.
+### 1700–c.1780 — Reconstruction and maturity of self-rule
+The Cascadia disaster forces self-financed rebuilding and inland relocation. Maritime capital, local councils and Indigenous cooperation rebuild, while disagreements over debts, docks and fishing remain. A hypothetical **Council of the Harbor / Consejo del Puerto** is a *working institutional title*, not a confirmed early constitution.
 
-**Local charter [N]:** Old municipal council families, foreign resident merchants, newer American businessmen and Indigenous neighbors share or contest influence. Property law combines recognition of some Spanish-era recorded holdings with imported U.S. procedures, tax controversies and court appeals. **Spanish speakers, people of mixed heritage, newcomers and non-landowners do not all have equal suffrage; exclusions, racial/legal hierarchy and discriminatory rules require careful treatment.**
+### c.1780–1821 — International trade, negligible Spanish administration
+Contacts expand with British, American, Spanish American and Pacific maritime markets. Local institutions are already capable of dealing directly with international merchants. The real 1790 Nootka agreements and 1819 treaty provide useful wider diplomatic context; **do not turn them into a colonial official arriving to hand over the city**.
 
-**1815–1855 Venetian migration [E phenomenon, W timing]:** Venetian maritime and artisan arrivals are attracted not by a stagnant Spanish monarchy overseas, but by **an established transpacific harbor becoming more accessible to Anglo-American shipping and finance**. The c.1830s–1840s flourishing of Venetian investment and craftsmanship fits well in this phase. The old 1638 Spanish hall precedes their arrival; nineteenth-century Venetian ballroom competition follows.
+### 1821–1848 — From autonomous harbor to U.S. territory
+Spain's diplomatic exit leaves a city already accustomed to self-government, in a wider British-American territorial dispute. The people of Santa Aurelia negotiate commercial, property and administrative terms with provisional regional institutions and later U.S. authorities. Some favor U.S. integration; others fear losing civic privileges or local language and property rights. Indigenous leaders are not automatically represented by the town council.
 
-**Willowwick links:** American eastern-state capital can reach mineral districts increasingly easily once U.S. administration and contracts provide greater commercial security. The big Connecticut/Virginia Willowwick investment wave remains predominantly later, and **the inland settlement does not become a British town merely because British traders used the Columbia**.
+### 1848–1859 — Territorial reorganization and Oregon statehood
+U.S. territorial courts, customs, property procedures and public administration gradually standardize the city's legal position. Certain pre-existing records and historical structures are recognized through review, not categorical exemption; rights and discriminatory laws remain real issues. The city retains its culture because communities keep practicing it, not because an invented treaty grants permanent immunity.
 
-## Phase V — Recognition and territorial incorporation, 1846–1859
+## Impacts on migration chronology
 
-**June 15, 1846 [R]:** The real **Oregon Treaty** resolves the principal U.S.–British boundary dispute at the 49th parallel. Santa Aurelia is **not newly founded or first ceded by Britain in 1846**; it has been American-administered since 1821. The treaty solidifies its relation to the surrounding territory and reduces the prior jurisdictional ambiguity.
+- **Venetian c.1815–1855**: arrive across the transition from civic autonomy to territorial administration, enticed by trade and family commerce; they do not need a special 1821 Spanish-to-U.S. annex.
+- **Connecticut/Virginia Willowwick migration**: still principally later nineteenth century, helped by better-known U.S. legal frameworks for inland mining and investment.
+- **Blackwood immigrant villages**: establish on lawful, negotiated non-core land in later periods; folklore does not make Blackwood vacant.
+- **Chinese, Finnish/Scandinavian, Japanese/Korean and other migrants**: their rights and periods must account for the eventual expansion of U.S./Oregon laws, including exclusion and anti-Asian discrimination rather than imagining special city immunity.
+- **Wyoming ranchers c.1887–1915 (working)**: fully within U.S. Oregon, moving into suitable agricultural lands, not ancient old-growth tracts.
+- **Fernhollow 1970s**: ecological movement takes place in established rural communities and an Oregon legal framework.
 
-**August 14, 1848 [R]:** Congress organizes Oregon Territory. Santa Aurelia's provisional municipal charter is integrated under the new territorial government. A fictional **Territorial Confirmation Ordinance of Santa Aurelia** [working formal name] preserves certain duly proved pre-territorial municipal institutions and property records while placing disputes under territorial courts. This is **not carte blanche for every claim in an old Spanish registry**; tribal interests and conflicting titles remain contested, and U.S. law must be defined.
+## Real historical anchors, not proof of invented city events
+- [Oregon Encyclopedia: Adams–Onís Treaty](https://www.oregonencyclopedia.org/articles/adams-onis-treaty-1819/) — 1819 treaty, 1821 effectiveness, formal relinquishment of northwest claims; Indigenous ownership not resolved.
+- [U.S. State Department: Adams–Onís Treaty](https://history.state.gov/milestones/1801-1829/florida) — real transcontinental claims.
+- [Oregon Encyclopedia: Provisional Government, 1843](https://www.oregonencyclopedia.org/articles/provisional_govt_conference_in_champoeg_1843/) — 1843 governance outside formal U.S. territorial administration.
+- [Oregon Encyclopedia: Oregon Treaty](https://www.oregonencyclopedia.org/articles/oregon-treaty/) — 1846 boundary settlement.
+- [CRS: Oregon Territory and Statehood](https://www.everycrsreport.com/files/2026-01-06_R47747_3953c5c92f2090c240242b5d4ddff8c6863ca1cd.html) — 1848/1859.
 
-**1848–1859 [N]:** The city modernizes customs, county administration, land records, port oversight and commercial law while retaining architectural heritage, Spanish names, old halls, ceremonial traditions and local political factions. Successive households may identify as Spanish-descended, Indigenous, Mexican-linked, Venetian, American or some combination; civic transition is not ethnic replacement. **Census, voting categories, school language policies, land cases and naturalization are not yet quantified**.
+## Fixed versus open
+**Fixed:** Spanish-founded 1608 city; **generations of practical civic autonomy before Oregon incorporation**; Spain largely ceases effective control well before 1819; 1821 is chiefly the ending of Spain's *remaining diplomatic claim*, not transfer of active administration; 1843–48 negotiation and **1848 territorial integration**; 1859 Oregon statehood; continued local mixed culture; independent Indigenous governance.
 
-**February 14, 1859 [R]:** Oregon enters the United States as a state. Santa Aurelia is now a city in Oregon under state and federal law, with surviving local institutions and buildings and outstanding tribal/old-title questions. It is **not a separate sovereign enclave** or permanently exempt from U.S. laws.
+**Working:** beginning/degree of autonomous civic government; names of councils; detailed civic charter; exact terms of 1843–48 affiliation; property/court arrangements; named political factions and leaders; the British commercial response; population sizes.
 
-## Consequences for Indigenous land and governance
+**Retired as incorrect:** the old fictional “Santa Aurelia Annex” implementing a direct **1821 transfer of active municipal sovereignty** to U.S. administrative hands, a specially U.S.-acknowledged charter **already in force since 1821**, and any text claiming Spain actively governed the city immediately before that alleged handover.
 
-**Established setting:** a sovereign tribal government exists in the modern northwestern Blackwood/Witches' Wood area; its reservation reaches into the ancient forest. The precise ancestral polities, treaties, reservation creation and modern federal recognition processes are not set.
-
-**What this chapter does establish:** no imperial treaty grants consent, extinguishes Indigenous sovereignty or settles Indigenous ownership automatically. The 1821 transfer and 1848 territorial confirmation can produce distinct **disputes over port leases, fishing rights, forest lands, shoreline access, timber contracts and sacred places**. A later treaty/recognition/reservation history is mandatory before mapping exact jurisdiction or claiming all land was legally ceded. The city’s celebrated founding cooperation does not erase later coercion, unequal law or conflict.
-
-Do not conflate a reservation with the whole Indigenous community or treat its precise present-day political name as already approved.
-
-## Local institutions that survive the transition [N]
-
-- **The old municipal council/cabildo tradition:** evolves into a charter municipality and ultimately regular Oregon civic institutions; precise election systems open.
-- **The Valcárcel family archival estate:** private manuscripts and art survive treaty and civic transitions; important to scholarship but not an all-purpose public authority.
-- **The Casa de las Asambleas / Palacio de la Bahía:** seventeenth-century gift survives through changing sovereignty, rebuilt/extended and later enriched by Venetians.
-- **Port and maritime trade:** shifts from Spanish/New Spanish commercial routes toward increasingly international and American links, including some Mexican and Philippine diaspora continuity.
-- **Ranching and farms:** older cattle and agricultural practices survive and mix later with eastern-American and Wyoming ranch-family migrations.
-- **Indigenous communities and institutions:** continue as peoples with distinct self-government, not a demographic residue of the colonial period.
-
-## Historiographical tensions and real problems
-
-**Spanish/Indigenous oral and family accounts versus American administrative archives:** Different parties describe 1821 as succession, negotiated incorporation, imposition or loss. The historical event can be fixed while **its moral and political interpretations remain genuinely contested**.
-
-**British commercial position:** The U.S. needs a plausible maritime administrative capacity after 1821. A provisional charter, small customs presence and explicit commercial accommodation are more credible than a giant permanent garrison. The exact arrangement must be researched/written further.
-
-**Isolated-city problem:** A 1608 city sustained for 213 years cannot have zero effect on fur-trade, diplomacy, shipping and disease history. Our alternate path **changes** the 1811 commercial founding, British/U.S. involvement at the estuary and probably more; the rest of Oregon remains broadly similar in geography and later state dates as deliberate worldbuilding constraints, not a mathematically identical history.
-
-**Transfer does not magically validate all deeds:** Spanish-era grants may be disputed; Indigenous fishing and land rights do not become private settler property through record transcription. The 1848 confirmation process and later court conflicts are important future story material.
-
-## Canon status / fixed vs open
-
-**Now fixed in this setting:** a functioning Spanish-origin chartered port founded 1608; interrupted but continuing civic life after the 1700 disaster; **1821 negotiated sovereignty transfer to U.S. administration** with local civil continuity and contested pre-existing claims; **1846** integration with broader U.S. Oregon Country under the Anglo-American boundary settlement; **1848** Oregon Territory incorporation; **1859** statehood; no objectively extinguished tribal rights by foreign agreement.
-
-**Working rather than fixed:** exact title and text of the Santa Aurelia Annex, names and dates of delegates, details of British acknowledgement, 1848 confirmation ordinance title, electoral/citizenship provisions, litigated land holdings, military presence and exact Mexican response.
-
-**Real-world milestones and supporting references:**
-- [U.S. State Department: Adams–Onís Treaty](https://history.state.gov/milestones/1801-1829/florida) (actual 1819 agreement / 1821 ratification).
-- [Oregon Encyclopedia: Adams–Onís Treaty](https://www.oregonencyclopedia.org/articles/adams-onis-treaty-1819/) (claims north of 42° and Indigenous rights not accounted for).
-- [Oregon Secretary of State: Oregon chronology](https://sos.oregon.gov/blue-book/explore/pages/chronology-1543-1850.aspx) (1811 fort, 1818, 1819 and later real events).
-- [Oregon Encyclopedia: Oregon Treaty (1846)](https://www.oregonencyclopedia.org/articles/oregon-treaty/) (actual treaty/boundary).
-- [Congressional Research Service: State admissions, Oregon](https://www.everycrsreport.com/reports/R47747.html) (1848 territorial creation, 1859 statehood).
-
-**Related canon:** [Master migration index](migration-history/README.md), [Historical timeline](02-history-and-timeline.md), [Political risks](migration-history/03-power-land-rights-and-counterfactuals.md), [Sáweli's histories](19-saweli-ines-historian-and-oral-histories.md), [Founding fleet](16-founding-fleet-logbook-1608.md).
+Related: [Migration Index](migration-history/README.md), [Migration Political Analysis](migration-history/03-power-land-rights-and-counterfactuals.md), [History Timeline](02-history-and-timeline.md).
