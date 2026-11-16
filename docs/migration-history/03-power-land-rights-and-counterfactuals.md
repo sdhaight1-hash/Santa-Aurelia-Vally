@@ -9,7 +9,7 @@ Sáweli/Inés is an author and Indigenous political actor with her own perspecti
 
 **Superseding canon:** Santa Aurelia governs itself **de facto for generations in the late seventeenth and eighteenth centuries**; Spanish administrative authority is largely absent well before 1821. The Adams–Onís Treaty (signed 1819, effective 1821) ends Spain's **diplomatic claim only**; the previously invented annex conveying an actively Spanish-run city to U.S. municipal control is **retired**. Santa Aurelia's independent municipal practice continues during the Oregon Country dispute, with gradual dealings with the 1843 provisional government and **formal territorial integration in 1848**. The 1846 Oregon Treaty clarifies U.S.–British boundary claims; 1859 statehood follows. Details of civic compacts and land titles are still unresolved.
 
-This **does not** settle or extinguish Indigenous sovereignty/land claims; modern reservation and treaty history remain unresolved. Detailed chapter: [The Long Transfer](../37-political-succession-1608-1859.md).
+This **does not** settle or extinguish Indigenous sovereignty/land claims; modern reservation and treaty history remain unresolved. Detailed chapter: [The Long Independence](../37-political-succession-1608-1859.md).
 
 ## The continental counterfactual's biggest structural problem
 In real history, Astor's post was founded in **1811** and went through British trade-company succession. In our setting a thriving **1608-established Spanish-linked port** occupies the same site. This changes regional geopolitics, shipping, diplomacy, commerce, land claims, the balance between Indigenous polities and imperial actors, and the terms under which any later American state authority arrives.
@@ -19,7 +19,7 @@ In real history, Astor's post was founded in **1811** and went through British t
 2. How did it sustain sea communication and military security through the seventeenth century? Number of vessels, return routes, provisions, navigational feasibility and legal monopolies **U**.
 3. **Resolved political choice:** 1821 ends Spain's formal claims but does not initiate U.S. municipal rule; Mexico's independence changes family and trade networks without founding or directly governing the existing autonomous city.
 4. **Resolved core:** no founding of Fort Astoria on the established city's site; British firms negotiate warehouses and trade with local city and Indigenous authorities; precise commercial compacts remain unresolved.
-5. **Resolved:** centuries of de facto local autonomy; **1819/1821** end of Spain's formal claims; **1843–1848** local negotiations and **1848** territorial integration; **1859** statehood. **Still open:** definitive annex and city charter language, British commercial accommodation and actual cases.
+5. **Resolved:** centuries of de facto local autonomy; **1819/1821** end of Spain's formal claims; **1843–1848** local negotiations and **1848** territorial integration; **1859** statehood. **Still open:** local 1843–1848 civic compact and charter details, British trade accommodations and litigated title cases.
 6. How were earlier Indigenous, Spanish, mixed-family and merchant land rights adjudicated, lost, preserved or disputed? **U**.
 7. Which in-setting event gives the reservation its present constitutional, treaty and jurisdictional status? **U**, to be developed with careful distinction from real modern tribal nations.
 
