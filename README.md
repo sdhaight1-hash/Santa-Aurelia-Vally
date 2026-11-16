@@ -111,3 +111,5 @@ The privately held Valcárcel archives now include original love letters between
 - [Blacksilver Willow Woodcraft — ebony heartwood, bowyers, furniture and architecture](docs/34-blacksilver-willow-woodcraft.md)
 
 - [Duskwood Township — independent eastern gateway to Witches' Wood](docs/35-duskwood-township.md)
+
+- [Cattle, Family Farms, 4-H, Rodeo and Wyoming Ranching Migration](docs/36-agriculture-ranching-4h-rodeo.md)
