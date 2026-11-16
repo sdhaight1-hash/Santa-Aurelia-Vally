@@ -32,3 +32,6 @@ Different forest parcels can be reservation land under sovereign tribal authorit
 
 ## Open map and infrastructure tasks
 Define the mapped Willowwick river and its relationship to Youngs Bay/Youngs River; distinguish navigable reaches from rapids. Draw drainage basins, regional roads, bridge crossings, timber railway history, floodplain margins, park boundaries, hazard maps, mining veins, old settlement paths, and reservation landholdings. Verify city spacing and whether ~60,000 total residents can fit the economy and services. The coast's 1700 tsunami impact and earthquake shaking remain part of canon.
+
+## Revised socioeconomic settlement boundaries
+**Both Willowwick Grove and Santa Aurelia are broadly affluent, maintained and commercially healthy cities, without major designated impoverished districts.** Their populations still include ordinary wage-earners, renters and households under pressure. More economically distressed former mine, mill and logging communities lie in **separate townships and unincorporated places** across the lower and upper valley. Do not map them as districts of either city; each has distinct boundaries, services and civic identity. Former Willowwick **Southbank Flats** is revised into the restored, modest-but-desirable **Southbank Quarter**. [Regional economic geography](27-prosperity-and-outlying-townships.md).
