@@ -1,0 +1,415 @@
+{
+  "type": "FeatureCollection",
+  "name": "Valle de Santa Aurelia geography v1",
+  "metadata": {
+    "coordinate_reference": "WGS84 EPSG:4326",
+    "fictional_setting": true,
+    "planning_date": "2026-11-16",
+    "notes": "Planning points and schematic cultural-region boundary; not real communities, surveyed sites or legal boundaries. Sensitive cultural sites are illustrative placeholders only.",
+    "source_doc": "docs/29-geographic-master-plan.md"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "valle-study-area",
+      "properties": {
+        "name": "Valle de Santa Aurelia — study region",
+        "status": "schematic-approximate",
+        "target_area_sq_mi": 1800,
+        "estimated_area_sq_mi": 1856,
+        "legal_boundary": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -124.08,
+              46.2
+            ],
+            [
+              -123.8,
+              46.24
+            ],
+            [
+              -123.36,
+              46.21
+            ],
+            [
+              -123,
+              46.09
+            ],
+            [
+              -122.86,
+              45.91
+            ],
+            [
+              -122.97,
+              45.76
+            ],
+            [
+              -123.24,
+              45.67
+            ],
+            [
+              -123.59,
+              45.64
+            ],
+            [
+              -123.95,
+              45.76
+            ],
+            [
+              -124.08,
+              45.94
+            ],
+            [
+              -124.08,
+              46.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "santa-aurelia",
+      "properties": {
+        "name": "Santa Aurelia",
+        "category": "city",
+        "status": "fixed-site",
+        "note": "Astoria analogue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.8313,
+          46.188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "willowwick",
+      "properties": {
+        "name": "Willowwick Grove",
+        "category": "city",
+        "status": "proposed-mapped",
+        "note": "Upper Youngs River corridor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.665,
+          46.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "southbank",
+      "properties": {
+        "name": "Southbank",
+        "category": "township",
+        "status": "proposed-mapped",
+        "note": "Separate former mill town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.738,
+          46.065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "blackwood",
+      "properties": {
+        "name": "Blackwood Ridge",
+        "category": "upland",
+        "status": "proposed-mapped",
+        "note": "Ridge reference center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.665,
+          45.905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "witches-wood",
+      "properties": {
+        "name": "Witches' Wood",
+        "category": "protected-forest",
+        "status": "proposed-mapped",
+        "note": "Central forest district"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.642,
+          45.898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fairy-stones",
+      "properties": {
+        "name": "Fairy Stones",
+        "category": "sensitive-cultural-site",
+        "status": "proposed-mapped",
+        "note": "Land title and permissions unresolved"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.635,
+          45.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "silverveil",
+      "properties": {
+        "name": "Silverveil Grove",
+        "category": "sensitive-cultural-site",
+        "status": "proposed-mapped",
+        "note": "Land title and permissions unresolved"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.625,
+          45.898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reservation-overlap",
+      "properties": {
+        "name": "Northwest Ridge Reservation Overlap",
+        "category": "sovereign-area-reference",
+        "status": "proposed-mapped",
+        "note": "Not a legal boundary or government seat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.703,
+          45.938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fernhollow",
+      "properties": {
+        "name": "Fernhollow Country",
+        "category": "rural-district",
+        "status": "proposed-mapped",
+        "note": "Southwest of Blackwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.736,
+          45.867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "south-hills",
+      "properties": {
+        "name": "South Hills",
+        "category": "rural-district",
+        "status": "proposed-mapped",
+        "note": "Farms and estates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.801,
+          45.867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "alderwood-lake",
+      "properties": {
+        "name": "Alderwood Lake",
+        "category": "lake",
+        "status": "proposed-mapped",
+        "note": "Fictional basin; water budget unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.525,
+          45.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mining-belt",
+      "properties": {
+        "name": "Upper Valley Mining District",
+        "category": "mining-district",
+        "status": "proposed-mapped",
+        "note": "Fictional ore geology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.622,
+          45.963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cruise-terminal",
+      "properties": {
+        "name": "Santa Aurelia Ocean Passenger Terminal",
+        "category": "passenger-terminal",
+        "status": "proposed-mapped",
+        "note": "Deep-water berth concept"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.849,
+          46.191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "paddlewheel-landing",
+      "properties": {
+        "name": "Santa Aurelia Paddlewheel Landing",
+        "category": "excursion-landing",
+        "status": "proposed-mapped",
+        "note": "Navigation/draft unverified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.824,
+          46.189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "joint-base",
+      "properties": {
+        "name": "Joint Navy–Coast Guard Base",
+        "category": "joint-military-installation",
+        "status": "proposed-mapped",
+        "note": "Multi-site complex; restricted areas unspecified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.882,
+          46.157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "harbor-boardwalks",
+      "properties": {
+        "name": "Historic Harbor Boardwalks",
+        "category": "heritage-district",
+        "status": "proposed-mapped",
+        "note": "Working public waterfront"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.827,
+          46.187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "northern-coast",
+      "properties": {
+        "name": "Northern Coastal Community Zone",
+        "category": "coastal-community",
+        "status": "proposed-mapped",
+        "note": "Name undecided"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.963,
+          46.115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "southern-coast",
+      "properties": {
+        "name": "Southern Coastal Community Zone",
+        "category": "coastal-community",
+        "status": "proposed-mapped",
+        "note": "Seaside analogue; name undecided"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.927,
+          45.995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fort-district",
+      "properties": {
+        "name": "Historic Fort District",
+        "category": "heritage-district",
+        "status": "real-world-analogue",
+        "note": "Fort Stevens reference, alternate local history"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.966,
+          46.205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "saddle-mountain",
+      "properties": {
+        "name": "Saddle Mountain",
+        "category": "real-landmark",
+        "status": "real-landmark",
+        "note": "Real summit, ~3288 ft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.6852,
+          45.9689
+        ]
+      }
+    }
+  ]
+}
