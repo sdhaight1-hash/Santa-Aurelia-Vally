@@ -171,6 +171,6 @@ function bind(){
  });
  window.addEventListener("hashchange",render);
 }
-window.SantaAtlas={data:()=>data,entries,getEntry,esc,setCrumb,persist,toast,currentView:()=>view,registerView:(name,fn)=>{extraViews[name]=fn;if(location.hash.replace(/^#\\/?/,"").split("/")[0]===name)render();}};
+window.SantaAtlas={data:()=>data,entries,getEntry,esc,setCrumb,persist,toast,currentView:()=>view,registerView:(name,fn)=>{extraViews[name]=fn;if(location.hash.replace("#/","").split("/")[0]===name)render();}};
 bind();render();
 })();
