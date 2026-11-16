@@ -23,13 +23,27 @@ function migrate(d){
  }
  const seed=window.SANTA_GENEALOGY_SEED;
  if(seed&&Number(d.genealogy.seedVersion||0)<seed.version){
-  const knownPeople=new Set(d.genealogy.people.map(p=>p.id));
-  for(const person of seed.people)if(!knownPeople.has(person.id))d.genealogy.people.push(structuredClone(person));
+  const knownPeople=new Map(d.genealogy.people.map(p=>[p.id,p]));
+  for(const person of seed.people){
+   const prior=knownPeople.get(person.id);
+   if(!prior){d.genealogy.people.push(structuredClone(person));continue;}
+   // Upgrade old generated placeholders only; never overwrite names that a user has edited.
+   if(/name undecided|The Elder Valcárcel|Inés \(Indigenous name undecided\)|Catalina de Valcárcel$/.test(prior.name)){
+    prior.name=person.name;prior.bio=person.bio;prior.born=person.born;prior.died=person.died;prior.status=person.status;
+   }
+  }
   const knownRels=new Set(d.genealogy.relations.map(r=>r.id));
   for(const relation of seed.relations)if(!knownRels.has(relation.id))d.genealogy.relations.push(structuredClone(relation));
   if(!Array.isArray(d.genealogy.portraits))d.genealogy.portraits=[];
   const knownPortraits=new Set(d.genealogy.portraits.map(p=>p.id));
-  for(const portrait of seed.portraits)if(!knownPortraits.has(portrait.id))d.genealogy.portraits.push(structuredClone(portrait));
+  for(const portrait of seed.portraits){
+   if(!knownPortraits.has(portrait.id)){d.genealogy.portraits.push(structuredClone(portrait));continue;}
+   const existing=d.genealogy.portraits.find(p=>p.id===portrait.id);
+   if(existing?.id==="painting-family"){
+    existing.subjects=[...new Set([...(existing.subjects||[]),...portrait.subjects])];
+    existing.depictedChildren=9;
+   }
+  }
   d.genealogy.seedVersion=seed.version;
   A.persist();
  }
